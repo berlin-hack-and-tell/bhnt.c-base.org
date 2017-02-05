@@ -188,10 +188,6 @@
 
 2012-01-31 | 18:30 | [Meetup Event]() | [Photos]() | [@c-base](https://www.c-base.org)
 
-## Special: API hackathon Berlin powered by Geekli.st
-
-2011-12-17 | 18:30 | [Meetup Event]() | [Photos]() | [@c-base](https://www.c-base.org)
-
 ## Berlin Hack and Tell \#7
 
 2011-12-13 | 18:30 | [Meetup Event]() | [Photos]() | [@c-base](https://www.c-base.org)
