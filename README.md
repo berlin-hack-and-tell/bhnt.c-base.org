@@ -194,7 +194,7 @@
 
 ## Berlin Hack and Tell \#6 - GDD Edition
 
-2011-11-17 | 18:30 | [Meetup Event]() | [Photos]() | [@c-base](https://www.c-base.org)
+2011-11-17 | 19:00 | [Meetup Event]() | [Photos]() | [@c-base](https://www.c-base.org)
 
 ## Berlin Hack and Tell \#5
 
