@@ -25,7 +25,7 @@
 4. Konami Code Barrel Roll by androidflo - **Hack of the month**
 5. Jekyllify / Survival Manual Update by Ligi
 6. tentacle by Glen
-7. inboxSync by webflo
+7. [inboxSync](https://github.com/webflo/inboxSync) by webflo
 8. Brockman Media CCC API parser by Tobi
 
 ## Berlin Hack and Tell \#47 - October spooks!
