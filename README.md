@@ -30,15 +30,15 @@
 
 ## Berlin Hack and Tell \#47 - October spooks!
 
-2016-10-25 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/234990104/) | Photos | [@c-base](https://www.c-base.org)
+2016-10-25 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/234990104/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/27374772/) | [@c-base](https://www.c-base.org)
 
 ## Berlin Hack and Tell \#46 - Autumn Calling
 
-2016-09-27 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/234194299/) | Photos | [@c-base](https://www.c-base.org)
+2016-09-27 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/234194299/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/27301741/) | [@c-base](https://www.c-base.org)
 
 ## Berlin Hack and Tell \#45 - \#summerhackertime
 
-2016-05-31 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/231484893/) | Photos | [@c-base](https://www.c-base.org)
+2016-05-31 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/231484893/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/27012144/) | [@c-base](https://www.c-base.org)
 
 ## Berlin Hack and Tell \#44 - Springtime hacking
 
@@ -54,7 +54,7 @@
 
 ## Berlin Hack and Tell \#41 - start(2016)
 
-2016-01-26 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/228211246/) | Photos | [@c-base](https://www.c-base.org)
+2016-01-26 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/228211246/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/26696876/) | [@c-base](https://www.c-base.org)
 
 * [Zappa](https://github.com/Miserlou/Zappa) by [Miserlou](https://github.com/Miserlou)
 * [Deepstream Tanks](https://github.com/deepstreamIO/ds-tutorial-tanks) by Yasser
@@ -67,7 +67,7 @@
 
 ## Berlin Hack and Tell \#39 - Hacktoberfest
 
-2015-10-27 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/226207253/) | Photos | [@c-base](https://www.c-base.org)
+2015-10-27 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/226207253/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/26510439/) | [@c-base](https://www.c-base.org)
 
 ## Berlin Hack and Tell \#38 - School's back on!
 
