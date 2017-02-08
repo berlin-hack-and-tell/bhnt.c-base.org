@@ -1,6 +1,6 @@
 # Berlin Hack and Tell
 
-[Meetup](https://www.meetup.com/de-DE/Berlin-Hack-and-Tell)
+Last Tuesday on each(~) month | [Meetup Page](https://www.meetup.com/de-DE/Berlin-Hack-and-Tell) | [@c-base](https://www.c-base.org)
 
 ## Berlin Hack and Tell \#49 - Hello 2017!
 
