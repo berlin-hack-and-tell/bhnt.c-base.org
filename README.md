@@ -117,7 +117,7 @@ This event was mislabeled \#46 on Meetup.
 * freesound by Ivan
 * [AJShA](https://github.com/ligi/AJSHA) by [ligi](http://ligi.de)
 * PhotoTracker by Michael Kreil
-* QTrek (QBasic game) by Phillip (Hack of the month!)
+* QTrek (QBasic game) by [Philipp](https://stratha.us) - **Hack of the month**
 * Rainbow Slice by Simon
 
 ## Berlin Hack and Tell \#29 - Back in hack!
