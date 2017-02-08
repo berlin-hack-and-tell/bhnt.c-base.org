@@ -221,9 +221,9 @@
 
 2011-06-07 | 19:00 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/19514831/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/1799851/) | [@c-base](https://www.c-base.org)
 
-1. Stereoscopic Movies on tablets and smartphones using the open source trueColor3D by Thomas Kumlehn - [for HiRes smartphones](http://openMy3D.blogspot.com), [for tablets and any other LCD](http://openKMQ.blogspot.com), [Glasses-free 3D on iPad](http://openGRilli3D.blogspot.com)
-2. [EdgeAndRun](http://www.youtube.com/watch?v=im-qKFEZdYQ) "jump and run on edges of camera image" by Tobias Sasse
-3. [tabledo](http://tabledo.com/): "tabledo is an easy to use to do management software." by by Martin Güther and Manuel Loistl - [GitHub](https://github.com/tabledo) [Twitter](http://twitter.com/tabledocom)
-4. Asynch, Riaks: "Asynch: scala lib for consuming REST web services. Riaks: scala lib for interacting with Riak (uses asynch)" by Piyush Purang - [GitHub](https://github.com/ppurang)
-5. [GriCal](https://grical.org): "The Wikipedia for Events" by Ivan F. Villanueva B., Sven Guckes
-6. [Memoryous](http://memoryous.com): machine learning test grading over email (Not yet live) - [Project](http://nlp.fi.muni.cz/projekty/gensim/) [GitHub](https://github.com/quesada/gensim)
+1. Stereoscopic Movies on tablets and smartphones using the open source trueColor3D ([for HiRes smartphones](http://openMy3D.blogspot.com), [for tablets and any other LCD](http://openKMQ.blogspot.com), [Glasses-free 3D on iPad](http://openGRilli3D.blogspot.com)) by Thomas Kumlehn
+2. [EdgeAndRun - jump and run on edges of camera image](http://www.youtube.com/watch?v=im-qKFEZdYQ) by Tobias Sasse
+3. [tabledo - an easy to use to do management software](http://tabledo.com/) ([GitHub](https://github.com/tabledo), [Twitter](http://twitter.com/tabledocom)) by Martin Güther and Manuel Loistl
+4. [asynch - Scala lib for consuming REST web services](https://github.com/ppurang/asynch), riaks - Scala lib for interacting with Riak (uses asynch) by [Piyush Purang](https://github.com/ppurang)
+5. [GriCal - The Wikipedia for Events](https://grical.org) by Ivan Fernando Villanueva Barrio and [Sven](https://guckes.net)
+6. [Memoryous - Machine learning test grading over email (Not yet live)](http://memoryous.com) ([Project](http://nlp.fi.muni.cz/projekty/gensim/), [GitHub](https://github.com/quesada/gensim)) by ???
