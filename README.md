@@ -59,7 +59,7 @@
 * [Zappa](https://github.com/Miserlou/Zappa) by [Miserlou](https://github.com/Miserlou)
 * [Deepstream Tanks](https://github.com/deepstreamIO/ds-tutorial-tanks) by Yasser
 * [Kotlin TwitterBot](https://github.com/ligi/TwitterBot) by [ligi](http://ligi.de/)
-* And others..
+* ... and others
 
 ## Berlin Hack and Tell \#40 - LAST MEETUP FOR 2015
 
