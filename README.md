@@ -105,6 +105,15 @@
 
 2014-08-26 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/181266562/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/24105492/) | [@c-base](https://www.c-base.org)
 
+Deface by Chris
+Memory hacking / ASLR by Sebastian
+Bitcoin millionaire by Michael
+freesound by Ivan
+[AJShA](https://github.com/ligi/AJSHA) by [ligi](http://ligi.de)
+PhotoTracker by Michael Kreil
+QTrek (QBasic game) by Phillip (Hack of the month!)
+Rainbow Slice by Simon
+
 ## Berlin Hack and Tell \#29 - Back in hack!
 
 2014-04-29 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/178757202/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/21582622/) | [@c-base](https://www.c-base.org)
