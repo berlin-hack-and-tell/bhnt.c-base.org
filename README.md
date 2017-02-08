@@ -23,7 +23,7 @@
 2. httpfuse by Sebastian
 3. [Hackerfleet OS](https://github.com/Hackerfleet/hfos) by [riot](https://github.com/ri0t)
 4. Konami Code Barrel Roll by androidflo - **Hack of the month**
-5. [Jekyllify](https://github.com/survivalmanual/jekllIfy) / [Survival Manual](https://github.com/ligi/SurvivalManual) Update by [Ligi](http://ligi.de)
+5. [Jekyllify](https://github.com/survivalmanual/jekllIfy) / [Survival Manual](https://github.com/ligi/SurvivalManual) Update by [ligi](http://ligi.de)
 6. tentacle by Glen
 7. [inboxSync](https://github.com/webflo/inboxSync) by webflo
 8. [Brockman Media CCC API parser](https://github.com/johnjohndoe/Brockman) by [Tobi](github.com/johnjohndoe)
