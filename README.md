@@ -48,6 +48,10 @@
 
 2016-03-29 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/229872414/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/26852379/) | [@c-base](https://www.c-base.org)
 
+* [Counter - reimplemented](https://github.com/k-nut/counter-reimplemented) by [Knut](https://k-nut.eu/)
+* [prs - Tool for parallel reversal schedules](https://github.com/vog/prs) by [Volker](https://njh.eu) - **Hack of the month**
+* ... and others
+
 ## Berlin Hack and Tell \#42 - Hacker's Guide to the Galaxy
 
 2016-02-23 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/228876155/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/26766182/) | [@c-base](https://www.c-base.org)
