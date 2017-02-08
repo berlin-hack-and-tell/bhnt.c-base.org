@@ -56,6 +56,11 @@
 
 2016-01-26 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/228211246/) | Photos | [@c-base](https://www.c-base.org)
 
+* [Zappa](https://github.com/Miserlou/Zappa) by [Miserlou](https://github.com/Miserlou)
+* [Deepstream Tanks](https://github.com/deepstreamIO/ds-tutorial-tanks) by Yasser
+* [Kotlin TwitterBot](https://github.com/ligi/TwitterBot) by [ligi](http://ligi.de/)
+* And others..
+
 ## Berlin Hack and Tell \#40 - LAST MEETUP FOR 2015
 
 2015-11-24 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/226945214/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/26573373/) | [@c-base](https://www.c-base.org)
