@@ -32,6 +32,8 @@
 
 2016-10-25 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/234990104/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/27374772/) | [@c-base](https://www.c-base.org)
 
+This event was mislabeled \#46 on Meetup.
+
 ## Berlin Hack and Tell \#46 - Autumn Calling
 
 2016-09-27 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/234194299/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/27301741/) | [@c-base](https://www.c-base.org)
