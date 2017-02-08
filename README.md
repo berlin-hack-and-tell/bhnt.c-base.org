@@ -6,27 +6,27 @@
 
 2017-01-31 | 18:30 | [Meetup Event](https://www.meetup.com/de-DE/Berlin-Hack-and-Tell/events/237216346) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/27587598) | [@c-base](https://www.c-base.org)
 
-1. midi-2-gfx by Daniel
-2. WorldBrain by Oliver
-3. [Kottpd - REST framework written in pure Kotlin](https://github.com/gimlet2/kottpd) by [Andrey](https://github.com/gimlet2)
-4. [Hosh, the honk shell](https://sourceforge.net/projects/hosh/) by [Volker](https://njh.eu)
-5. [Mr.Boom converted from DOS ASM using asm2c](https://github.com/libretro/mrboom-libretro) by Franck
-6. [Scraping Twitter](token.dsst.io) by Michael
-7. [supercalifragilisticexpialido.js](https://github.com/DrMurx/supercalifragilisticexpialido.js) by Jan - **Hack of the month**
-8. [Graph Dracula](https://www.graphdracula.net/) by [Philipp](https://stratha.us)
+* midi-2-gfx by Daniel
+* WorldBrain by Oliver
+* [Kottpd - REST framework written in pure Kotlin](https://github.com/gimlet2/kottpd) by [Andrey](https://github.com/gimlet2)
+* [Hosh, the honk shell](https://sourceforge.net/projects/hosh/) by [Volker](https://njh.eu)
+* [Mr.Boom converted from DOS ASM using asm2c](https://github.com/libretro/mrboom-libretro) by Franck
+* [Scraping Twitter](token.dsst.io) by Michael
+* [supercalifragilisticexpialido.js](https://github.com/DrMurx/supercalifragilisticexpialido.js) by Jan - **Hack of the month**
+* [Graph Dracula](https://www.graphdracula.net/) by [Philipp](https://stratha.us)
 
 ## Berlin Hack and Tell \#48 - bye forever, 2016
 
 2016-11-29 | 18:30 | [Meetup Event](https://www.meetup.com/de-DE/Berlin-Hack-and-Tell/events/235819879) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/27457006) | [@c-base](https://www.c-base.org)
 
-1. [OpenSSH VPN patch](https://marc.info/?l=openssh-unix-dev&m=147083231028273) by [Volker](https://njh.eu)
-2. httpfuse by Sebastian
-3. [Hackerfleet OS](https://github.com/Hackerfleet/hfos) by [riot](https://github.com/ri0t)
-4. Konami Code Barrel Roll by androidflo - **Hack of the month**
-5. [Jekyllify](https://github.com/survivalmanual/jekllIfy) / [Survival Manual](https://github.com/ligi/SurvivalManual) Update by [ligi](http://ligi.de)
-6. tentacle by Glen
-7. [inboxSync](https://github.com/webflo/inboxSync) by webflo
-8. [Brockman Media CCC API parser](https://github.com/johnjohndoe/Brockman) by [Tobi](github.com/johnjohndoe)
+* [OpenSSH VPN patch](https://marc.info/?l=openssh-unix-dev&m=147083231028273) by [Volker](https://njh.eu)
+* httpfuse by Sebastian
+* [Hackerfleet OS](https://github.com/Hackerfleet/hfos) by [riot](https://github.com/ri0t)
+* Konami Code Barrel Roll by androidflo - **Hack of the month**
+* [Jekyllify](https://github.com/survivalmanual/jekllIfy) / [Survival Manual](https://github.com/ligi/SurvivalManual) Update by [ligi](http://ligi.de)
+* tentacle by Glen
+* [inboxSync](https://github.com/webflo/inboxSync) by webflo
+* [Brockman Media CCC API parser](https://github.com/johnjohndoe/Brockman) by [Tobi](github.com/johnjohndoe)
 
 ## Berlin Hack and Tell \#47 - October spooks!
 
@@ -111,14 +111,14 @@ This event was mislabeled \#46 on Meetup.
 
 2014-08-26 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/181266562/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/24105492/) | [@c-base](https://www.c-base.org)
 
-Deface by Chris
-Memory hacking / ASLR by Sebastian
-Bitcoin millionaire by Michael
-freesound by Ivan
-[AJShA](https://github.com/ligi/AJSHA) by [ligi](http://ligi.de)
-PhotoTracker by Michael Kreil
-QTrek (QBasic game) by Phillip (Hack of the month!)
-Rainbow Slice by Simon
+* Deface by Chris
+* Memory hacking / ASLR by Sebastian
+* Bitcoin millionaire by Michael
+* freesound by Ivan
+* [AJShA](https://github.com/ligi/AJSHA) by [ligi](http://ligi.de)
+* PhotoTracker by Michael Kreil
+* QTrek (QBasic game) by Phillip (Hack of the month!)
+* Rainbow Slice by Simon
 
 ## Berlin Hack and Tell \#29 - Back in hack!
 
@@ -236,9 +236,9 @@ Rainbow Slice by Simon
 
 2011-06-07 | 19:00 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/19514831/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/1799851/) | [@c-base](https://www.c-base.org)
 
-1. Stereoscopic Movies on tablets and smartphones using the open source trueColor3D ([for HiRes smartphones](http://openMy3D.blogspot.com), [for tablets and any other LCD](http://openKMQ.blogspot.com), [Glasses-free 3D on iPad](http://openGRilli3D.blogspot.com)) by Thomas Kumlehn
-2. [EdgeAndRun - jump and run on edges of camera image](http://www.youtube.com/watch?v=im-qKFEZdYQ) by Tobias Sasse
-3. [tabledo - an easy to use to do management software](http://tabledo.com/) ([GitHub](https://github.com/tabledo), [Twitter](http://twitter.com/tabledocom)) by Martin Güther and Manuel Loistl
-4. [asynch - Scala lib for consuming REST web services](https://github.com/ppurang/asynch), riaks - Scala lib for interacting with Riak (uses asynch) by [Piyush Purang](https://github.com/ppurang)
-5. [GriCal - The Wikipedia for Events](https://grical.org) by Ivan Fernando Villanueva Barrio and [Sven](https://guckes.net)
-6. [Memoryous - Machine learning test grading over email (Not yet live)](http://memoryous.com) ([Project](http://nlp.fi.muni.cz/projekty/gensim/), [GitHub](https://github.com/quesada/gensim)) by ???
+* Stereoscopic Movies on tablets and smartphones using the open source trueColor3D ([for HiRes smartphones](http://openMy3D.blogspot.com), [for tablets and any other LCD](http://openKMQ.blogspot.com), [Glasses-free 3D on iPad](http://openGRilli3D.blogspot.com)) by Thomas Kumlehn
+* [EdgeAndRun - jump and run on edges of camera image](http://www.youtube.com/watch?v=im-qKFEZdYQ) by Tobias Sasse
+* [tabledo - an easy to use to do management software](http://tabledo.com/) ([GitHub](https://github.com/tabledo), [Twitter](http://twitter.com/tabledocom)) by Martin Güther and Manuel Loistl
+* [asynch - Scala lib for consuming REST web services](https://github.com/ppurang/asynch), riaks - Scala lib for interacting with Riak (uses asynch) by [Piyush Purang](https://github.com/ppurang)
+* [GriCal - The Wikipedia for Events](https://grical.org) by Ivan Fernando Villanueva Barrio and [Sven](https://guckes.net)
+* [Memoryous - Machine learning test grading over email (Not yet live)](http://memoryous.com) ([Project](http://nlp.fi.muni.cz/projekty/gensim/), [GitHub](https://github.com/quesada/gensim)) by ???
