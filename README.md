@@ -8,7 +8,7 @@
 
 1. midi-2-gfx by Daniel
 2. WorldBrain by Oliver
-3. Kotlin server by Andrei - [kottpd](https://github.com/gimlet2/kottpd)
+3. [Kottpd - REST framework written in pure Kotlin](https://github.com/gimlet2/kottpd) by [Andrey](https://github.com/gimlet2)
 4. [Hosh, the honk shell](https://sourceforge.net/projects/hosh/) by [Volker](https://njh.eu)
 5. [Mr.Boom converted from DOS ASM using asm2c](https://github.com/libretro/mrboom-libretro) by Franck
 6. [Scraping Twitter](token.dsst.io) by Michael
