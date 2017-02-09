@@ -26,7 +26,7 @@ Last Tuesday on each(~) month | [Meetup Page](https://www.meetup.com/de-DE/Berli
 * [Jekyllify](https://github.com/survivalmanual/jekllIfy) / [Survival Manual](https://github.com/ligi/SurvivalManual) Update by [ligi](http://ligi.de)
 * tentacle by Glen
 * [inboxSync](https://github.com/webflo/inboxSync) by webflo
-* [Brockman Media CCC API parser](https://github.com/johnjohndoe/Brockman) by [Tobi](github.com/johnjohndoe)
+* [Brockman - Parser for streaming media API of the CCC](https://github.com/johnjohndoe/Brockman) by [Tobi](https://github.com/johnjohndoe)
 
 ## Berlin Hack and Tell \#47 - October spooks!
 
