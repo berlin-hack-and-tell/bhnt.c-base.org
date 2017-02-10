@@ -117,7 +117,7 @@ This event was mislabeled \#46 on Meetup.
 * freesound by Ivan
 * [AJShA](https://github.com/ligi/AJSHA) by [ligi](http://ligi.de)
 * PhotoTracker by Michael Kreil
-* QTrek (QBasic game) by [Philipp](https://stratha.us) - **Hack of the month**
+* QTrek - QBasic game by [Philipp](https://stratha.us) - **Hack of the month**
 * Rainbow Slice by Simon
 
 ## Berlin Hack and Tell \#29 - Back in hack!
@@ -173,14 +173,14 @@ This event was mislabeled \#46 on Meetup.
 2012-12-11 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/94195282/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/12140712/) | [@c-base](https://www.c-base.org)
 
 * Bomberman multiplayer 3d by Stefan
-* [sq.rotogame.com (rotating puzzle game in JS/node/socket io)](https://github.com/feklee/rotogamesq) by [Felix](http://twitter.com/feklee)
-* [NoFlo (JavaScript implementation of Flow-Based Programming)](https://github.com/noflo/noflo) by [Henri](https://github.com/bergie)
+* [sq.rotogame.com - rotating puzzle game in JS/node/socket io](https://github.com/feklee/rotogamesq) by [Felix](http://twitter.com/feklee)
+* [NoFlo - JavaScript implementation of Flow-Based Programming](https://github.com/noflo/noflo) by [Henri](https://github.com/bergie)
 * radvisor.net (Resident Advisor for mobile) by Antonio
 * Location Sharing (via websockets) by Tim
 * [Arduino/GPRS battery voltage monitor](https://github.com/uwekamper/BatteryMonitor/) by [Uwe](http://uwekamper.de)
 * [Chirp Plant Watering Alarm](https://wemakethings.net/chirp/) by [Albert](https://twitter.com/miceuz)
 * codebrowser - web-based code browser by Oliver
-* "epos" embedded persistent object store (think NoSQL) in Go by Andreas
+* epos - embedded persistent object store (think NoSQL) in Go by Andreas
 * [Trelloviz - cumulative flow diagrams for Trello](http://nitram509.github.io/trelloviz/) [(Slides)](http://nitram509.github.io/preZENtations/trelloviz-introduction/index.html) by [Martin](https://twitter.com/nitram509)
 * AntMe! programming learning game by Patric
 
