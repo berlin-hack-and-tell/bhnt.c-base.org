@@ -208,7 +208,7 @@ This event was mislabeled \#46 on Meetup.
 * [Board - Online scrapbook and mood board for designers](http://board.creonomy.com/) by [Corrado](https://twitter.com/creonomy)
 * Bookworm Berlin by Bora
 * ChallengIN by Corado
-* [gitpoll - App for voting on GitHub issues](https://github.com/gitrun/poll), [gitchat - Web chat build on top of GitHub Issues API](https://github.com/marynaaleksandrova/gitchat), [gitcommunities - Google Groups alternative with content hosted on GitHub](https://github.com/communities/gitcommunities.com) by [Anton](http://podviaznikov.com)
+* [gitpoll - App for voting on GitHub issues](https://github.com/gitrun/poll) / [gitchat - Web chat build on top of GitHub Issues API](https://github.com/marynaaleksandrova/gitchat) / [gitcommunities - Google Groups alternative with content hosted on GitHub](https://github.com/communities/gitcommunities.com) by [Anton](http://podviaznikov.com)
 * HN Filter by Joel
 * Maps Hack 3000 by Andreas
 * [PassionIndex - visualize your contentment at work](http://www.passionindex.me) by [Matt](https://twitter.com/tosa)
