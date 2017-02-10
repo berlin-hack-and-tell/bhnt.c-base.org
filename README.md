@@ -210,10 +210,10 @@ This event was mislabeled \#46 on Meetup.
 * [Jecho - Debugging mobile development](https://github.com/claudioc/jecho) by [Claudio Cicali](https://twitter.com/caludio)
 * [LocalAudioVisualizer - Visualize a local file](http://cbrandolino.github.io/local-audio-visualizer) by [Claudio Brandolino](https://twitter.com/cbrandolino)
 * [mashtube - A video mashup tool](https://github.com/grandbora/mashtube) by [Bora](https://twitter.com/grandbora)
-* [Memoryous - Flash cards for programming languages](https://twitter.com/memoryous) by [José](https://twitter.com/quesada)
-* stenographer node.js module for speech2text recognition using Google's Chrome API by Max 
+* [Memoryous - Flash cards for programming languages](https://twitter.com/memoryous) by [Jose](https://github.com/Quesada)
+* stenographer node.js module for speech2text recognition using Google's Chrome API by Max
 * [Translatation dictionary](http://jsfiddle.net/karlb/PxfrJ/embedded/result) by [Karl](https://twitter.com/karlb)
-* Tuplet - Sharing music with friends by Keith 
+* Tuplet - Sharing music with friends by Keith
 
 ## Berlin Hack and Tell \#14 - Trip to Campus Party
 
@@ -276,4 +276,4 @@ This event was mislabeled \#46 on Meetup.
 * [tabledo - an easy to use to do management software](http://tabledo.com/) ([GitHub](https://github.com/tabledo), [Twitter](http://twitter.com/tabledocom)) by Martin Güther and Manuel Loistl
 * [asynch - Scala lib for consuming REST web services](https://github.com/ppurang/asynch), riaks - Scala lib for interacting with Riak (uses asynch) by [Piyush Purang](https://github.com/ppurang)
 * [GriCal - The Wikipedia for Events](https://grical.org) by Ivan Fernando Villanueva Barrio and [Sven](https://guckes.net)
-* [Memoryous - Machine learning test grading over email (Not yet live)](http://memoryous.com) ([Project](http://nlp.fi.muni.cz/projekty/gensim/), [GitHub](https://github.com/quesada/gensim)) by ???
+* [Memoryous - Machine learning test grading over email (Not yet live)](http://memoryous.com) ([Project](http://nlp.fi.muni.cz/projekty/gensim/), [GitHub](https://github.com/quesada/gensim)) by [Jose](https://github.com/Quesada)
