@@ -174,7 +174,7 @@ This event was mislabeled \#46 on Meetup.
 
 * Bomberman multiplayer 3d by Stefan
 * [sq.rotogame.com - rotating puzzle game in JS/node/socket io](https://github.com/feklee/rotogamesq) by [Felix](http://twitter.com/feklee)
-* [NoFlo - JavaScript implementation of Flow-Based Programming](https://github.com/noflo/noflo) by [Henri](https://github.com/bergie)
+* [NoFlo - JavaScript implementation of Flow-Based Programming](https://noflojs.org) by [Henri](https://github.com/bergie)
 * radvisor.net (Resident Advisor for mobile) by Antonio
 * Location Sharing (via websockets) by Tim
 * [Arduino/GPRS battery voltage monitor](https://github.com/uwekamper/BatteryMonitor/) by [Uwe](http://uwekamper.de)
