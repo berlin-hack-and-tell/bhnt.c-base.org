@@ -203,6 +203,17 @@ This event was mislabeled \#46 on Meetup.
 
 2012-10-02 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/83989092/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/11033082/) | [@c-base](https://www.c-base.org)
 
+* BundesGIT - All German laws on GitHub by Stefan - **Hack of the month**
+* [Activitylog - Log your doings](https://github.com/akrennmair/activitylog) by [Andreas](https://twitter.com/der_ak)
+* [Camvas Photobooth - HTML5 photo tool to photograph yourself in the Browser](http://cbrandolino.github.io/camvas_photobooth) by [Claudio Brandolino](https://twitter.com/cbrandolino)
+* [Jecho - Debugging mobile development](https://github.com/claudioc/jecho) by [Claudio Cicali](https://twitter.com/caludio)
+* [LocalAudioVisualizer - Visualize a local file](http://cbrandolino.github.io/local-audio-visualizer) by [Claudio Brandolino](https://twitter.com/cbrandolino)
+* [mashtube - A video mashup tool](https://github.com/grandbora/mashtube) by [Bora](https://twitter.com/grandbora)
+* [Memoryous - Flash cards for programming languages](https://twitter.com/memoryous) by [José](https://twitter.com/quesada)
+* stenographer node.js module for speech2text recognition using Google's Chrome API by Max 
+* [Translatation dictionary](http://jsfiddle.net/karlb/PxfrJ/embedded/result) by [Karl](https://twitter.com/karlb)
+* Tuplet - Sharing music with friends by Keith 
+
 ## Berlin Hack and Tell \#14 - Trip to Campus Party
 
 2012-08-24 | 14:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/77515772/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/10368772/) | [@campus-part](http://www.campus-party.eu/2012/index.html)
