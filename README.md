@@ -184,6 +184,16 @@ This event was mislabeled \#46 on Meetup.
 
 2013-01-29 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/100995462/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/12862392/) | [@c-base](https://www.c-base.org)
 
+* [Point paths Mandelbrot](https://github.com/lindes/point_paths) by [David](https://twitter.com/lindes) - **Hack of the month**
+* BBBike Berlin app by Dennis
+* [Cerebrum](https://github.com/jaseg/cerebrum) by Jaseg
+* Chordroid by Sam
+* Hacking our own Brausepulver by Jens+?
+* [Piano Pedal connector](http://www.warski.org/blog/2012/08/connecting-a-piano-pedal-to-a-computer) by [Warski](https://twitter.com/adamwarski)
+* [Processing workshop tool](https://github.com/hamoid/Processing-Workshop-Tool) by [Abe](https://twitter.com/fun_pro)
+* SlipSlop by Emily
+* Two make a pair by Tim
+
 ## Berlin Hack and Tell \#17 - (Almost) Christmas Party
 
 2012-12-11 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/94195282/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/12140712/) | [@c-base](https://www.c-base.org)
