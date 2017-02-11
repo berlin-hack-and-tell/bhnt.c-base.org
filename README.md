@@ -113,13 +113,13 @@ This event was mislabeled \#46 on Meetup.
 2014-08-26 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/181266562/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/24105492/) | [@c-base](https://www.c-base.org)
 
 * Deface by Chris
-* Memory hacking / ASLR by Sebastian
+* [Memory hacking / ASLR](https://github.com/coolwanglu/scanmem_/pull/25) by [Sebastian](https://github.com/sriemer)
 * Bitcoin millionaire by Michael
 * freesound by Ivan
 * [AJShA](https://github.com/ligi/AJSHA) by [ligi](http://ligi.de)
 * PhotoTracker by Michael Kreil
-* QTrek - QBasic game by [Philipp](https://stratha.us) - **Hack of the month**
-* Rainbow Slice by Simon
+* [QTrek](https://github.com/strathausen/qtrek.bas) - QBasic game by [Philipp](https://stratha.us) - **Hack of the month**
+* [Rainbow Slice](https://github.com/SimonHFrost/rainbow-slice) by [Simon](https://twitter.com/simonhfrost)
 
 ## Berlin Hack and Tell \#29 - Back in hack!
 
