@@ -159,7 +159,7 @@ This event was mislabeled \#46 on Meetup.
 * composer.io by Callum
 * officegen by Ziv
 * Sonar beach ball by Amélie
-* [Bitcoinproof – Forgery-proof timestamping for your data](http://vog.github.io/bitcoinproof) by [Volker](https://njh.eu)
+* [Bitcoinproof – Forgery-proof timestamping for your data](https://vog.github.io/bitcoinproof) by [Volker](https://njh.eu)
 * [Consumption Yoda](https://github.com/uwekamper/energyhack) by [Uwe](https://twitter.com/little_endian)
 * Chocolate Chomp by Timwi
 * [Evergreen pitch](http://www.evr.gr) by [Joel](https://twitter.com/fractastical)
