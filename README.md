@@ -56,6 +56,15 @@ This event was mislabeled \#46 on Meetup.
 
 2016-04-26 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/230565665/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/26923646/) | [@c-base](https://www.c-base.org)
 
+* [JarYard](http://jaryard.com) by Sebastian
+* [Virtual Pet](http://www.ticalc.org/archives/files/fileinfo/179/17999.html) by [Alan](https://twitter.com/alanhamlett) - **Hack of the month**
+* Undercontrol.io by Diego & Rodolfo
+* [ScamChecker](https://github.com/embrilliant/scam-checker) by [Emily](https://twitter.com/emilywudigital)
+* [FlightStats](https://github.com/dkundel/flightstats) by [Dominik](https://twitter.com/dkundel)
+* [Static Joomla](https://github.com/vog/staticjoomla) by [Volker](https://njh.eu)
+* [jsfs](https://github.com/ipfs/js-ipfs) by [Juan](https://twitter.com/juanbenet)
+* Bitcoin - Psycho median with trailing stop by Jan
+
 ## Berlin Hack and Tell \#43 - Easter Heggs
 
 2016-03-29 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/229872414/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/26852379/) | [@c-base](https://www.c-base.org)
