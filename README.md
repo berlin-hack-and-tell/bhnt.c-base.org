@@ -61,9 +61,9 @@ This event was mislabeled \#46 on Meetup.
 * Undercontrol.io by Diego & Rodolfo
 * [ScamChecker](https://github.com/embrilliant/scam-checker) by [Emily](https://twitter.com/emilywudigital)
 * [FlightStats](https://github.com/dkundel/flightstats) by [Dominik](https://twitter.com/dkundel)
-* [Static Joomla](https://github.com/vog/staticjoomla) by Volker
+* [Static Joomla](https://github.com/vog/staticjoomla) by [Volker](https://njh.eu)
 * [jsfs](https://github.com/ipfs/js-ipfs) by [Juan](https://twitter.com/juanbenet)
-* Bitcoin: Psycho median with trailing stop by Jan
+* Bitcoin - Psycho median with trailing stop by Jan
 
 ## Berlin Hack and Tell \#43 - Easter Heggs
 
