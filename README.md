@@ -91,6 +91,14 @@ This event was mislabeled \#46 on Meetup.
 
 2015-11-24 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/226945214/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/26573373/) | [@c-base](https://www.c-base.org)
 
+* Hack&Tell Timer Reborn by Uwe
+* The Merchant by Wolfram
+* [Unisport](https://github.com/k-nut/unisport) by [Knut](https://twitter.com/notknut)
+* [Fire Mind by Zach](https://www.youtube.com/channel/UCZgkyr3L9eiXNvtA7fYXVTw) - **Hack of the month**
+* WG Hunter by Flo
+* Super Scanner 2000 Deluxe by Volker
+* Fiber Optic Chandelier by Celine
+
 ## Berlin Hack and Tell \#39 - Hacktoberfest
 
 2015-10-27 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/226207253/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/26510439/) | [@c-base](https://www.c-base.org)
