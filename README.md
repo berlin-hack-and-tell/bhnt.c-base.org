@@ -94,9 +94,9 @@ This event was mislabeled \#46 on Meetup.
 * Hack&Tell Timer Reborn by Uwe
 * The Merchant by Wolfram
 * [Unisport](https://github.com/k-nut/unisport) by [Knut](https://twitter.com/notknut)
-* [Fire Mind by Zach](https://www.youtube.com/channel/UCZgkyr3L9eiXNvtA7fYXVTw) - **Hack of the month**
+* [Fire Mind](https://www.youtube.com/channel/UCZgkyr3L9eiXNvtA7fYXVTw) by Zach - **Hack of the month**
 * WG Hunter by Flo
-* Super Scanner 2000 Deluxe by Volker
+* Super Scanner 2000 Deluxe by  [Volker](https://njh.eu)
 * Fiber Optic Chandelier by Celine
 
 ## Berlin Hack and Tell \#39 - Hacktoberfest
