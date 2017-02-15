@@ -136,7 +136,7 @@ This event was mislabeled \#46 on Meetup.
 * [Kicker slow motion](https://github.com/bashtian/SlowMoKicker) by Sebastian
 * [Touchhockey](https://github.com/jturcotte/touchockey) by Jocelyn - **Hack of the month**
 * Airbucks by Marcus
-* M cross environment by Volker
+* [MXE - M cross environment](http://mxe.cc) by [Volker](https://njh.eu)
 
 ## Berlin Hack and Tell \#31 - REBOOT
 
