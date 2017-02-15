@@ -131,6 +131,13 @@ This event was mislabeled \#46 on Meetup.
 
 2015-02-24 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/220559809/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/25939034/) | [@c-base](https://www.c-base.org)
 
+* [Inception](https://github.com/tgalal/inception) by [Tarek](https://twitter.com/tgalal)
+* Digital PA by Marcos
+* [Kicker slow motion](https://github.com/bashtian/SlowMoKicker) by Sebastian
+* [Touchhockey](https://github.com/jturcotte/touchockey) by Jocelyn - **Hack of the month**
+* Airbucks by Marcus
+* M cross environment by Volker
+
 ## Berlin Hack and Tell \#31 - REBOOT
 
 2015-01-27 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/219957473/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/25877388/) | [@c-base](https://www.c-base.org)
