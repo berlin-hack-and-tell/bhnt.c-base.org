@@ -107,6 +107,16 @@ This event was mislabeled \#46 on Meetup.
 
 2015-09-29 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/224606314/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/26444116/) | [@c-base](https://www.c-base.org)
 
+* [Kid-O](https://github.com/vanesa/kid-o) by [Vanesa](https://twitter.com/vanesacodes) - **Hack of the month**
+* [Volontariat](https://github.com/volontariat/voluntary_ranking) by Matthias
+* WorldBrain by Oliver
+* [Daily Stars](https://github.com/rollbrettler/daily-stars) by Tim
+* tf2Movies by Philip
+* Weye Human Rights Videos by Tank
+* Netzradar by Michael
+* WeatherApp by Denard
+
+
 ## Berlin Hack and Tell \#37 - July Andrews
 
 2015-07-28 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/224143674/) | Photos | [@c-base](https://www.c-base.org)
