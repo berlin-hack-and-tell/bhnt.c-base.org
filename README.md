@@ -81,7 +81,7 @@ This event was mislabeled \#46 on Meetup.
 
 2016-01-26 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/228211246/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/26696876/) | [@c-base](https://www.c-base.org)
 
-* [Zappa](https://github.com/Miserlou/Zappa) by [Miserlou](https://github.com/Miserlou)
+* [Zappa](https://github.com/Miserlou/Zappa) ([mentioned in 33C3 - Gone in 60 Milliseconds](https://media.ccc.de/v/33c3-7865-gone_in_60_milliseconds)) by [Miserlou](https://github.com/Miserlou)
 * [Deepstream Tanks](https://github.com/deepstreamIO/ds-tutorial-tanks) by Yasser
 * [Kotlin TwitterBot](https://github.com/ligi/TwitterBot) by [ligi](http://ligi.de/) - **Hack of the month**
 * [mateplay](https://github.com/MichaelKreil/mateplay) for [Mate Light](https://github.com/jaseg/matelight) by [Michael Kreil](https://github.com/MichaelKreil)
