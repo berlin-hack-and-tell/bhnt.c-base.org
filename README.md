@@ -171,7 +171,7 @@ This event was mislabeled \#46 on Meetup.
 
 * [QT openglscroller](https://bitbucket.org/ni_cc/qtdeclarative/src/OpenGLScroller/examples/quick/scenegraph/openglunderqml) by nicc
 * [Nuclear Chess](https://github.com/karlb/nuclearchess) by [Karl](https://twitter.com/karlb) & Ulf
-* ATOM driven website by Volker
+* [ATOM driven website](https://njh.eu/feed.atom) by [Volker](https://njh.eu)
 * RoboCoding by Silver
 * [tumblr code hack/p5tweets](https://github.com/hamoid/Fun-Programming/blob/master/processing/ideas/2013/08/p5tweets/p5tweets.pde) by [Abe](http://funprogramming.org)
 * Cherry by [Santiago](https://twitter.com/cherryqueue)
