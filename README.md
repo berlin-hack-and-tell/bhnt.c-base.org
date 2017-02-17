@@ -11,7 +11,7 @@ Last Tuesday on each(~) month | [Meetup](https://www.meetup.com/de-DE/Berlin-Hac
 * [Kottpd - REST framework written in pure Kotlin](https://github.com/gimlet2/kottpd) by [Andrey](https://github.com/gimlet2)
 * [Hosh, the honk shell](https://sourceforge.net/projects/hosh/) by [Volker](https://njh.eu)
 * [Mr.Boom converted from DOS ASM using asm2c](https://github.com/libretro/mrboom-libretro) by Franck
-* [Scraping Twitter](token.dsst.io) by Michael
+* [Scraping Twitter](https://token.dsst.io) by [Michael Kreil](https://github.com/MichaelKreil)
 * [supercalifragilisticexpialido.js](https://github.com/DrMurx/supercalifragilisticexpialido.js) by Jan - **Hack of the month**
 * [Graph Dracula](https://www.graphdracula.net/) by [Philipp](https://stratha.us)
 
@@ -35,7 +35,7 @@ Last Tuesday on each(~) month | [Meetup](https://www.meetup.com/de-DE/Berlin-Hac
 This event was mislabeled \#46 on Meetup.
 
 * Just in time C++ by Gaetano
-* [Plotter - raspberry pi sticker printer](https://github.com/dsstio/plotter) by [Michael](https://github.com/MichaelKreil)
+* [Plotter - raspberry pi sticker printer](https://github.com/dsstio/plotter) by [Michael Kreil](https://github.com/MichaelKreil)
 * Revibe - JSON preprocessor by Yevgeny
 * [Popping the (Facebook) filter bubble](https://www.github.com/tracking-exposed) ([Slides](https://docs.google.com/presentation/d/1xA03KqTs6jDQvu_sms8zWeuiQJjsQcMVm7loEWy6H88/edit?usp=sharing)) by [Alberto](https://twitter.com/vrde) - **Hack of the month**
 * [One Button To Video Call](https://hackaday.io/project/16465-one-button-to-zoom-meeting) by Martin
@@ -151,7 +151,7 @@ This event was mislabeled \#46 on Meetup.
 * Bitcoin millionaire by Michael
 * freesound by Ivan
 * [AJShA](https://github.com/ligi/AJSHA) by [ligi](http://ligi.de)
-* PhotoTracker by Michael Kreil
+* [3DGPSTracker](http://michaelkreil.github.io/Track3D/web/) ([code](https://github.com/MichaelKreil/Track3D)) by [Michael Kreil](https://github.com/MichaelKreil)
 * [QTrek](https://github.com/strathausen/qtrek.bas) - QBasic game by [Philipp](https://stratha.us) - **Hack of the month**
 * [Rainbow Slice](https://github.com/SimonHFrost/rainbow-slice) by [Simon](https://twitter.com/simonhfrost)
 
