@@ -83,7 +83,7 @@ This event was mislabeled \#46 on Meetup.
 
 * [Zappa](https://github.com/Miserlou/Zappa) by [Miserlou](https://github.com/Miserlou)
 * [Deepstream Tanks](https://github.com/deepstreamIO/ds-tutorial-tanks) by Yasser
-* [Kotlin TwitterBot](https://github.com/ligi/TwitterBot) by [ligi](http://ligi.de/)
+* [Kotlin TwitterBot](https://github.com/ligi/TwitterBot) by [ligi](http://ligi.de/) - **Hack of the month**
 * [mateplay](https://github.com/MichaelKreil/mateplay) for [Mate Light](https://github.com/jaseg/matelight) by [Michael Kreil](https://github.com/MichaelKreil)
 * ... and others
 
