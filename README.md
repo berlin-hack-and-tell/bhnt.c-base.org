@@ -159,6 +159,15 @@ This event was mislabeled \#46 on Meetup.
 
 2014-04-29 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/178757202/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/21582622/) | [@c-base](https://www.c-base.org)
 
+* [QT openglscroller](https://bitbucket.org/ni_cc/qtdeclarative/src/OpenGLScroller/examples/quick/scenegraph/openglunderqml) by nicc
+* [Nuclear Chess](https://github.com/karlb/nuclearchess) by [Karl](https://twitter.com/karlb) & Ulf
+* ATOM driven website by Volker
+* RoboCoding by Silver
+* [tumblr code hack/p5tweets](https://github.com/hamoid/Fun-Programming/blob/master/processing/ideas/2013/08/p5tweets/p5tweets.pde) by [Abe](http://funprogramming.org)
+* Cherry by [Santiago](https://twitter.com/cherryqueue)
+* Panoramico by Fernando
+* Mate Light Raytracer by Michael - **Hack of the month**
+
 ## Berlin Hack and Tell \#28 - Winter?? hacks
 
 2014-02-25 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/167510502/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/20342722/) | [@c-base](https://www.c-base.org)
