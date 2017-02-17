@@ -113,7 +113,7 @@ This event was mislabeled \#46 on Meetup.
 * [Daily Stars](https://github.com/rollbrettler/daily-stars) by Tim
 * tf2Movies by Philip
 * Weye Human Rights Videos by Tank
-* Netzradar by Michael
+* [Making of Netzradar](https://netzradar.deutschebahn.com) by [Michael Kreil](https://github.com/MichaelKreil)
 * WeatherApp by Denard
 
 
