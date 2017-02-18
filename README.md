@@ -59,6 +59,15 @@ This event was mislabeled \#46 on Meetup.
 
 2016-05-31 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/231484893/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/27012144/) | [@c-base](https://www.c-base.org)
 
+* Calibrate by Michael
+* Chip Shop by Chris
+* [electric2go - Collect and analyze flexible/roaming carshare use data](https://github.com/jarek/electric2go) by [Jarek](https://github.com/jarek)
+* PyLambda by Alex
+* [Closecar](https://closecar.de) by Markus
+* [ruby-test-switcher - Switch between Ruby source and tests with a single keystroke in Atom](https://github.com/dcarral/atom-ruby-test-switcher) by [Daniel](https://github.com/dcarral)
+* Berlin Market Map by Tobi
+* [Terminal Heart](https://gist.github.com/phreeza/a120bc6ae42df1176231d46e105727f2) by [Thomas](https://github.com/phreeza) - **Hack of the month**
+
 ## Berlin Hack and Tell \#44 - Springtime hacking
 
 2016-04-26 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/230565665/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/26923646/) | [@c-base](https://www.c-base.org)
