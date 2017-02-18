@@ -48,6 +48,13 @@ This event was mislabeled \#46 on Meetup.
 
 2016-09-27 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/234194299/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/27301741/) | [@c-base](https://www.c-base.org)
 
+* [Make Github great again](https://github.com/k-nut/make_github_great_again) by [Knut](https://k-nut.eu)
+* [Mutation observer screen recording](https://www.voicedrop.de/?demo=true) by [Nathan](https://twitter.com/mr_kequc)
+* Space shooter tutorial by Wolfram
+* [Rubber ducky protection](https://github.com/kajogo777/duckygrill) - hacking tool by [George Sedky](https://github.com/kajogo777) - **Hack of the month**
+* Debian packaging for Node.js by Heartsucker
+* Graph algorithm prototyping by David
+
 ## Berlin Hack and Tell \#45 - \#summerhackertime
 
 2016-05-31 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/231484893/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/27012144/) | [@c-base](https://www.c-base.org)
