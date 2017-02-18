@@ -245,6 +245,17 @@ This event was mislabeled \#46 on Meetup.
 
 2013-04-30 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/115918302/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/14626022/) | [@c-base](https://www.c-base.org)
 
+* [security-cam](https://github.com/konradreiche/security-cam) by Konrad - **Hack of the month**
+* [thunkpedia - a new kind of reference wiki](http://en.thunkpedia.org) by [Gordon]()  - **Hack of the month**
+* git gpg check patch by Jaseg
+* Jetfighter by Sam
+* [kassomat](https://github.com/janroesner/kassomat-api-doc) by [Jan](https://twitter.com/janroesner)
+* Mass Emailer by Ben
+* Processing Move by Raphael
+* Speaking bank by Simon
+* [JS Lib to visualize recursive dependencies for software libraries](https://github.com/versioneye/dependency_wheel) by [Robert](https://twitter.com/RobertReiz)
+* Warmmiete24 by Marc
+
 ## Berlin Hack and Tell \#19 - Twice as good
 
 2013-03-25 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/108943862/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/13908812/) | [@c-base](https://www.c-base.org)
