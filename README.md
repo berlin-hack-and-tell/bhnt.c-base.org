@@ -206,6 +206,14 @@ This event was mislabeled \#46 on Meetup.
 
 2013-11-26 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/151270052/) | Photos | [@c-base](https://www.c-base.org)
 
+* [pixelscroller](https://github.com/Excds/processing_sketches) by [Daniel](https://twitter.com/excds)
+* morgan.js by Alberto
+* [deepzoom-utils](https://github.com/blind-coder/deepzoom-utils) by [Benjamin](https://twitter.com/blind_coder) - **Hack of the month**
+* AidoATP BTC China by Johann
+* graphhopper by Peter
+* Cyanogen mod auto installer by [Tarek](https://twitter.com/tgalal)
+* [Umweltzone](https://github.com/johnjohndoe/Umweltzone) app by Peter & [Tobias](https://twitter.com/tbsprs)
+
 ## Berlin Hack and Tell \#25 - Almost spooky
 
 2013-10-29 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/147203882/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/18255472/) | [@c-base](https://www.c-base.org)
