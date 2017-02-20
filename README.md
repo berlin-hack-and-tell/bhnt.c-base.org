@@ -260,6 +260,19 @@ This event was mislabeled \#46 on Meetup.
 
 2013-03-25 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/108943862/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/13908812/) | [@c-base](https://www.c-base.org)
 
+* [issuehunter](http://issuehunter.herokuapp.com) by [Giovanni](https://twitter.com/johnnyaboh) - **Hack of the month**
+* [Bitcoin proof](https://github.com/vog/bitcoinproof) by [Volker](https://njh.eu)
+* Etsy Made for you by Tanja & ?
+* [kowidi](http://kowidi.org) by Jeremy
+* Lightwriting by David
+* Monkey See, Monkey Do by Katrin & Sarah
+* [Morbid-gamma - photo shutter thingy](https://github.com/surma-dump/morbid-gamma) by [Surma](https://twitter.com/surmair)
+* my knob by Andreas
+* [Record audio from browser](https://github.com/akrennmair/speech-to-server) by [Andreas](https://twitter.com/der_ak)
+* Revive by Lucia
+* Sonata by Marija & Regine
+* Sound Pairs by Yvonne
+
 ## Berlin Hack and Tell \#18 - BWIWAB
 
 2013-01-29 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/100995462/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/12862392/) | [@c-base](https://www.c-base.org)
