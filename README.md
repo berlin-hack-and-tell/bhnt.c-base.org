@@ -212,7 +212,7 @@ This event was mislabeled \#46 on Meetup.
 * AidoATP BTC China by Johann
 * graphhopper by Peter
 * Cyanogen mod auto installer by [Tarek](https://twitter.com/tgalal)
-* [Umweltzone](https://github.com/johnjohndoe/Umweltzone) app by Peter & [Tobias](https://twitter.com/tbsprs)
+* [Umweltzone app](https://github.com/johnjohndoe/Umweltzone) by Peter & [Tobias](https://twitter.com/tbsprs)
 
 ## Berlin Hack and Tell \#25 - Almost spooky
 
