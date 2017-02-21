@@ -360,6 +360,7 @@ This event was mislabeled \#46 on Meetup.
 
 * A phantomjs-based crawler for Wikipedia to create dictionaries by [Alexander Surma](https://twitter.com/surmair)
 * CardDAV plugin for Roundcube Webmailer by [Benjamin](https://twitter.com/blind_coder)
+* ... and others
 
 ## Berlin Hack and Tell \#11 - birthday bash
 
