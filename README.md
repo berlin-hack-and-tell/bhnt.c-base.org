@@ -218,6 +218,11 @@ This event was mislabeled \#46 on Meetup.
 
 2013-10-29 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/147203882/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/18255472/) | [@c-base](https://www.c-base.org)
 
+* [ugtrain - free and universal game trainer with dynamic memory support](https://github.com/ugtrain/ugtrain) by [Sebastian](https://github.com/sriemer)
+* [Makehub](https://github.com/Asimov4/makehub) by [Stefania](http://www.hackidemia.com/team/)
+* [Shasplit - Efficient backups by SHA-based data splitting](https://vog.github.io/shasplit/) by [Volker](https://njh.eu)
+* ... and others
+
 ## Berlin Hack and Tell \#24 - School's on - Time to learn new tricks
 
 2013-09-24 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/141480952/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/17531112/) | [@c-base](https://www.c-base.org)
