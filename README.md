@@ -254,6 +254,10 @@ This event was mislabeled \#46 on Meetup.
 
 2013-05-28 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/120065742/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/15164902/) | [@c-base](https://www.c-base.org)
 
+* [WebRTC based video communication from your browser](https://palava.tv) by [Jan Lelis](https://github.com/janlelis)
+* [Funciton - esoteric programming language with two-dimensional syntax](https://github.com/Timwi/Funciton) ([Language description](http://esolangs.org/wiki/Funciton)) by [Timwi](https://github.com/Timwi/Funciton)
+* ... and others
+
 ## Berlin Hack and Tell \#20 - Return of Spring
 
 2013-04-30 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/115918302/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/14626022/) | [@c-base](https://www.c-base.org)
