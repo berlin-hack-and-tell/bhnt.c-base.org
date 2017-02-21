@@ -358,6 +358,9 @@ This event was mislabeled \#46 on Meetup.
 
 2012-06-26 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/69853662/) | Photos | [@c-base](https://www.c-base.org)
 
+* A phantomjs-based crawler for Wikipedia to create dictionaries by [Alexander Surma](https://twitter.com/surmair)
+* CardDAV plugin for Roundcube Webmailer by [Benjamin](https://twitter.com/blind_coder)
+
 ## Berlin Hack and Tell \#11 - birthday bash
 
 2012-05-29 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/65544132/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/8651662/) | [@c-base](https://www.c-base.org)
