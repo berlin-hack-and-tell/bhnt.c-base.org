@@ -247,7 +247,7 @@ This event was mislabeled \#46 on Meetup.
 * [Evergreen pitch](http://www.evr.gr) by [Joel](https://twitter.com/fractastical)
 * [BREF 3](http://mumblecore.org) by [Frank](https://twitter.com/brefapp)
 * Processing.js live coding by Abe
-* [Project voyager UAS RC Hack](https://plus.google.com/114235069272334327917) by [Ligi](http://ligi.de) - **Hack of the month**
+* [Project voyager UAS RC Hack](https://plus.google.com/114235069272334327917) by [ligi](http://ligi.de) - **Hack of the month**
 * [KML to GFX](https://gist.github.com/johnjohndoe/5650449) by [Tobi](https://twitter.com/tbsprs)
 
 ## Berlin Hack and Tell \#21 - Let the summer begin!
