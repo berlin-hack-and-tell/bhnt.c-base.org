@@ -22,7 +22,7 @@ Last Tuesday on each(~) month | [Meetup](https://www.meetup.com/de-DE/Berlin-Hac
 * [OpenSSH VPN patch](https://marc.info/?l=openssh-unix-dev&m=147083231028273) by [Volker](https://njh.eu)
 * httpfuse by Sebastian
 * [Hackerfleet OS](https://github.com/Hackerfleet/hfos) by [riot](https://github.com/ri0t)
-* Konami Code Barrel Roll by androidflo - **Hack of the month**
+* Konami Code Barrel Roll by [Florian Mierzejewski](http://florianmski.fr/) - **Hack of the month**
 * [Jekyllify](https://github.com/survivalmanual/jekllIfy) / [Survival Manual](https://github.com/ligi/SurvivalManual) Update by [ligi](http://ligi.de)
 * tentacle by Glen
 * [inboxSync](https://github.com/webflo/inboxSync) by webflo
@@ -111,7 +111,7 @@ This event was mislabeled \#46 on Meetup.
 * The Merchant by Wolfram
 * [Unisport](https://github.com/k-nut/unisport) by [Knut](https://k-nut.eu)
 * [Fire Mind](https://www.youtube.com/channel/UCZgkyr3L9eiXNvtA7fYXVTw) by Zach - **Hack of the month**
-* WG Hunter by Flo
+* [WG Hunter](https://gist.github.com/florianmski/0511c19a79909900e923978bea453137) by [Florian Mierzejewski](http://florianmski.fr/)
 * Super Scanner 2000 Deluxe by  [Volker](https://njh.eu)
 * Fiber Optic Chandelier by Celine
 
