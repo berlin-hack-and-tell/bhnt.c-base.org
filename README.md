@@ -2,6 +2,10 @@
 
 Last Tuesday on each(~) month | [Meetup](https://www.meetup.com/de-DE/Berlin-Hack-and-Tell) | [Twitter](https://twitter.com/BerlinHacknTell) | [@c-base](https://www.c-base.org)
 
+## Berlin Hack & Tell \#0x0032 - Tracing rays
+
+2017-02-28 | 18:30 | [Meetup Event](https://www.meetup.com/de-DE/Berlin-Hack-and-Tell/events/237979164) | Photos | [@c-base](https://www.c-base.org)
+
 ## Berlin Hack & Tell \#49 - Hello 2017!
 
 2017-01-31 | 18:30 | [Meetup Event](https://www.meetup.com/de-DE/Berlin-Hack-and-Tell/events/237216346) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/27587598) | [@c-base](https://www.c-base.org)
