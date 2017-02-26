@@ -374,6 +374,14 @@ This event was mislabeled \#46 on Meetup.
 
 2012-05-29 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/65544132/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/8651662/) | [@c-base](https://www.c-base.org)
 
+* [Nethack farmbot](http://svn.crash-override.net/autohack/farmbot/trunk/bot.pl) ([Screenshot](http://scavenger.homeip.net/farm.png)) by [Benjamin Schieder](https://twitter.com/blind_coder)
+* Furnace temperature controller ([Firmware source](https://github.com/Miceuz/LPC1343CodeBase/tree/ThermocoupleShield), [Schematics and PCB](https://github.com/Miceuz/ThermocoupleShieldForLPC1343)) by [Albertas Mickėnas](https://github.com/Miceuz)
+* Use twitter streaming api on heroku without any workers by [Tobias Sasse](https://twitter.com/tosa)
+* [Remote whiteboard in Dart and Go](https://github.com/akrennmair/whiteboard) by [Andreas Krennmair](https://github.com/akrennmair/)
+* [WhatsApp port for N9](http://www.wazapp.im) ([GitHub](https://github.com/tgalal/wazapp)) by [Tarek Galal](https://github.com/tgalal)
+* [Shared Stuff - Share real stuff with friends](https://shared-stuff.github.io) by Jan-Christoph Borchardt
+* ... and others
+
 ## Berlin Hack & Tell \#10
 
 2012-04-24 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/60692412/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/7721692/) | [@c-base](https://www.c-base.org)
