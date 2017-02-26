@@ -136,7 +136,6 @@ This event was mislabeled \#46 on Meetup.
 * [Making of Netzradar](https://netzradar.deutschebahn.com) by [Michael Kreil](https://github.com/MichaelKreil)
 * WeatherApp by Denard
 
-
 ## Berlin Hack & Tell \#37 - July Andrews
 
 2015-07-28 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/224143674/) | Photos | [@c-base](https://www.c-base.org)
