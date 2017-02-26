@@ -424,7 +424,7 @@ This event was mislabeled \#46 on Meetup.
 * [beatguide.me - electronic music event search tool](http://beatguide.me) by ?
 * [Pushover - Remake of the old DOS game](http://pushover.sourceforge.net) by [Volker](https://njh.eu)
 * [Miniature Chess](http://miniature-chess.org) by Uwe "jukey" Kaminski & Michael "mikhas" Hasselmann
-* [beautify_git_hash - modify your Git commit to enforce a certain prefix on the Git commit hash](https://github.com/vog/beautify_git_hash) ([Example beautified commit history](https://github.com/vog/beautify_git_hash/commits/master)) by [Volker](https://njh.eu)
+* [beautify_git_hash - modify your Git commit to enforce a certain prefix on the Git commit hash](https://github.com/vog/beautify_git_hash) ([Example beautified commit history](https://github.com/vog/beautify_git_hash/commits/master)) by [Volker](https://njh.eu) - **Unofficial hack of the month**
 
 ## Berlin Hack & Tell \#4
 
