@@ -337,7 +337,7 @@ This event was mislabeled \#46 on Meetup.
 * Maps Hack 3000 by Andreas
 * [PassionIndex - visualize your contentment at work](http://www.passionindex.me) by [Matt](https://twitter.com/mhuebert)
 * Singing Bank by Simon
-* [TV-G - Arte Boadcast recommendations based on Facebook likes](http://tv-g.herokuapp.com) by [Tobias](https://twitter.com/tosa)
+* [TV-G - Arte Boadcast recommendations based on Facebook likes](http://tv-g.herokuapp.com) by [Tobias Sasse](https://twitter.com/tosa)
 
 ## Berlin Hack & Tell \#15
 
@@ -448,7 +448,7 @@ This event was mislabeled \#46 on Meetup.
 2011-06-07 | 19:00 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/19514831/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/1799851/) | [@c-base](https://www.c-base.org)
 
 * Stereoscopic Movies on tablets and smartphones using the open source trueColor3D ([for HiRes smartphones](http://openMy3D.blogspot.com), [for tablets and any other LCD](http://openKMQ.blogspot.com), [Glasses-free 3D on iPad](http://openGRilli3D.blogspot.com)) by Thomas Kumlehn
-* [EdgeAndRun - jump and run on edges of camera image](http://www.youtube.com/watch?v=im-qKFEZdYQ) by Tobias Sasse
+* [EdgeAndRun - jump and run on edges of camera image](http://www.youtube.com/watch?v=im-qKFEZdYQ) by [Tobias Sasse](https://twitter.com/tosa)
 * [tabledo - an easy to use to do management software](http://tabledo.com/) ([GitHub](https://github.com/tabledo), [Twitter](http://twitter.com/tabledocom)) by Martin Güther & Manuel Loistl
 * [asynch - Scala lib for consuming REST web services](https://github.com/ppurang/asynch), riaks - Scala lib for interacting with Riak (uses asynch) by [Piyush Purang](https://github.com/ppurang)
 * [GriCal - The Wikipedia for Events](https://grical.org) by Ivan Fernando Villanueva Barrio & [Sven](https://guckes.net)
