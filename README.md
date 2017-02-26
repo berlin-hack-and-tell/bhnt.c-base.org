@@ -282,7 +282,7 @@ This event was mislabeled \#46 on Meetup.
 2013-03-25 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/108943862/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/13908812/) | [@c-base](https://www.c-base.org)
 
 * [issuehunter](http://issuehunter.herokuapp.com) by [Giovanni](https://twitter.com/johnnyaboh) - **Hack of the month**
-* [Bitcoin proof](https://github.com/vog/bitcoinproof) by [Volker](https://njh.eu)
+* [Bitcoinproof](https://vog.github.io/bitcoinproof) by [Volker](https://njh.eu)
 * Etsy Made for you by Tanja & ?
 * [kowidi](http://kowidi.org) by Jeremy
 * Lightwriting by David
