@@ -411,6 +411,11 @@ This event was mislabeled \#46 on Meetup.
 
 2011-08-30 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/29729371/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/3148032/) | [@c-base](https://www.c-base.org)
 
+* [Results of co.up coworking hack day](https://web.archive.org/web/20130526002556/http://coworkinghackday.org/) ([Projects wiki](http://coworkinghackday.wikispaces.com/Projects)) by [Thilo Utke](https://twitter.com/freaklikeme)
+* [BigSitemap (renamed to MassiveSitemap) - ruby gem to generate large scale Google XML Sitemaps](https://github.com/rngtng/massive_sitemap) by [Tobias Bielohlawek](http://www.rngtng.com)
+* [Uberblic - "one API to link them all", matching entities across APIs on the Web, for now mostly location/geo APIs](https://uberblic.com) by [Georgi Kobilarov](https://twitter.com/gkob)
+* ... and others
+
 ## Berlin Hack & Tell \#3
 
 2011-07-19 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/25004721/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/2469501/) | [@c-base](https://www.c-base.org)
