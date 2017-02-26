@@ -335,9 +335,9 @@ This event was mislabeled \#46 on Meetup.
 * [gitpoll - App for voting on GitHub issues](https://github.com/gitrun/poll) / [gitchat - Web chat build on top of GitHub Issues API](https://github.com/marynaaleksandrova/gitchat) / [gitcommunities - Google Groups alternative with content hosted on GitHub](https://github.com/communities/gitcommunities.com) by [Anton](http://podviaznikov.com)
 * HN Filter by Joel
 * Maps Hack 3000 by Andreas
-* [PassionIndex - visualize your contentment at work](http://www.passionindex.me) by [Matt](https://twitter.com/tosa)
+* [PassionIndex - visualize your contentment at work](http://www.passionindex.me) by [Matt](https://twitter.com/mhuebert)
 * Singing Bank by Simon
-* [TV-G - Arte Boadcast recommendations based on Facebook likes](http://tv-g.herokuapp.com) by [Tobias](https://twitter.com/mhuebert)
+* [TV-G - Arte Boadcast recommendations based on Facebook likes](http://tv-g.herokuapp.com) by [Tobias](https://twitter.com/tosa)
 
 ## Berlin Hack & Tell \#15
 
