@@ -396,7 +396,16 @@ This event was mislabeled \#46 on Meetup.
 
 ## Berlin Hack & Tell \#5
 
-2011-10-11 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/35980102/) | Photos | [@c-base](https://www.c-base.org)
+2011-10-11 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/35980102/) | [Photos](https://web.archive.org/web/20120125055816/https://www.guckes.net/2011-10-11.bhnt/) | [@c-base](https://www.c-base.org)
+
+* [ProfitBricks](https://www.profitbricks.com) ([Wordpress Blog](http://profitbricks.wordpress.com) by ?
+* [Windows 7 widget for sending text messages without grabbing your phone or opening any software](http://www.developergarden.com/apis/apis-sdks/applications/details/appdb/send-sms-sidebar-gadget) by ?
+* [Wiki Growth - Wikipidea life time visualisation](https://www.triposo.com/labs/wikigrowth) by ?
+* [GoBox - OS with a very small memory footprint written in Go](http://gobox.asdf-systems.de) ([GitHub project site](http://github.com/asdf-systems/gobox)) by [Alexander Surma](https://github.com/surma)
+* [beatguide.me - electronic music event search tool](http://beatguide.me) by ?
+* [Pushover - Remake of the old DOS game](http://pushover.sourceforge.net) by [Volker](https://njh.eu)
+* [Miniature Chess](http://miniature-chess.org) by Uwe "jukey" Kaminski & Michael "mikhas" Hasselmann
+* [beautify_git_hash - modify your Git commit to enforce a certain prefix on the Git commit hash](https://github.com/vog/beautify_git_hash) ([Example beautified commit history](https://github.com/vog/beautify_git_hash/commits/master)) by [Volker](https://njh.eu)
 
 ## Berlin Hack & Tell \#4
 
