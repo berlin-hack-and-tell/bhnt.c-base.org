@@ -140,9 +140,15 @@ This event was mislabeled \#46 on Meetup.
 
 2015-07-28 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/224143674/) | Photos | [@c-base](https://www.c-base.org)
 
+* fairfile_client by [Volker](https://njh.eu)
+* ... and others
+
 ## Berlin Hack & Tell \#36 - Diving into code
 
 2015-06-30 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/223438790/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/26232909/) | [@c-base](https://www.c-base.org)
+
+* Web application written in pure SQL by [Volker](https://njh.eu)
+* ... and others
 
 ## Berlin Hack & Tell \#35 - Hack-una May-tata
 
@@ -155,6 +161,9 @@ This event was mislabeled \#46 on Meetup.
 ## Berlin Hack & Tell \#33 - Spring season is open!
 
 2015-03-31 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/221394273/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/26018542/) | [@c-base](https://www.c-base.org)
+
+* [Kvmhosting - Script to manage KVM-based hosting, powered entirely by XSLT](https://vog.github.io/kvmhosting/) by [Volker](https://njh.eu)
+* ... and others
 
 ## Berlin Hack & Tell \#32 - Carnival is gone!
 
@@ -233,6 +242,9 @@ This event was mislabeled \#46 on Meetup.
 ## Berlin Hack & Tell \#23 - Vacation is over, lets get back to code!
 
 2013-08-27 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/135055112/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/16971242/) | [@c-base](https://www.c-base.org)
+
+* [ASCIImation](http://asciimation.de) by [Volker](https://njh.eu)
+* ... and others
 
 ## Berlin Hack & Tell \#22 - Summer Hacks
 
