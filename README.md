@@ -406,6 +406,11 @@ This event was mislabeled \#46 on Meetup.
 
 2011-07-19 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/25004721/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/2469501/) | [@c-base](https://www.c-base.org)
 
+* [Choosendo - mobile application that aims to create a real time local market place for small shops and individuals](https://web.archive.org/web/20111113115022/http://www.choosendo.com/) by [Simon Redfern](https://www.tesobe.com/en/about/), Ismail & Everett
+* [Rainbowduino - Arduino clone to power 64RGB LEDs, created Firmware, Processing Lib and mtXcontrol](http://www.rngtng.com/mtXcontrol) by [Tobias Bielohlawek](http://www.rngtng.com)
+* [Texcaller - a convenient interface to the TeX command line tools that handles all kinds of errors without much fuzz](https://vog.github.io/texcaller/) by [Volker](https://njh.eu)
+* ... and others
+
 ## 2nd Hack and Tell in Berlin
 
 2011-06-21 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/22316591/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/2024071/) | [@c-base](https://www.c-base.org)
