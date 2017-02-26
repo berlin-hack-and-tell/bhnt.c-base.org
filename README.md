@@ -410,6 +410,12 @@ This event was mislabeled \#46 on Meetup.
 
 2011-06-21 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/22316591/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/2024071/) | [@c-base](https://www.c-base.org)
 
+* [favmu.com - node.js powered favourite music application](https://twitter.com/favmu) by [Jan Lelis](https://github.com/janlelis)
+* c-base lightcontrol ([Backend and javascript interface](http://dev.c-base.org/libart-dmxcontrol/dmx-mainhall), [Android app](http://dev.c-base.org/dmxcontrol-for-android)) by ?
+* [Stock Performer - Analytics for microstock photographers](http://www.stockperformer.com) by Luis Alvarez & Oliver Rivo
+* [Game immopoly - location based game a bit like monopoly, but with real flats](https://web.archive.org/web/20160114232456/http://www.immopoly.org) by Tobias Sass
+* Producer-consumer model log analysis tool by Calin Don
+
 ## The first Berlin Hack & Tell
 
 2011-06-07 | 19:00 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/19514831/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/1799851/) | [@c-base](https://www.c-base.org)
