@@ -401,7 +401,7 @@ This event was mislabeled \#46 on Meetup.
 * [ProfitBricks](https://www.profitbricks.com) ([Wordpress Blog](http://profitbricks.wordpress.com) by ?
 * [Windows 7 widget for sending text messages without grabbing your phone or opening any software](http://www.developergarden.com/apis/apis-sdks/applications/details/appdb/send-sms-sidebar-gadget) by ?
 * [Wiki Growth - Wikipidea life time visualisation](https://www.triposo.com/labs/wikigrowth) by ?
-* [GoBox - OS with a very small memory footprint written in Go](http://gobox.asdf-systems.de) ([GitHub project site](http://github.com/asdf-systems/gobox)) by [Alexander Surma](https://github.com/surma)
+* [GoBox - OS with a very small memory footprint written in Go](http://gobox.asdf-systems.de) ([GitHub](http://github.com/asdf-systems/gobox)) by [Alexander Surma](https://github.com/surma)
 * [beatguide.me - electronic music event search tool](http://beatguide.me) by ?
 * [Pushover - Remake of the old DOS game](http://pushover.sourceforge.net) by [Volker](https://njh.eu)
 * [Miniature Chess](http://miniature-chess.org) by Uwe "jukey" Kaminski & Michael "mikhas" Hasselmann
