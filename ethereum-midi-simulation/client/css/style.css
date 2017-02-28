@@ -1,0 +1,7 @@
+body {
+	font-family: monospace;
+}
+
+li#error {
+	color: rgba(255, 0, 0, 255);
+}

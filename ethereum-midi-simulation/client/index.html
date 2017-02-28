@@ -1,0 +1,22 @@
+<html>
+<head>
+	<title>midipoller poc</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
+	<script src="js/lib/jquery-2.2.4.min.js"></script>
+	<script src="js/poll.js"></script>
+	<link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+<div id="dial">Dial #1 value: <input type="text" id="dialvalue" value="(unset") /></div>
+<ul id="log">
+
+</ul>
+<script>
+	$(document).ready(function() {
+		log("loaded", 0);
+		setInterval(poll, 100);
+	});
+</script>
+</body>
+</html>
