@@ -239,6 +239,15 @@ This event was mislabeled \#46 on Meetup.
 
 2013-09-24 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/141480952/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/17531112/) | [@c-base](https://www.c-base.org)
 
+* DCC over HTTP by Freddy
+* Sad Desk Lunch by David
+* Jingo by Claudio
+* Plocs by Christian
+* FastTask by Charles
+* html2dom by Freddy
+* Filebrowser by Michael
+* Covr.li by Plaetzchen - **Hack of the month**
+
 ## Berlin Hack & Tell \#23 - Vacation is over, lets get back to code!
 
 2013-08-27 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/135055112/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/16971242/) | [@c-base](https://www.c-base.org)
