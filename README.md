@@ -279,7 +279,7 @@ This event was mislabeled \#46 on Meetup.
 
 * [security-cam](https://github.com/konradreiche/security-cam) by Konrad - **Hack of the month (50%)**
 * [thunkpedia - a new kind of reference wiki](http://en.thunkpedia.org) by [Gordon]()  - **Hack of the month (50%)**
-* git gpg check patch by Jaseg
+* git gpg check patch by [Jaseg](https://github.com/jaseg)
 * Jetfighter by Sam
 * [kassomat](https://github.com/janroesner/kassomat-api-doc) by [Jan](https://twitter.com/janroesner)
 * Mass Emailer by Ben
@@ -311,7 +311,7 @@ This event was mislabeled \#46 on Meetup.
 
 * [Point paths Mandelbrot](https://github.com/lindes/point_paths) by [David](https://twitter.com/lindes) - **Hack of the month**
 * BBBike Berlin app by Dennis
-* [Cerebrum](https://github.com/jaseg/cerebrum) by Jaseg
+* [Cerebrum](https://github.com/jaseg/cerebrum) by [Jaseg](https://github.com/jaseg)
 * Chordroid by Sam
 * Hacking our own Brausepulver by Jens+?
 * [Piano Pedal connector](http://www.warski.org/blog/2012/08/connecting-a-piano-pedal-to-a-computer) by [Warski](https://twitter.com/adamwarski)
