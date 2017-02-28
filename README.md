@@ -444,7 +444,7 @@ This event was mislabeled \#46 on Meetup.
 * [Texcaller - a convenient interface to the TeX command line tools that handles all kinds of errors without much fuzz](https://vog.github.io/texcaller/) by [Volker](https://njh.eu)
 * ... and others
 
-## 2nd Hack and Tell in Berlin
+## 2nd Hack & Tell in Berlin
 
 2011-06-21 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/22316591/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/2024071/) | [@c-base](https://www.c-base.org)
 
