@@ -180,6 +180,12 @@ This event was mislabeled \#46 on Meetup.
 
 2015-01-27 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/219957473/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/25877388/) | [@c-base](https://www.c-base.org)
 
+* joukkue by aBe
+* imagediff by Sebastian
+* Image Binarizer 2000 Premium Pro by Mina
+* goandroid refactoring by [ligi](http://ligi.de)
+* Yowsup by Tarek - **Hack of the month**
+
 ## Berlin Hack & Tell \#30 - BACK FROM THE DEAD
 
 2014-08-26 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/181266562/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/24105492/) | [@c-base](https://www.c-base.org)
