@@ -220,6 +220,15 @@ This event was mislabeled \#46 on Meetup.
 
 2014-01-28 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/162108542/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/19794352/) | [@c-base](https://www.c-base.org)
 
+* BBBike backend by Dennis
+* one-click uploader by Michael
+* jsPDF by James
+* pull request tool by Anton
+* ympd by Andi
+* hardware stuff ios by Paul
+* deez.me by Jörn
+* [Mate Light](https://github.com/jaseg/matelight) by [Jaseg](https://github.com/jaseg) - **Hack of the month**
+
 ## Berlin Hack & Tell \#26 - Best of 2013 (?)
 
 2013-11-26 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/151270052/) | Photos | [@c-base](https://www.c-base.org)
