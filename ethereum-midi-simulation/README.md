@@ -10,17 +10,17 @@ Tested with an AKAI MPD24.
 ## Procedure
 
 - Make this (handmade Makefile for home cooking. Make your own if you need)-
-- Find your MIDI alsa hw
+- Find your MIDI alsa hw id
 - Run `bin/midinetworksim`
 - Run `client/index.html` in browser and verify midi feed to browser.
 - Run go-ethereum `p2p/simulations/examples/connectivity.go` (see link above)
-- Run `simple-p2p-d3  (see link above) NB! CORS caveats, the PUTs are dicey
+- Run `simple-p2p-d3` (see link above) NB! CORS caveats, the PUTs are dicey
 
 First Note on - off combo creates and node, second brings it up.
 
 Note on on two notes before off creates connection between nodes in question (provided they're up).
 
-The javascript client has hardcoded note 1-16 capacity.
+The javascript client has hardcoded note 1-16 capacity only 'cos the number of pads on my AKAI. 
 
 ## Contact
 
