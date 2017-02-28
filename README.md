@@ -401,6 +401,12 @@ This event was mislabeled \#46 on Meetup.
 
 2012-02-28 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/52922282/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/6337182/) | [@c-base](https://www.c-base.org)
 
+* [Arduino-based count-down timer for Hack & Tell on a green screen monitor](https://github.com/uwekamper/hackandtell) by [Uwe Kamper](http://www.uwekamper.de)
+* [UnlockYourBrain](http://www.unlockyourbrain.com) by Georg
+* [TD-1 v0.5 aka "Dönercopter"](https://github.com/asdf-systems/td-1) ([Video](https://www.youtube.com/watch?v=OFCpW93pwqI)) by [Alexander Surma](https://github.com/surma)
+* [IBM Model M keyboard key 3d files](https://github.com/jaseg/Model-M) by [Jaseg](https://github.com/jaseg)
+* [Open Bank Project](https://openbankproject.com) ([Presentation](https://www.slideshare.net/tesobe/open-bank-projectby), [Mailing list](http://eviscape.com/profile/openbankproject/), [GitHub](https://github.com/OpenBankProject)) by ?
+
 ## Berlin Hack & Tell \#8 - in/hackable
 
 2012-01-31 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/43753752/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/5908752/) | [@c-base](https://www.c-base.org)
