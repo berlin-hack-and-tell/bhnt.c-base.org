@@ -84,7 +84,7 @@ This event was mislabeled \#46 on Meetup.
 * [Virtual Pet](http://www.ticalc.org/archives/files/fileinfo/179/17999.html) by [Alan](https://twitter.com/alanhamlett) - **Hack of the month**
 * Undercontrol.io by Diego & Rodolfo
 * [ScamChecker](https://github.com/embrilliant/scam-checker) by [Emily](https://twitter.com/emilywudigital)
-* [FlightStats](https://github.com/dkundel/flightstats) by [Dominik](https://twitter.com/dkundel)
+* [FlightStats](https://github.com/dkundel/flightstats) by [Dominik Kundel](https://github.com/dkundel)
 * [Static Joomla](https://github.com/vog/staticjoomla) by [Volker](https://njh.eu)
 * [jsfs](https://github.com/ipfs/js-ipfs) by [Juan](https://twitter.com/juanbenet)
 * Bitcoin - Psycho median with trailing stop by Jan
