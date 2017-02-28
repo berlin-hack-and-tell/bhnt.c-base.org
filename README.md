@@ -154,6 +154,14 @@ This event was mislabeled \#46 on Meetup.
 
 2015-05-26 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/222595962/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/26150393/) | [@c-base](https://www.c-base.org)
 
+* BargainHunter by Marcos
+* etherRemote by [ligi](http://ligi.de)
+* SelfReflection by Will
+* AmazonSnipR by Sebastian
+* Rabbit by Tarek
+* ShareIntentBuilder by [cketti](http://cketti.de)
+* Sierra Leone Banks by [Knut](https://k-nut.eu) - **Hack of the month**
+
 ## Berlin Hack & Tell \#34 - April (fools) hacks!
 
 2015-04-28 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/222017990/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/26083611/) | [@c-base](https://www.c-base.org)
