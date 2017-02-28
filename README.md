@@ -162,8 +162,14 @@ This event was mislabeled \#46 on Meetup.
 
 2015-03-31 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/221394273/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/26018542/) | [@c-base](https://www.c-base.org)
 
+* Tidus gem by Tobias
+* vimify by Philipp
+* YeahLetsDoThat Event Sourcing Demo by Uwe
+* Android Color Thief by Henrique
+* Mailbox Collection Time Filter by Tobi
 * [Kvmhosting - Script to manage KVM-based hosting, powered entirely by XSLT](https://vog.github.io/kvmhosting/) by [Volker](https://njh.eu)
-* ... and others
+* Git mirroring by Amer
+* WikDict by Karl - **Hack of the month**
 
 ## Berlin Hack & Tell \#32 - Carnival is gone!
 
