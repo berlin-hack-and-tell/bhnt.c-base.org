@@ -21,4 +21,7 @@ First Note on - off combo creates and node, second brings it up.
 Note on on two notes before off creates connection between nodes in question (provided they're up).
 
 The javascript client has hardcoded note 1-16 capacity.
-The javascript client has hardcoded note 1-16 capacity.
+
+## Contact
+
+BM-NBXpv4oRf2BkNLJBZAm2muikBsm6EzvW
