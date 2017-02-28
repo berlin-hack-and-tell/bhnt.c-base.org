@@ -397,6 +397,10 @@ This event was mislabeled \#46 on Meetup.
 
 2012-04-24 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/60692412/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/7721692/) | [@c-base](https://www.c-base.org)
 
+* [FB Events with Backbone.js](http://loftushall.de) by Paul Nelligan
+* [PupFlow - digital puppeteering, a plugin for Blender accepting JSON input to control your rigs](http://github.com/FriedrichWessel/pupflow) by [Alexander Surma](https://github.com/surma) & [Friedrich Wessel](http://github.com/FriedrichWessel)
+* [ScalaFlect - typesafe static reflection in Scala](https://github.com/jroper/scalaflect) by [James Roper](https://jazzy.id.au)
+
 ## Berlin Hack & Tell \#9
 
 2012-02-28 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/52922282/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/6337182/) | [@c-base](https://www.c-base.org)
