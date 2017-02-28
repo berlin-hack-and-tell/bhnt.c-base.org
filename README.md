@@ -298,7 +298,7 @@ This event was mislabeled \#46 on Meetup.
 * [kowidi](http://kowidi.org) by Jeremy
 * Lightwriting by David
 * Monkey See, Monkey Do by Katrin & Sarah
-* [Morbid-gamma - photo shutter thingy](https://github.com/surma-dump/morbid-gamma) by [Surma](https://twitter.com/surmair)
+* [Morbid-gamma - photo shutter thingy](https://github.com/surma-dump/morbid-gamma) by [Alexander Surma](https://github.com/surma)
 * my knob by Andreas
 * [Record audio from browser](https://github.com/akrennmair/speech-to-server) by [Andreas](https://twitter.com/der_ak)
 * Revive by Lucia
@@ -377,7 +377,7 @@ This event was mislabeled \#46 on Meetup.
 
 2012-06-26 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/69853662/) | Photos | [@c-base](https://www.c-base.org)
 
-* A phantomjs-based crawler for Wikipedia to create dictionaries by [Alexander Surma](https://twitter.com/surmair)
+* A phantomjs-based crawler for Wikipedia to create dictionaries by [Alexander Surma](https://github.com/surma)
 * CardDAV plugin for Roundcube Webmailer by [Benjamin](https://twitter.com/blind_coder)
 * ... and others
 
