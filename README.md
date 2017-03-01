@@ -14,7 +14,7 @@ Last Tuesday on each(~) month | [Meetup](https://www.meetup.com/de-DE/Berlin-Hac
 * WorldBrain by Oliver
 * [Kottpd - REST framework written in pure Kotlin](https://github.com/gimlet2/kottpd) by [Andrey](https://github.com/gimlet2)
 * [Hosh, the honk shell](https://sourceforge.net/projects/hosh/) by [Volker](https://njh.eu)
-* [Mr.Boom converted from DOS ASM using asm2c](https://github.com/libretro/mrboom-libretro) by Franck
+* [Mr.Boom](https://github.com/libretro/mrboom-libretro) converted from DOS ASM using [asm2c](https://github.com/frranck/asm2c) by [Franck](https://twitter.com/frrancck)
 * [Scraping Twitter](https://token.dsst.io) by [Michael Kreil](https://github.com/MichaelKreil)
 * [supercalifragilisticexpialido.js](https://github.com/DrMurx/supercalifragilisticexpialido.js) by Jan - **Hack of the month**
 * [Graph Dracula](https://www.graphdracula.net/) by [Philipp](https://stratha.us)
@@ -298,7 +298,7 @@ This event was mislabeled \#46 on Meetup.
 * [Consumption Yoda](https://github.com/uwekamper/energyhack) by [Uwe](http://uwekamper.de)
 * Chocolate Chomp by Timwi
 * [Evergreen pitch](http://www.evr.gr) by [Joel](https://twitter.com/fractastical)
-* [BREF 3](http://mumblecore.org) by [Frank](https://twitter.com/brefapp)
+* [BREF](http://bref.mumblecore.org) by [Franck](https://twitter.com/frrancck)
 * Processing.js live coding by Abe
 * [Project voyager UAS RC Hack](https://plus.google.com/114235069272334327917) by [ligi](http://ligi.de) - **Hack of the month**
 * [KML to GFX](https://gist.github.com/johnjohndoe/5650449) by [Tobi](https://twitter.com/tbsprs)
