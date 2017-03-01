@@ -388,7 +388,7 @@ This event was mislabeled \#46 on Meetup.
 
 2012-10-30 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/87375812/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/11518092/) | [@c-base](https://www.c-base.org)
 
-* CSS3 Animations ([Valentine Card](http://marynaaleksandrova.info/labs/valentine-card), [Gears System](http://marynaaleksandrova.info/labs/gears-system), [Happy Easter](http://marynaaleksandrova.info/labs/happy-easter)) by [Maryna](http://marynaaleksandrova.com)
+* CSS3 Animations ([Valentine Card](http://marynaaleksandrova.info/labs/valentine-card), [Gears System](http://marynaaleksandrova.info/labs/gears-system), [Happy Easter](http://marynaaleksandrova.info/labs/happy-easter)) by [Maryna](http://marynaaleksandrova.com) - **Hack of the month**
 * [Board - Online scrapbook and mood board for designers](http://board.creonomy.com/) by [Corrado](https://twitter.com/creonomy)
 * Bookworm Berlin by Bora
 * ChallengIN by Corado
