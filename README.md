@@ -122,7 +122,7 @@ This event was mislabeled \#46 on Meetup.
 
 2015-11-24 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/226945214/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/26573373/) | [@c-base](https://www.c-base.org)
 
-* [New BHNT timer: Raspberry-Pi-based count-down timer written in C++/OpenFrameworks](https://github.com/c-base/hackandtell-raspberry) by [Uwe](http://uwekamper.de)
+* [New BHNT timer: Raspberry-Pi-based count-down timer written in C++/OpenFrameworks](https://github.com/c-base/hackandtell-raspberry) by [Uwe Kamper](http://uwekamper.de)
 * The Merchant by Wolfram
 * [Unisport](https://github.com/k-nut/unisport) by [Knut](https://k-nut.eu)
 * [Fire Mind](https://www.youtube.com/channel/UCZgkyr3L9eiXNvtA7fYXVTw) by Zach - **Hack of the month**
@@ -183,7 +183,7 @@ This event was mislabeled \#46 on Meetup.
 
 * Tidus gem by Tobias
 * vimify by Philipp
-* YeahLetsDoThat Event Sourcing Demo by Uwe
+* YeahLetsDoThat Event Sourcing Demo by [Uwe Kamper](http://uwekamper.de)
 * Android Color Thief by Henrique
 * Mailbox Collection Time Filter by Tobi
 * [Kvmhosting - Script to manage KVM-based hosting, powered entirely by XSLT](https://vog.github.io/kvmhosting/) by [Volker](https://njh.eu)
@@ -306,7 +306,7 @@ This event was mislabeled \#46 on Meetup.
 * officegen by Ziv
 * Sonar beach ball by Amélie
 * [Bitcoinproof – Forgery-proof timestamping for your data](https://vog.github.io/bitcoinproof) by [Volker](https://njh.eu)
-* [Consumption Yoda](https://github.com/uwekamper/energyhack) by [Uwe](http://uwekamper.de)
+* [Consumption Yoda](https://github.com/uwekamper/energyhack) by [Uwe Kamper](http://uwekamper.de)
 * Chocolate Chomp by Timwi
 * [Evergreen pitch](http://www.evr.gr) by [Joel](https://twitter.com/fractastical)
 * [BREF](http://bref.mumblecore.org) by [Franck](https://twitter.com/frrancck)
@@ -377,7 +377,7 @@ This event was mislabeled \#46 on Meetup.
 * [NoFlo - JavaScript implementation of Flow-Based Programming](https://noflojs.org) by [Henri](https://github.com/bergie)
 * radvisor.net (Resident Advisor for mobile) by Antonio
 * Location Sharing (via websockets) by Tim
-* [Arduino/GPRS battery voltage monitor](https://github.com/uwekamper/BatteryMonitor/) by [Uwe](http://uwekamper.de)
+* [Arduino/GPRS battery voltage monitor](https://github.com/uwekamper/BatteryMonitor/) by [Uwe Kamper](http://uwekamper.de)
 * [Chirp Plant Watering Alarm](https://wemakethings.net/chirp/) by [Albert](https://twitter.com/miceuz)
 * codebrowser - web-based code browser by Oliver
 * epos - embedded persistent object store (think NoSQL) in Go by Andreas
@@ -463,7 +463,7 @@ This event was mislabeled \#46 on Meetup.
 
 2012-02-28 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/52922282/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/6337182/) | [@c-base](https://www.c-base.org)
 
-* [Arduino-based count-down timer for Hack & Tell on a green screen monitor](https://github.com/uwekamper/hackandtell) by [Uwe Kamper](http://www.uwekamper.de)
+* [Arduino-based count-down timer for Hack & Tell on a green screen monitor](https://github.com/uwekamper/hackandtell) by [Uwe Kamper](http://uwekamper.de)
 * [UnlockYourBrain](http://www.unlockyourbrain.com) by Georg
 * [TD-1 v0.5 aka "Dönercopter"](https://github.com/asdf-systems/td-1) ([Video](https://www.youtube.com/watch?v=OFCpW93pwqI)) by [Alexander Surma](https://github.com/surma)
 * [IBM Model M keyboard key 3d files](https://github.com/jaseg/Model-M) by [Jaseg](https://github.com/jaseg)
