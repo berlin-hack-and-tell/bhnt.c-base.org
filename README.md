@@ -8,7 +8,7 @@ Last Tuesday on each(~) month | [Meetup](https://www.meetup.com/de-DE/Berlin-Hac
 
 ## Berlin Hack & Tell \#0x0032 - Tracing rays
 
-2017-02-28 | 18:30 | [Meetup Event](https://www.meetup.com/de-DE/Berlin-Hack-and-Tell/events/237979164) | Photos | [@c-base](https://www.c-base.org)
+2017-02-28 | 18:30 | [Meetup Event](https://www.meetup.com/de-DE/Berlin-Hack-and-Tell/events/237979164) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/27657639) | [@c-base](https://www.c-base.org)
 
 * [CL-HTSQL](https://github.com/Ferada/cl-htsql) by [Olof](https://macrolet.net)
 * Stadt, Land, Wikidata by [Knut](https://k-nut.eu) - **Hack of the month**
