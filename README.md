@@ -208,7 +208,7 @@ This event was mislabeled \#46 on Meetup.
 * joukkue by aBe
 * imagediff by Sebastian
 * Image Binarizer 2000 Premium Pro by Mina
-* goandroid refactoring by [ligi](http://ligi.de)
+* [gobandroid refactoring](https://github.com/ligi/gobandroid) by [ligi](http://ligi.de)
 * Yowsup by Tarek - **Hack of the month**
 
 ## Berlin Hack & Tell \#30 - BACK FROM THE DEAD
