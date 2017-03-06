@@ -11,7 +11,7 @@ Last Tuesday on each(~) month | [Meetup](https://www.meetup.com/de-DE/Berlin-Hac
 2017-02-28 | 18:30 | [Meetup Event](https://www.meetup.com/de-DE/Berlin-Hack-and-Tell/events/237979164) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/27657639) | [@c-base](https://www.c-base.org)
 
 * [CL-HTSQL](https://github.com/Ferada/cl-htsql) by [Olof](https://macrolet.net)
-* Stadt, Land, Wikidata by [Knut](https://k-nut.eu) - **Hack of the month**
+* [Stadt, Land, Wikidata](https://stadt-land-wikidata.netlify.com/?#/) by [Knut](https://k-nut.eu) - **Hack of the month**
 * [New BHNT website and archive](https://github.com/berlin-hack-and-tell/berlin.hackandtell.org) by [Volker](https://njh.eu), [ligi](http://ligi.de) & [Philipp](https://stratha.us)
 * [slack-github-pulls - Slack command to retrieve open pull requests from the configured organisation](https://github.com/stefanhoth/slack-github-pulls) by [Stefan Hoth](http://stefanhoth.de)
 * [flachmann - TypeScript decorator-based Express extension, inspired by Flask](https://github.com/dkundel/flachmann) by [Dominik Kundel](https://github.com/dkundel)
