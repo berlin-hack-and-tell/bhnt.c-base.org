@@ -4,7 +4,7 @@ Last Tuesday on each(~) month | [Meetup](https://www.meetup.com/de-DE/Berlin-Hac
 
 ## Berlin Hack & Tell \#51
 
-2017-03-28 | 18:30 | Meetup Event | Photos | [@c-base](https://www.c-base.org)
+2017-04-25 | 18:30 | Meetup Event | Photos | [@c-base](https://www.c-base.org)
 
 ## Berlin Hack & Tell \#0x0032 - Tracing rays
 
