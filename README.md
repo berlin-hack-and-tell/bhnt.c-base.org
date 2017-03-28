@@ -100,9 +100,14 @@ This event was mislabeled \#46 on Meetup.
 
 2016-03-29 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/229872414/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/26852379/) | [@c-base](https://www.c-base.org)
 
-* [Counter - reimplemented](https://github.com/k-nut/counter-reimplemented) by [Knut](https://k-nut.eu)
+* Web of Science Scraper by Alia
+* CloudRunner by Sebastian
 * [prs - Tool for parallel reversal schedules](https://github.com/vog/prs) by [Volker](https://njh.eu) - **Hack of the month**
-* ... and others
+* [Counter - reimplemented](https://github.com/k-nut/counter-reimplemented) by [Knut](https://k-nut.eu)
+* Slate by Mario (Oreo)
+* Docker/Swarm by Jerome
+* Jekyll by [ligi](http://ligi.de)
+* Double Sided QR by Aleksei - **Hack of the month**
 
 ## Berlin Hack & Tell \#42 - Hacker's Guide to the Galaxy
 
@@ -114,7 +119,7 @@ This event was mislabeled \#46 on Meetup.
 
 * [Zappa](https://github.com/Miserlou/Zappa) ([mentioned in 33C3 - Gone in 60 Milliseconds](https://media.ccc.de/v/33c3-7865-gone_in_60_milliseconds)) by [Miserlou](https://github.com/Miserlou)
 * [Deepstream Tanks](https://github.com/deepstreamIO/ds-tutorial-tanks) by Yasser
-* [Kotlin TwitterBot](https://github.com/ligi/TwitterBot) by [ligi](http://ligi.de/) - **Hack of the month**
+* [Kotlin TwitterBot](https://github.com/ligi/TwitterBot) by [ligi](http://ligi.de) - **Hack of the month**
 * [mateplay](https://github.com/MichaelKreil/mateplay) for [Mate Light](https://github.com/jaseg/matelight) by [Michael Kreil](https://github.com/MichaelKreil)
 * ... and others
 
