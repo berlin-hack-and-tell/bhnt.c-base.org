@@ -107,7 +107,7 @@ This event was mislabeled \#46 on Meetup.
 * Slate by Mario (Oreo)
 * Docker/Swarm by Jerome
 * Jekyll by [ligi](http://ligi.de)
-* Double Sided QR by Aleksei - **Hack of the month**
+* Double Sided QR by Aleksei
 
 ## Berlin Hack & Tell \#42 - Hacker's Guide to the Galaxy
 
