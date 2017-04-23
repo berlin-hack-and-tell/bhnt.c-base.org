@@ -187,7 +187,7 @@ This event was mislabeled \#46 on Meetup.
 2015-03-31 | 18:30 | [Meetup Event](https://www.meetup.com/Berlin-Hack-and-Tell/events/221394273/) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/26018542/) | [@c-base](https://www.c-base.org)
 
 * Tidus gem by Tobias
-* vimify by Philipp
+* [vimify](https://github.com/strathausen/vimify) syntax highlighter by [Philipp](https://stratha.us)
 * YeahLetsDoThat Event Sourcing Demo by [Uwe Kamper](http://uwekamper.de)
 * Android Color Thief by Henrique
 * Mailbox Collection Time Filter by Tobi
