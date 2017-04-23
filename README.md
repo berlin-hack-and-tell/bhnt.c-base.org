@@ -215,6 +215,7 @@ This event was mislabeled \#46 on Meetup.
 * Image Binarizer 2000 Premium Pro by Mina
 * [gobandroid refactoring](https://github.com/ligi/gobandroid) by [ligi](http://ligi.de)
 * Yowsup by Tarek - **Hack of the month**
+* [qed.bas](https://github.com/strathausen/qed.bas) - QBasic pixel editor by [Philipp](https://stratha.us)
 
 ## Berlin Hack & Tell \#30 - BACK FROM THE DEAD
 
