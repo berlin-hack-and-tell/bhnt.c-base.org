@@ -6,6 +6,8 @@ Last Tuesday on each(~) month | [Meetup](https://www.meetup.com/de-DE/Berlin-Hac
 
 2017-04-25 | 18:30 | [Meetup Event](https://www.meetup.com/de-DE/Berlin-Hack-and-Tell/events/239295759) | Photos | [@c-base](https://www.c-base.org)
 
+* [mapscii](https://github.com/rastapasta/mapscii) by [Michael Straßburger](https://github.com/rastapasta) - **Hack of the month**
+
 ## Berlin Hack & Tell \#0x0032 - Tracing rays
 
 2017-02-28 | 18:30 | [Meetup Event](https://www.meetup.com/de-DE/Berlin-Hack-and-Tell/events/237979164) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/27657639) | [@c-base](https://www.c-base.org)
