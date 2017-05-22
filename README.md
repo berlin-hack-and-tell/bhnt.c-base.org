@@ -9,6 +9,7 @@ Last Tuesday on each(~) month | [Meetup](https://www.meetup.com/de-DE/Berlin-Hac
 * [mapscii](https://github.com/rastapasta/mapscii) by [Michael Straßburger](https://github.com/rastapasta) - **Hack of the month**
 * [Visual TDD and components documentation](https://toucantoco.com/en/tech-blog/tech/visual-tdd) by [davinov](http://david.nowinsky.net/)
 * [GitHub License Check](https://license-check.k-nut.eu/) by [Knut](https://k-nut.eu)
+* [FamilyEmoji](https://github.com/cketti/FamilyEmoji) by [cketti](http://cketti.de)
 
 ## Berlin Hack & Tell \#0x0032 - Tracing rays
 
