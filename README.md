@@ -4,7 +4,7 @@ Last Tuesday on each(~) month | [Meetup](https://www.meetup.com/de-DE/Berlin-Hac
 
 ## Berlin Hack & Tell \#51 - Twice as good!
 
-2017-04-25 | 18:30 | [Meetup Event](https://www.meetup.com/de-DE/Berlin-Hack-and-Tell/events/239295759) | Photos | [@c-base](https://www.c-base.org)
+2017-04-25 | 18:30 | [Meetup Event](https://www.meetup.com/de-DE/Berlin-Hack-and-Tell/events/239295759) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/27801826) | [@c-base](https://www.c-base.org)
 
 * [mapscii](https://github.com/rastapasta/mapscii) by [Michael Straßburger](https://github.com/rastapasta) - **Hack of the month**
 * [Visual TDD and components documentation](https://toucantoco.com/en/tech-blog/tech/visual-tdd) by [davinov](http://david.nowinsky.net/)
