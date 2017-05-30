@@ -6,6 +6,14 @@ Last Tuesday on each(~) month | [Meetup](https://www.meetup.com/de-DE/Berlin-Hac
 
 2017-05-30 | 18:30 | [Meetup Event](https://www.meetup.com/de-DE/Berlin-Hack-and-Tell/events/240347908) | Photos | [@c-base](https://www.c-base.org)
 
+* Poker on Ethereum by [acebusters](https://github.com/acebusters)
+* [c-flo](https://github.com/c-base/c-flo) by [Bergie](https://github.com/bergie)
+* DMX by [UK](https://github.com/uwekamper)
+* jsontyping by [Volker](https://njh.eu)
+* go file watching by Sebastian
+* The Update Framework in Rust (tuf-rust) by heartsucker
+* [routing.js](https://github.com/MichaelKreil/routing.js) by [Michael Kreil](https://github.com/michaelkreil) - **Hack of the month**
+
 ## Berlin Hack & Tell \#51 - Twice as good!
 
 2017-04-25 | 18:30 | [Meetup Event](https://www.meetup.com/de-DE/Berlin-Hack-and-Tell/events/239295759) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/27801826) | [@c-base](https://www.c-base.org)
