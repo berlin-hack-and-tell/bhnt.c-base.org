@@ -9,9 +9,9 @@ Last Tuesday on each(~) month | [Meetup](https://www.meetup.com/de-DE/Berlin-Hac
 * Poker on Ethereum by [acebusters](https://github.com/acebusters)
 * [c-flo](https://github.com/c-base/c-flo) by [Bergie](https://github.com/bergie)
 * DMX by [UK](https://github.com/uwekamper)
-* jsontyping by [Volker](https://njh.eu)
+* [jsontyping - JSON support for named tuples, datetime, etc.](https://github.com/m-click/jsontyping) by [Volker](https://njh.eu)
 * go file watching by Sebastian
-* The Update Framework in Rust (tuf-rust) by heartsucker
+* [rust-tuf - Rust implementation of The Update Framework (TUF)](https://github.com/heartsucker/rust-tuf) by [heartsucker](https://github.com/heartsucker)
 * [routing.js](https://github.com/MichaelKreil/routing.js) by [Michael Kreil](https://github.com/michaelkreil) - **Hack of the month**
 
 ## Berlin Hack & Tell \#51 - Twice as good!
