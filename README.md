@@ -13,6 +13,7 @@ Last Tuesday on each(~) month | [Meetup](https://www.meetup.com/de-DE/Berlin-Hac
 * go file watching by Sebastian
 * [rust-tuf - Rust implementation of The Update Framework (TUF)](https://github.com/heartsucker/rust-tuf) by [heartsucker](https://github.com/heartsucker)
 * [routing.js](https://github.com/MichaelKreil/routing.js) by [Michael Kreil](https://github.com/michaelkreil) - **Hack of the month**
+* [xltrtr - Transliterator between Latin script and Inuktitut and Russian Cyrillic](https://github.com/jarek/xltrtr) by [Jarek Piórkowski](http://piorkowski.ca)
 
 ## Berlin Hack & Tell \#51 - Twice as good!
 
