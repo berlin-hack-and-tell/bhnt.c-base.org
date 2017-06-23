@@ -4,7 +4,7 @@ Last Tuesday on each(~) month | [Meetup](https://www.meetup.com/de-DE/Berlin-Hac
 
 ## Berlin Hack & Tell \#52 - bhnt.titles[51]
 
-2017-05-30 | 18:30 | [Meetup Event](https://www.meetup.com/de-DE/Berlin-Hack-and-Tell/events/240347908) | Photos | [@c-base](https://www.c-base.org)
+2017-05-30 | 18:30 | [Meetup Event](https://www.meetup.com/de-DE/Berlin-Hack-and-Tell/events/240347908) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/27952408) | [@c-base](https://www.c-base.org)
 
 * Poker on Ethereum by [acebusters](https://github.com/acebusters)
 * [c-flo](https://github.com/c-base/c-flo) by [Bergie](https://github.com/bergie)
