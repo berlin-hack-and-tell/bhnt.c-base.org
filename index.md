@@ -1,3 +1,8 @@
+---
+layout: default
+image: /assets/logo.png
+---
+
 # Berlin Hack & Tell
 
 Last Tuesday on each(~) month | [Meetup](https://www.meetup.com/de-DE/Berlin-Hack-and-Tell) | [Twitter](https://twitter.com/BerlinHacknTell) | [@c-base](https://www.c-base.org)
