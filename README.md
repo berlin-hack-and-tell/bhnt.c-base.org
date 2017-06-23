@@ -2,6 +2,10 @@
 
 Last Tuesday on each(~) month | [Meetup](https://www.meetup.com/de-DE/Berlin-Hack-and-Tell) | [Twitter](https://twitter.com/BerlinHacknTell) | [@c-base](https://www.c-base.org)
 
+## Berlin Hack & Tell \#53 - The Hackening
+
+2017-06-27 | 18:30 | [Meetup Event](https://www.meetup.com/de-DE/Berlin-Hack-and-Tell/events/240989253) | Photos | [@c-base](https://www.c-base.org)
+
 ## Berlin Hack & Tell \#52 - bhnt.titles[51]
 
 2017-05-30 | 18:30 | [Meetup Event](https://www.meetup.com/de-DE/Berlin-Hack-and-Tell/events/240347908) | Photos | [@c-base](https://www.c-base.org)
