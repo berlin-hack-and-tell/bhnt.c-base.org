@@ -1,4 +1,7 @@
-theme: jekyll-theme-hacker
 name: Berlin Hack & Tell
 description: Here you find a list of hacks and winners of Berlin Hack & Tell
 url: http://berlin.hackandtell.org
+logo: /assets/logo.jpg
+
+gems:
+  - jekyll-seo-tag
