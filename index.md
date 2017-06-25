@@ -1,6 +1,6 @@
 ---
 layout: default
-image: /assets/logo.png
+image: /assets/logo.jpg
 ---
 
 # Berlin Hack & Tell
