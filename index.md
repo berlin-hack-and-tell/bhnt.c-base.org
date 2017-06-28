@@ -9,7 +9,16 @@ Last Tuesday on each(~) month | [Meetup](https://www.meetup.com/de-DE/Berlin-Hac
 
 ## Berlin Hack & Tell \#53 - The Hackening
 
-2017-06-27 | 18:30 | [Meetup Event](https://www.meetup.com/de-DE/Berlin-Hack-and-Tell/events/240989253) | Photos | [@c-base](https://www.c-base.org)
+2017-06-27 | 18:30 | [Meetup Event](https://www.meetup.com/de-DE/Berlin-Hack-and-Tell/events/240989253) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/27965665) | [@c-base](https://www.c-base.org)
+
+* Emoji Protocol - Yasser
+* [Zells](http://zells.org) (Smallest programming model with turtle) - Nikolas  - **Hack of the month**
+* Dacapo (Polyphonic pitch visualizer) - Markus
+* Swap micropayments - [Viktor Tron](https://twitter.com/zeligf)
+* [paritytrading](https://github.com/paritytrading) - Open source trading infrastructure - [Jvirtanen](https://github.com/jvirtanen)
+* Corto Project (a single API that wields the power to control anything)
+* BAUM (Color coordinated map of events happening nearby)
+* Hacker Surprise - [Metalab](https://metalab.at/) vending machine - Zerocity
 
 ## Berlin Hack & Tell \#52 - bhnt.titles[51]
 
