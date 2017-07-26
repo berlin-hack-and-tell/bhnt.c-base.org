@@ -16,7 +16,7 @@ Last Tuesday on each(~) month | [Meetup](https://www.meetup.com/de-DE/Berlin-Hac
 * [kottpd - REST framework for Kotlin-native](https://github.com/gimlet2/kottpd) by [Andrey](https://github.com/gimlet2)
 * 3yd - Price calculation with lex/yacc via PLY by Kroman
 * [wsb - Website Backup](https://github.com/vog/wsb) by [Volker](https://njh.eu)
-* cccTV - Android TV App for Chaos Computer Club videos by Stefan
+* [cccTV - Android TV App for Chaos Computer Club videos](https://github.com/stefanmedack/cccTV) by [Stefan Medack](https://github.com/stefanmedack)
 * [Internet of vacuum cleaners](https://github.com/c-base/c-flo) by [UK](https://github.com/uwekamper)
 * Better in-app browser by Tarek
 
