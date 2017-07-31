@@ -12,7 +12,7 @@ Last Tuesday on each(~) month | [Meetup](https://www.meetup.com/de-DE/Berlin-Hac
 2017-07-25 | 18:30 | [Meetup Event](https://www.meetup.com/de-DE/Berlin-Hack-and-Tell/events/241838987) | Photos | [@c-base](https://www.c-base.org)
 
 * [Pedals.io - web audio guitar effects](https://pedals.io) by [Armağan Amcalar](https://github.com/dashersw) - **Hack of the month**
-* [Claim the land!](https://land-rush.appspot.com) by [Karl Bartel](http://karl.berlin)
+* [Claim the land!](https://land-rush.appspot.com) ([Bitbucket](https://bitbucket.org/karlb/landrush)) by [Karl Bartel](http://karl.berlin)
 * [kottpd - REST framework for Kotlin-native](https://github.com/gimlet2/kottpd) by [Andrey](https://github.com/gimlet2)
 * 3yd - Price calculation with lex/yacc via PLY by Kroman
 * [wsb - Website Backup](https://github.com/vog/wsb) by [Volker](https://njh.eu)
