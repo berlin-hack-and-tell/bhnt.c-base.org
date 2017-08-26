@@ -7,6 +7,10 @@ image: /assets/logo.jpg
 
 Last Tuesday on each(~) month | [Meetup](https://www.meetup.com/de-DE/Berlin-Hack-and-Tell) | [Twitter](https://twitter.com/BerlinHacknTell) | [@c-base](https://www.c-base.org)
 
+## Berlin Hack & Tell \#55 - Post Eclipse Hacking
+
+2017-08-29 | 18:30 | [Meetup Event](https://www.meetup.com/de-DE/Berlin-Hack-and-Tell/events/242822556) | Photos | [@c-base](https://www.c-base.org)
+
 ## Berlin Hack & Tell \#54 - itshappening.gif
 
 2017-07-25 | 18:30 | [Meetup Event](https://www.meetup.com/de-DE/Berlin-Hack-and-Tell/events/241838987) | Photos | [@c-base](https://www.c-base.org)
