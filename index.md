@@ -9,7 +9,7 @@ Last Tuesday on each(~) month | [Meetup](https://www.meetup.com/de-DE/Berlin-Hac
 
 ## Berlin Hack & Tell \#54 - itshappening.gif
 
-2017-07-25 | 18:30 | [Meetup Event](https://www.meetup.com/de-DE/Berlin-Hack-and-Tell/events/241838987) | Photos | [@c-base](https://www.c-base.org)
+2017-07-25 | 18:30 | [Meetup Event](https://www.meetup.com/de-DE/Berlin-Hack-and-Tell/events/241838987) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/28114645) | [@c-base](https://www.c-base.org)
 
 * [Pedals.io - web audio guitar effects](https://pedals.io) by [Armağan Amcalar](https://github.com/dashersw) - **Hack of the month**
 * [Claim the land!](https://land-rush.appspot.com) ([Bitbucket](https://bitbucket.org/karlb/landrush)) by [Karl Bartel](http://karl.berlin)
