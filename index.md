@@ -11,6 +11,14 @@ Last Tuesday on each(~) month | [Meetup](https://www.meetup.com/de-DE/Berlin-Hac
 
 2017-08-29 | 18:30 | [Meetup Event](https://www.meetup.com/de-DE/Berlin-Hack-and-Tell/events/242822556) | Photos | [@c-base](https://www.c-base.org)
 
+* [wikidata-parliament](https://blog.k-nut.eu/wikidata-parliament-svg) by [Knut](https://k-nut.eu)
+* secret dogs (steganography) by wolfram
+* compiler by olaf
+* [release-tag](https://github.com/frehberg/rust-releasetag) by [frank](https://github.com/frehberg)
+* [web-midi experiments](https://github.com/dashersw/midi-experiments) by [Armağan Amcalar](https://github.com/dashersw) - **Hack of the month**
+* flatlands by david
+* node-crawler by olli
+
 ## Berlin Hack & Tell \#54 - itshappening.gif
 
 2017-07-25 | 18:30 | [Meetup Event](https://www.meetup.com/de-DE/Berlin-Hack-and-Tell/events/241838987) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/28114645) | [@c-base](https://www.c-base.org)
