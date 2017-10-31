@@ -11,6 +11,10 @@ Last Tuesday on each(~) month | [Meetup](https://www.meetup.com/de-DE/Berlin-Hac
 
 2017-10-31 | 18:30 | [Meetup Event](https://www.meetup.com/de-DE/Berlin-Hack-and-Tell/events/244520436) | Photos | [@c-base](https://www.c-base.org)
 
+* [Dominator - Fool-proof in-browser HTML/XML editor](https://github.com/justinkelly69/dominator) by [Justin Kelly](https://github.com/justinkelly69)
+* [brain-bitr - Brain-computer interface for writing text](https://github.com/dashersw/brain-bits) by [Armağan Amcalar](https://github.com/dashersw)
+* ...
+
 ## Berlin Hack & Tell \#55 - Post Eclipse Hacking
 
 2017-08-29 | 18:30 | [Meetup Event](https://www.meetup.com/de-DE/Berlin-Hack-and-Tell/events/242822556) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/28127352) | [@c-base](https://www.c-base.org)
