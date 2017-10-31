@@ -9,7 +9,7 @@ Last Tuesday on each(~) month | [Meetup](https://www.meetup.com/de-DE/Berlin-Hac
 
 ## Berlin Hack & Tell \#55 - Post Eclipse Hacking
 
-2017-08-29 | 18:30 | [Meetup Event](https://www.meetup.com/de-DE/Berlin-Hack-and-Tell/events/242822556) | Photos | [@c-base](https://www.c-base.org)
+2017-08-29 | 18:30 | [Meetup Event](https://www.meetup.com/de-DE/Berlin-Hack-and-Tell/events/242822556) | [Photos](https://www.meetup.com/Berlin-Hack-and-Tell/photos/28127352) | [@c-base](https://www.c-base.org)
 
 * [wikidata-parliament](https://blog.k-nut.eu/wikidata-parliament-svg) by [Knut](https://k-nut.eu)
 * secret dogs (steganography) by wolfram
