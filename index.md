@@ -12,7 +12,7 @@ Last Tuesday on each(~) month | [Meetup](https://www.meetup.com/de-DE/Berlin-Hac
 2017-10-31 | 18:30 | [Meetup Event](https://www.meetup.com/de-DE/Berlin-Hack-and-Tell/events/244520436) | Photos | [@c-base](https://www.c-base.org)
 
 * [Dominator - Fool-proof in-browser HTML/XML editor](https://github.com/justinkelly69/dominator) by [Justin Kelly](https://github.com/justinkelly69)
-* [brain-bits - Brain-computer interface for writing text](https://github.com/dashersw/brain-bits) by [Armağan Amcalar](https://github.com/dashersw)
+* [brain-bits - Brain-computer interface for writing text](https://github.com/dashersw/brain-bits) by [Armağan Amcalar](https://github.com/dashersw) - **Hack of the month**
 * [Verschwurbler - Custom HTML text obfuscator](https://schneeschni.github.io/verschwurbler) ([Code](https://github.com/Schneeschni/verschwurbler)) by [Schneeschni](https://github.com/Schneeschni)
 * [Earthmap - Air quality visualized from around the world](https://ocsidlab.github.io/earthmap) ([Code](https://github.com/ocsidlab/earthmap)) by [Arun Ganesh](https://github.com/planemad)
 * Audioslides - Updatable spoken text in videos (not yet online) by [Robin Böhm](https://twitter.com/robinboehm)
