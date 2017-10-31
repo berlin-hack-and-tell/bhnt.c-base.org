@@ -16,6 +16,7 @@ Last Tuesday on each(~) month | [Meetup](https://www.meetup.com/de-DE/Berlin-Hac
 * [Verschwurbler - Custom HTML text obfuscator](https://schneeschni.github.io/verschwurbler) ([Code](https://github.com/Schneeschni/verschwurbler)) by [Schneeschni](https://github.com/Schneeschni)
 * [Earthmap - Air quality visualized from around the world](https://ocsidlab.github.io/earthmap) ([Code](https://github.com/ocsidlab/earthmap)) by [Arun Ganesh](https://github.com/planemad)
 * Audioslides - Updatable spoken text in videos (not yet online) by [Robin Böhm](https://twitter.com/robinboehm)
+* Neural musicbox - Random MIDI music generator on a Raspberry Pi (not yet online) by [Aleksey Tikhonov](altsoph.com)
 * ...
 
 ## Berlin Hack & Tell \#55 - Post Eclipse Hacking
