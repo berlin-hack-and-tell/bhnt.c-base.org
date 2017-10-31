@@ -13,6 +13,7 @@ Last Tuesday on each(~) month | [Meetup](https://www.meetup.com/de-DE/Berlin-Hac
 
 * [Dominator - Fool-proof in-browser HTML/XML editor](https://github.com/justinkelly69/dominator) by [Justin Kelly](https://github.com/justinkelly69)
 * [brain-bitr - Brain-computer interface for writing text](https://github.com/dashersw/brain-bits) by [Armağan Amcalar](https://github.com/dashersw)
+* [Verschwurbler - Custom HTML text obfuscator](https://schneeschni.github.io/verschwurbler) ([Code](https://github.com/Schneeschni/verschwurbler)) by [Schneeschni](https://github.com/Schneeschni)
 * ...
 
 ## Berlin Hack & Tell \#55 - Post Eclipse Hacking
