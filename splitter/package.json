@@ -1,0 +1,19 @@
+{
+  "name": "bhnt-splitter",
+  "version": "1.0.0",
+  "description": "Splits the current main page into several jekyll posts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stefan Hoth",
+  "license": "MIT",
+  "bin": {
+    "splitter": "./index.js"
+  },
+  "dependencies": {
+    "node-file-parser": "^2.2.2",
+    "rxjs": "^5.5.2",
+    "slug": "^0.9.1"
+  }
+}
