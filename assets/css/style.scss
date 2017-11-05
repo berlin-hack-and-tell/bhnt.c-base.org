@@ -33,3 +33,84 @@ section#profiles {
   text-align: center;
 }
 
+nav.posts {
+font-size: 0.7em;
+display: block;
+width: auto;
+overflow: hidden;
+}
+
+nav.posts a {
+display: block;
+width: 50%;
+float: left;
+margin: 1em 0;
+}
+
+nav.posts a:link {
+  text-decoration: none;
+}
+
+nav.posts .next {
+text-align: right;
+}
+
+footer {
+  background: rgba(0, 0, 0, 0.1);
+  width: 100%;
+  border-top: 1px dashed #b5e853;
+  padding: 20px 0;
+  margin: 40px 0 0 0;
+  text-align: center;
+}
+
+.events {
+  display: grid;
+  grid-gap: 10px;
+  grid-template-columns: repeat(auto-fill, minmax(190px, 1fr) ) ;
+}
+
+.events .entry {
+  transition: background-color 1s ease;
+  background-color: #444;
+  color: #fff;
+  border-radius: 5px;
+  padding: 20px;
+  font-size: 0.8em;
+}
+
+@keyframes pulse {
+  from {
+    transform: scale3d(1, 1, 1);
+  }
+
+  50% {
+    transform: scale3d(1.05, 1.05, 1.05);
+  }
+
+  to {
+    transform: scale3d(1, 1, 1);
+  }
+}
+
+.events .entry:hover,
+.events .entry:focus,
+.events .entry:active {
+    animation: pulse 1s;
+    background-color: #666;
+}
+
+a.fill-div {
+    display: block;
+    height: 100%;
+    width: 100%;
+    text-decoration: none;
+    color: #b5e853;
+    cursor: pointer;
+}
+
+.events .entry .metadata {
+  font-size: 0.7em;
+  text-align: center;
+  color: white;
+}
