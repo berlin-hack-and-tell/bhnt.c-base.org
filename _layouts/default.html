@@ -13,15 +13,13 @@
 
     <header>
       <div class="container">
-        <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        <h1>{{ site.name | default: site.github.repository_name }}</h1>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
 
-        <section id="downloads">
-          {% if site.show_downloads %}
-            <a href="{{ site.github.zip_url }}" class="btn">Download as .zip</a>
-            <a href="{{ site.github.tar_url }}" class="btn">Download as .tar.gz</a>
-          {% endif %}
+        <section id="profiles">
           <a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
+          <a href="https://www.meetup.com/Berlin-Hack-and-Tell/" class="btn btn-meetup"><span class="icon"></span>On Meetup</a>
+          <a href="https://www.twitter.com/BerlinHacknTell/" class="btn btn-twitter"><span class="icon"></span>On Twitter</a>
         </section>
       </div>
     </header>
