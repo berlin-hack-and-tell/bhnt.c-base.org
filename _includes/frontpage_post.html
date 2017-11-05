@@ -1,0 +1,9 @@
+
+<a class="fill-div"
+  href="{{ include.entry.url }}"
+  title="{{ include.entry.title | markdownify | remove: '<p>' | remove: '</p>' }}">
+  <p class="metadata">
+    {{ include.entry.date | date_to_string  }}  {{ include.entry.time }}
+  </p>
+  {{ include.entry.title | markdownify | remove: 'Berlin Hack &amp; Tell ' }}
+</a>
