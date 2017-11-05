@@ -2,3 +2,34 @@
 ---
 
 @import 'jekyll-theme-hacker';
+
+.btn-meetup {
+  background: -webkit-linear-gradient(top, rgba(248,80,50,1) 0%, rgba(240,47,23,1) 50%, rgba(241,89,58,1) 100%);
+}
+
+.btn-meetup:hover {
+  background: -webkit-linear-gradient(top, rgba(248,80,11,1) 0%, rgba(248,80,50,1) 100%);
+}
+
+.btn-meetup .icon {
+  opacity: 1.0;
+  background: url("../images/meetup.png") 0 0 no-repeat;
+}
+
+.btn-twitter {
+  background: -webkit-linear-gradient(top, rgba(105,255,255,1) 0%, rgba(1,68,159,1) 100%);
+}
+
+.btn-twitter:hover {
+  background: -webkit-linear-gradient(top, rgba(1,68,159,1) 0%, rgba(105,255,255,1) 100%);
+}
+
+.btn-twitter .icon {
+  opacity: 1.0;
+  background: url("../images/twitter.png") 0 0 no-repeat;
+}
+
+section#profiles {
+  text-align: center;
+}
+
