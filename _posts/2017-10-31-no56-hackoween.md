@@ -5,7 +5,7 @@ date:   2017-10-31 13:37:42 +0100
 time: '18:30'
 location: '[c-base](https://www.c-base.org)'
 meetupUrl: https://www.meetup.com/de-DE/Berlin-Hack-and-Tell/events/244520436
-photosUrl: 
+photosUrl: https://www.meetup.com/Berlin-Hack-and-Tell/photos/28282523
 ---
 
 * [Dominator - Fool-proof in-browser HTML/XML editor](https://github.com/justinkelly69/dominator) by [Justin Kelly](https://github.com/justinkelly69)
