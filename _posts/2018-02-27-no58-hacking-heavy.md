@@ -14,4 +14,4 @@ meetupUrl: https://www.meetup.com/de-DE/Berlin-Hack-and-Tell/events/247993019/
 * [cocokiri](https://github.com/cocokiri) - [soundman](https://Dacapo.io/soundman) - **Hack of the month**
 * [etherbattleground team](https://etherbattleground.com) - Ethereum battle ground
 * cookiengineer - [lycheejs](https://github.com/Artificial-Engineering/lycheejs)
-* Kevin Frantz - formiko arduino
+* [Kevin Frantz](https://github.com/KevinFrantz) - [formiko arduino](https://github.com/KevinFrantz/formiko)
