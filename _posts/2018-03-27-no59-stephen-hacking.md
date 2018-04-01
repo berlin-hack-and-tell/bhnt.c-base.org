@@ -7,7 +7,7 @@ location: '[c-base](https://www.c-base.org)'
 meetupUrl: https://www.meetup.com/de-DE/Berlin-Hack-and-Tell/events/248929887/
 ---
 
-* WhatApps auto-responder bookmarklet by Emily
+* [WhatsApp autoRespond bookmarklet](https://gist.github.com/embrilliant/f1c2670f027d466a0979f56a4a47bdb0) by [Emily](https://twitter.com/emilywudigital)
 * [Pushover domino game](https://pushover.github.io) by [Volker](https://njh.eu) - **Hack of the month**
 * Chemistry VR gaming by cocokiri
 * BoardGameJerk, cheapbotsdonequick.com by [Chris Chinchilla](https://chrischinchilla.com)
