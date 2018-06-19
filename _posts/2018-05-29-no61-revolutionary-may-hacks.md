@@ -9,7 +9,7 @@ meetupUrl: https://www.meetup.com/de-DE/Berlin-Hack-and-Tell/events/251010410/
 
 * GDPR by Johannes
 * [Animating lava triangles](https://github.com/fassko/animatingLavaTriangles) by [Kristaps Grinbergs](https://github.com/fassko)
-* LGTM Chrome extension by Alex
+* [LGTM Chrome extension](https://github.com/soulim/lgtm) by [Alex Sulim](https://github.com/soulim)
 * [dyke.tech](https://www.dyke.tech/) by [Maya](https://github.com/22nds)
 * [rubtaga - toolkit for UI's with OpenGL](https://github.com/wrl/rutabaga) by [William Light](https://github.com/wrl)
 * [Griode - a music instrument](https://github.com/jpetazzo/griode) by [Jérôme Petazzoni](https://github.com/jpetazzo) - **Hack of the month**
