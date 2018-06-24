@@ -14,4 +14,4 @@ meetupUrl: https://www.meetup.com/de-DE/Berlin-Hack-and-Tell/events/251010410/
 * [rubtaga - toolkit for UI's with OpenGL](https://github.com/wrl/rutabaga) by [William Light](https://github.com/wrl)
 * [Griode - a music instrument](https://github.com/jpetazzo/griode) by [Jérôme Petazzoni](https://github.com/jpetazzo) - **Hack of the month**
 * [Headless Crossword: a use case for a headless browser and two #lifehacks](https://github.com/Wikinaut/headless-crossword) by [Wikinaut](https://github.com/Wikinaut)
-* [NodeJS vote by MAC](https://github.com/lucasrangit/nodejs-vote-by-mac) by [Lucas Rangit](https://github.com/lucasrangit)
+* [NodeJS vote by MAC](https://github.com/robotnyc/nodejs-vote-by-mac) by [Lucas Magasweran](https://github.com/lucasrangit)
