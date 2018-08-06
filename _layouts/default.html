@@ -14,16 +14,7 @@
     <header>
       <div class="container">
         <h1>{{ site.name | default: site.github.repository_name }}</h1>
-	<h2> Berlin Hack and Tell is a monthly meetup for creative hackers, designers and artists</h2>
-
-	<p> The rules are simple: On every last Tuesday of the month, there are eight slots for people that want
-	    to present their hacks. Every presenter has 5 minutes to present their hack, followed by five more minutes of questions 
-	    from the audience. The realm of what people can present is very open (e.g. your software side project or your latest
-	    hardware hack), we just ask presenters to follow our code of conduct and not pitch their startup but instead use this
-	    as a space to show all the silly things that they cannot present anywhere else. <br />
-	    Think of it like a sort of standup-hacking. </p>
-	<p> If this sounds fund to you, check our some of the past project below and visit our meetup page. We are looking forward to seeing you
-            at the next Berlin Hack and Tell! </p>
+        <h2>{{ site.description | default: site.github.project_tagline | markdownify }}</h2>
 	    
         <section id="profiles">
           <a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
