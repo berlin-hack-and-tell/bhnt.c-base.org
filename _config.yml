@@ -11,3 +11,15 @@ paginate: 100  #enables pagination, sets entries per page
 plugins:
   - jekyll-seo-tag
   - jekyll-paginate
+
+defaults:
+  -
+    scope:
+      layout: "slides"
+    values:
+      theme: "black"
+      transition: "slide"
+
+collections:
+  slides:
+    output: true
