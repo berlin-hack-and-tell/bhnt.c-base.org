@@ -40,12 +40,12 @@
     <div class="container">
         <nav class="posts">
             {% if page.previous.url %}
-              <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title | markdownify| remove: '<p>' | remove: '</p>'}}</a>
+              <a class="prev" href="{{ page.previous.url | relative_url }}">&laquo; {{page.previous.title | markdownify| remove: '<p>' | remove: '</p>'}}</a>
             {% else %}
               <a class="prev" />
             {% endif %}
             {% if page.next.url %}
-              <a class="next" href="{{page.next.url}}">{{page.next.title | markdownify | remove: '<p>' | remove: '</p>'}} &raquo;</a>
+              <a class="next" href="{{ page.next.url | relative_url }}">{{page.next.title | markdownify | remove: '<p>' | remove: '</p>'}} &raquo;</a>
             {% endif %}
         </nav>
 
@@ -55,6 +55,11 @@
           {% if page.location %}
             @ {{page.location | markdownify | remove: '<p>' | remove: '</p>'  }}
           {% endif %}
+          {% for slide in site.slides %}
+            {% if slide.title == page.title %}
+                // <a href='{{ slide.url | relative_url }}'>[&nbsp;Slides&nbsp;]</a>
+            {% endif %}
+          {% endfor %}
           {% if page.meetupUrl %}
             // <a href='{{ page.meetupUrl }}'>[&nbsp;Meetup&nbsp;]</a>
           {% endif %}

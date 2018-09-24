@@ -1,0 +1,25 @@
+---
+layout: default
+title: Slide Decks
+permalink: /slides/index.html
+---
+
+<h1 class="page-heading">Slide Decks</h1>
+
+<div class="events">
+{% for post in site.slides %}
+  <div class="entry">
+    <a class="fill-div"
+    href="{{ post.url }}"
+    title="{{ post.title | markdownify | remove: '<p>' | remove: '</p>' }}">
+    <p class="metadata">
+      {{ post.date | date_to_string  }}  {{ post.time }}
+    </p>
+      {{ post.title | markdownify | remove: 'Berlin Hack &amp; Tell ' }}
+    </a>
+  </div>
+{% endfor %}
+</div>
+
+<br/>
+Slides created with <a href="http://lab.hakim.se/reveal-js/">reveal.js</a>
