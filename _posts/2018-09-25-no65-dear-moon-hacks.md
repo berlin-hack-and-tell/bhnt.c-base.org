@@ -10,4 +10,4 @@ meetupUrl: https://www.meetup.com/de-DE/Berlin-Hack-and-Tell/events/254953945/
 
 * [megaman - Use pacman in other distros](https://github.com/ihucos/megaman) by [Irae Hueck Costa](https://github.com/ihucos)
 * [3D printed BHNT trophies](https://github.com/SP4CEberlin/hack-and-tell-berlin-3D-Trophy) by [Oliver](http://sp4ce.berlin) - **Hack of the month**
-
+* [Terminal Image visualization library](https://github.com/chr5tphr/tctim) by [Christopher](https://github.com/chr5tphr)
