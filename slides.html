@@ -10,7 +10,7 @@ permalink: /slides/index.html
 {% for post in site.slides %}
   <div class="entry">
     <a class="fill-div"
-    href="{{ post.url }}"
+    href="{{ post.url | relative_url }}"
     title="{{ post.title | markdownify | remove: '<p>' | remove: '</p>' }}">
     <p class="metadata">
       {{ post.date | date_to_string  }}  {{ post.time }}
