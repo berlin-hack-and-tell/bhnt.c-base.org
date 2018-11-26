@@ -1,6 +1,6 @@
 
 <a class="fill-div"
-  href="{{ include.entry.url }}"
+  href="{{ include.entry.url | relative_url }}"
   title="{{ include.entry.title | markdownify | remove: '<p>' | remove: '</p>' }}">
   <p class="metadata">
     {{ include.entry.date | date_to_string  }}  {{ include.entry.time }}
