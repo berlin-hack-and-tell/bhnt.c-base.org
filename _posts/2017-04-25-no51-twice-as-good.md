@@ -12,3 +12,7 @@ photosUrl: https://www.meetup.com/Berlin-Hack-and-Tell/photos/27801826
 * [Visual TDD and components documentation](https://toucantoco.com/en/tech-blog/tech/visual-tdd) by [davinov](http://david.nowinsky.net/)
 * [GitHub License Check](https://license-check.k-nut.eu/) by [Knut](https://k-nut.eu)
 * [FamilyEmoji](https://github.com/cketti/FamilyEmoji) by [cketti](http://cketti.de)
+* *Immo Snake* by [Said Tahsin Dane](https://github.com/tasomaniac)
+* *Hack this box* by [riot](https://github.com/ri0t)
+* *Pitch Detect* by Markus
+* *Berlinale NOW* by Adam
