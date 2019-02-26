@@ -19,6 +19,14 @@ We start 19:15 *sharpIsh*
 </section>
 
 <section data-markdown>
+1. `hello, world!`
+2. `hell o, world!`
+3. `hell world!`
+4. `good bye, world!`
+5. *segfaults clang*
+</section>
+
+<section data-markdown>
 ## Structure
 
 1. Intro (this)
