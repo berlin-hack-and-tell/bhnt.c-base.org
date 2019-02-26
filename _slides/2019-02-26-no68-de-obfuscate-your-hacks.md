@@ -94,12 +94,24 @@ _“my battery is low, and it’s getting very dark.”_
 
 </section>
 
+<section>
+<h2>News</h2>
+
+<center>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">This is what comes to my mind when people speak about conflict of interest in the blockchain space and push good people like <a href="https://twitter.com/Afri?ref_src=twsrc%5Etfw">@afri</a> out this way.<br>I suggest them this talk by <a href="https://twitter.com/mi_ayako?ref_src=twsrc%5Etfw">@mi_ayako</a> and albert ni where this screenshot is from: <a href="https://t.co/iIMbafwGUl">https://t.co/iIMbafwGUl</a> <a href="https://t.co/r357rGPkcx">pic.twitter.com/r357rGPkcx</a></p>&mdash; ligi (@mr_ligi) <a href="https://twitter.com/mr_ligi/status/1098132820130783232?ref_src=twsrc%5Etfw">February 20, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</center>
+</section>
+
 <section data-markdown>
 ## News
 
-* [Public Data for Sustainability](https://greenbuzzberlin.de/event/public-data-for-sustainability/) March 1 @ c-base
+* [Public Data for Sustainability](https://greenbuzzberlin.de/event/public-data-for-sustainability/) March 1 @ c-base (speakers from plana.earth and codefor.de)
+* [International Open Data Day](https://www.meetup.com/OK-Lab-Berlin/events/258270849/) March 2nd @ wikimedia
+
 
 </section>
+
 
 <section>
 <h2>News</h2>
@@ -110,14 +122,6 @@ _“my battery is low, and it’s getting very dark.”_
 </center>
 </section>
 
-<section>
-<h2>News</h2>
-
-<center>
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">This is what comes to my mind when people speak about conflict of interest in the blockchain space and push good people like <a href="https://twitter.com/Afri?ref_src=twsrc%5Etfw">@afri</a> out this way.<br>I suggest them this talk by <a href="https://twitter.com/mi_ayako?ref_src=twsrc%5Etfw">@mi_ayako</a> and albert ni where this screenshot is from: <a href="https://t.co/iIMbafwGUl">https://t.co/iIMbafwGUl</a> <a href="https://t.co/r357rGPkcx">pic.twitter.com/r357rGPkcx</a></p>&mdash; ligi (@mr_ligi) <a href="https://twitter.com/mr_ligi/status/1098132820130783232?ref_src=twsrc%5Etfw">February 20, 2019</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</center>
-</section>
 
 <section data-markdown>
 This slide intentionally blankIsh
