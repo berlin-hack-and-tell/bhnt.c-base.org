@@ -104,7 +104,7 @@ SILENT MODE</br>
 </section>
 
 <section data-markdown>
-This slide intentionally blankIsh
+This slide is intentionally left blankIsh
 </section>
 
 <section>
