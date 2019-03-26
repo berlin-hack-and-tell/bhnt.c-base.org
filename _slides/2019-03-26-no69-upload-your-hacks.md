@@ -3,7 +3,7 @@ layout: slides
 title: Berlin Hack & Tell \#69 - Upload your hacks
 date: 2019-03-26
 time: '18:30'
-description: Slides for BHNT \#69
+description: Slides for BHNT #69
 ---
 
 <section data-markdown>
@@ -61,6 +61,13 @@ SILENT MODE</br>
 <section data-markdown>
 ## News
 
+![Article 13 demonstration](https://preview.redd.it/sh5mctmysqj21.jpg?width=960&crop=smart&auto=webp&s=ba2e17461ac5b1d16b5eabe58f8a6112426b0cf9)
+
+</section>
+
+<section data-markdown>
+## News
+
 ![Article 13 vote](https://pbs.twimg.com/media/D2lS2JaW0AAMD5L.jpg)
 
 </section>
@@ -86,6 +93,13 @@ SILENT MODE</br>
 
 * NSA (almost) releases Ghidra Software Reverse Engineering Framework on [github](https://github.com/NationalSecurityAgency/ghidra)
 * ![Ghidra Logo](https://www.nsa.gov/portals/70/Templates/Ghidra.png?ver=2019-01-31-122111-373)
+
+</section>
+
+<section data-markdown>
+## News
+
+` [insert random Kotlin news here] `
 
 </section>
 
