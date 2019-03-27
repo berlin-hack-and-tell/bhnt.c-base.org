@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Berlin Hack & Tell \#68 - De-obfuscate your hacks
-date: 2019-03-26
+date: 2019-02-26
 time: '18:30'
 location: '[c-base](https://www.c-base.org)'
 meetupUrl: https://www.meetup.com/de-DE/Berlin-Hack-and-Tell/events/259086485/
