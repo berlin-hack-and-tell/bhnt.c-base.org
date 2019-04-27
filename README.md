@@ -1,2 +1,7 @@
-### Run local jekyll
-Use buildSlides.sh or copy commands as needed from shell script to build and serve local files
+# Berlin Hack & Tell
+
+## Build
+
+This project uses the Jekyll static site generator. To build and host the site locally inside a temporary Docker container, execute the following, and connect to http://localhost:8080/ .
+
+1. `build.sh`
