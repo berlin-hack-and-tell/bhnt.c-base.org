@@ -7,7 +7,7 @@ permalink: /slides/index.html
 <h1 class="page-heading">Slide Decks</h1>
 
 <div class="events">
-{% for post in site.slides %}
+{% for post in site.slides reversed %}
   <div class="entry">
     <a class="fill-div"
     href="{{ post.url | relative_url }}"
