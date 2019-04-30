@@ -93,6 +93,14 @@ SILENT MODE</br>
 
 </section>
 
+<section data-markdown>
+## News
+
+* New Meetup https://www.meetup.com/3HBerlin/ May 6th
+![Hardware Happy Hour]({{ 'assets/images/070/3hberlin.jpeg' | relative_url}})
+
+</section>
+
 <section>
 <h2>News</h2>
 <ul>
