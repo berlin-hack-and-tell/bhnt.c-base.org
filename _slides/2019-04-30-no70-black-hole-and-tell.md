@@ -96,6 +96,16 @@ SILENT MODE</br>
 <section>
 <h2>News</h2>
 <ul>
+<li>How not to regret the things that you will build</li>
+</ul>
+<center>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/830QFKrtgLA?start=4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+</section>
+
+<section>
+<h2>News</h2>
+<ul>
 <li>AI plays DeathMetal 24/7</li>
 </ul>
 <center>
