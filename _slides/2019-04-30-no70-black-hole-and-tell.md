@@ -137,9 +137,9 @@ This slide is intentionally left blankIsh
 
 <ul>
 <li>wifi:c-base-public</li>
-<li>http://172.31.79.23</li>
+<li>http://172.31.78.166</li>
 </ul>
 <center>
-<img src="http://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=http%3A%2F%2F172.31.79.23&amp;qzone=1&amp;margin=0&amp;size=400x400&amp;ecc=L" alt="qr code" />
+<img src="http://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=http%3A%2F%2F172.31.78.166&amp;qzone=1&amp;margin=0&amp;size=400x400&amp;ecc=L" alt="qr code" />
 </center>
 </section>
