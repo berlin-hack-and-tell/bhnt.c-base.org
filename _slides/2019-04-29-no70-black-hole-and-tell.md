@@ -1,6 +1,6 @@
 ---
 layout: slides
-title: Berlin Hack & Tell \#70 - Upload your hacks
+title: Berlin Hack & Tell \#70 - Black hole & Tell
 date: 2019-04-30
 time: '19:00'
 description: Slides for BHNT #70
