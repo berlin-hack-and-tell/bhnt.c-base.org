@@ -92,12 +92,15 @@ SILENT MODE</br>
 ![Assange out of Embassy]({{ 'assets/images/070/assange.png' | relative_url}})
 
 </section>
-<section data-markdown>
-## News
-###### AI plays DeathMetal 24/7 
 
-![AI plays DeathMetal]({{ 'assets/images/070/rise_of_the_machines.png' | relative_url}}) 
-
+<section>
+<h2>News</h2>
+<ul>
+<li>AI plays DeathMetal 24/7</li>
+</ul>
+<center>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/CNNmBtNcccE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
 </section>
 
 <section data-markdown>
