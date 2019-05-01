@@ -1,13 +1,13 @@
 ---
 layout: slides
-title: Berlin Hack & Tell \#70 - Black hole & Tell
+title: Berlin Hack & Tell \#70 - Black Hole & Tell
 date: 2019-04-30
 time: '19:00'
 description: Slides for BHNT #70
 ---
 
 <section data-markdown>
-## Berlin Hack & Tell \#70 - Black hole & Tell
+## Berlin Hack & Tell \#70 - Black Hole & Tell
 
 We start 19:15 *sharpIsh*
 </section>
