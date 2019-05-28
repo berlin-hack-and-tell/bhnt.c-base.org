@@ -68,6 +68,13 @@ Volker wins at IOCCC
 <section data-markdown>
 ## News
 
+Julian Assange is now in prison.
+</section>
+
+
+<section data-markdown>
+## News
+
 Microsoft Build
 </section>
 
@@ -75,6 +82,12 @@ Microsoft Build
 ## News
 
 Github Satellite
+</section>
+
+<section data-markdown>
+## News
+
+re:publica
 </section>
 
 <section data-markdown>
@@ -97,12 +110,17 @@ Google breaks up with Huawei
 
 </section>
 
-
 <section data-markdown>
 ## News
 
 Wahl-O-Mat has to be taken offline
 
+</section>
+
+<section data-markdown>
+## News
+
+Linux Journal ASCII Art Contest
 </section>
 
 <section data-markdown>
