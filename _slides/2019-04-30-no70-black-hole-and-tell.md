@@ -1,13 +1,13 @@
 ---
 layout: slides
-title: Berlin Hack & Tell \#70 - Black hole & Tell
+title: Berlin Hack & Tell \#70 - Black Hole & Tell
 date: 2019-04-30
 time: '19:00'
 description: Slides for BHNT #70
 ---
 
 <section data-markdown>
-## Berlin Hack & Tell \#70 - Black hole & Tell
+## Berlin Hack & Tell \#70 - Black Hole & Tell
 
 We start 19:15 *sharpIsh*
 </section>
@@ -137,9 +137,9 @@ This slide is intentionally left blankIsh
 
 <ul>
 <li>wifi:c-base-public</li>
-<li>http://172.31.79.23</li>
+<li>http://172.31.78.166</li>
 </ul>
 <center>
-<img src="http://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=http%3A%2F%2F172.31.79.23&amp;qzone=1&amp;margin=0&amp;size=400x400&amp;ecc=L" alt="qr code" />
+<img src="http://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=http%3A%2F%2F172.31.78.166&amp;qzone=1&amp;margin=0&amp;size=400x400&amp;ecc=L" alt="qr code" />
 </center>
 </section>
