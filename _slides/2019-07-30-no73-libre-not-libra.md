@@ -86,7 +86,8 @@ SILENT MODE</br>
 
 <section>
 
-<iframe class="stretch" data-src="https://twitter.com/RealBankReform/status/1151541426179756032"></iframe>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">.<a href="https://twitter.com/AOC?ref_src=twsrc%5Etfw">@AOC</a>: You said you’d be open to accepting 100% of your pay in <a href="https://twitter.com/hashtag/Libra?src=hash&amp;ref_src=twsrc%5Etfw">#Libra</a>. There’s a term for being paid in a corporate-controlled currency. Do you know what that term is?<br>Marcus: No<br>AOC: It’s called scrip. <a href="https://t.co/AlsmIlvSR9">pic.twitter.com/AlsmIlvSR9</a></p>&mdash; AFR (@RealBankReform) <a href="https://twitter.com/RealBankReform/status/1151541426179756032?ref_src=twsrc%5Etfw">July 17, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 </section>
 
 <section>
