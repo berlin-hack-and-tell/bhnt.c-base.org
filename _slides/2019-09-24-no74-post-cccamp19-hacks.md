@@ -32,6 +32,7 @@ We start 19:15 *sharpIsh*
 ## Rules
 
 1. Be excellent to each other
+1. Do not smoke
 1. You get 5 minutes to present in English
 1. You or your team should have built it yourself
 1. People get 5 minutes Q&A afterwards
