@@ -1,7 +1,7 @@
 ---
 layout: slides
 title: Berlin Hack & Tell \#74 - Post CCCamp19 hacks
-date: 2019-07-30
+date: 2019-09-24
 time: '19:00'
 description: Slides for BHNT #74
 ---
