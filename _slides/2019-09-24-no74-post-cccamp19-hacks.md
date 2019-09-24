@@ -60,6 +60,10 @@ SILENT MODE</br>
 ![Hack and Tell Trophey]({{ '/assets/images/trophy.jpg' | relative_url }})
 </section>
 
+<section><center>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The <a href="https://twitter.com/loomnetwork?ref_src=twsrc%5Etfw">@loomnetwork</a> just died for me. We should not embrace libra - we should fight it! <a href="https://t.co/t4SFzpZyDv">https://t.co/t4SFzpZyDv</a><br>Please also watch the great talk by <a href="https://twitter.com/harryhalpin?ref_src=twsrc%5Etfw">@harryhalpin</a> at CCCamp19 about it.<a href="https://t.co/PJvpHzWxOM">https://t.co/PJvpHzWxOM</a></p>&mdash; ligi (@mr_ligi) <a href="https://twitter.com/mr_ligi/status/1167343191990906880?ref_src=twsrc%5Etfw">August 30, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</center></section>
+
 <section data-markdown>
 
 ## NVIDIA releases GPU docs under MIT license
@@ -118,6 +122,16 @@ https://openpowerfoundation.org/the-next-step-in-the-openpower-foundation-journe
 
 </section>
 
+<section>
+<center>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Try to imagine this at <a href="https://twitter.com/ccc?ref_src=twsrc%5Etfw">@ccc</a>.<br>Just for a second.<br>Won‘t happen. <a href="https://t.co/ok2Pwo7Kyo">https://t.co/ok2Pwo7Kyo</a></p>&mdash; linuzifer (@Linuzifer) <a href="https://twitter.com/Linuzifer/status/1174356016303136771?ref_src=twsrc%5Etfw">September 18, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</center>
+</section>
+
+<section><center>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Publish your metadata and the source code to SWARM and IPFS<a href="https://twitter.com/ethswarm?ref_src=twsrc%5Etfw">@ethswarm</a> <a href="https://twitter.com/IPFSbot?ref_src=twsrc%5Etfw">@IPFSbot</a><br> <a href="https://twitter.com/Yann300?ref_src=twsrc%5Etfw">@Yann300</a> <a href="https://twitter.com/ethchris?ref_src=twsrc%5Etfw">@ethchris</a> <a href="https://twitter.com/LianaHusikyan?ref_src=twsrc%5Etfw">@LianaHusikyan</a> <a href="https://twitter.com/mr_ligi?ref_src=twsrc%5Etfw">@mr_ligi</a><br><br>🎧💜💛 <a href="https://t.co/51yBf0NQwY">https://t.co/51yBf0NQwY</a><a href="https://twitter.com/hashtag/remixide?src=hash&amp;ref_src=twsrc%5Etfw">#remixide</a> <a href="https://twitter.com/hashtag/ethereumremix?src=hash&amp;ref_src=twsrc%5Etfw">#ethereumremix</a></p>&mdash; EthereumRemix (@EthereumRemix) <a href="https://twitter.com/EthereumRemix/status/1174329434423398401?ref_src=twsrc%5Etfw">September 18, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</center></section>
+
 <section data-markdown>
 
 ## Open Hardware Month
@@ -131,6 +145,10 @@ http://ohm.oshwa.org/events/
 ![Open Hardware Month](https://www.oshwa.org/wp-content/uploads/2019/07/opensourceHWmonth_Logo3_2.png)
 
 </section>
+
+<section><center>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Almost done! 💪<br><br>Are you ready for the 6th annual Hackers Congress? The <a href="https://twitter.com/hashtag/hcpp19?src=hash&amp;ref_src=twsrc%5Etfw">#hcpp19</a> day is almost here and we couldn&#39;t be more excited! Will you be there?<a href="https://twitter.com/hashtag/OptOut?src=hash&amp;ref_src=twsrc%5Etfw">#OptOut</a> <a href="https://twitter.com/hashtag/decentralization?src=hash&amp;ref_src=twsrc%5Etfw">#decentralization</a> <a href="https://twitter.com/hashtag/hackers?src=hash&amp;ref_src=twsrc%5Etfw">#hackers</a> <a href="https://twitter.com/hashtag/Congress?src=hash&amp;ref_src=twsrc%5Etfw">#Congress</a> <a href="https://t.co/Ga5owP7wF8">pic.twitter.com/Ga5owP7wF8</a></p>&mdash; Paralelni Polis #HCPP19 (@Paralelni_polis) <a href="https://twitter.com/Paralelni_polis/status/1176168722261827584?ref_src=twsrc%5Etfw">September 23, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</center></section>
 
 <section data-markdown>
 ## News from the audience
@@ -147,9 +165,9 @@ This slide is intentionally left blankIsh
 
 <ul>
 <li>wifi:c-base-public</li>
-<li>http://172.31.78.152</li>
+<li>http://172.31.78.73</li>
 </ul>
 <center>
-<img src="http://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=http%3A%2F%2F172.31.78.152&amp;qzone=1&amp;margin=0&amp;size=400x400&amp;ecc=L" alt="qr code" />
+<img src="http://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=http%3A%2F%2F172.31.78.73&amp;qzone=1&amp;margin=0&amp;size=400x400&amp;ecc=L" alt="qr code" />
 </center>
 </section>
