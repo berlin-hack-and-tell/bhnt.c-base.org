@@ -1,6 +1,6 @@
 ---
 layout: slides
-title: Berlin Hack & Tell \#75 - Open Hardware Hacks
+title: Berlin Hack & Tell \#75 - Open Hard\[ware\] Hacks
 date: 2019-10-29
 time: '19:00'
 description: Slides for BHNT #75
