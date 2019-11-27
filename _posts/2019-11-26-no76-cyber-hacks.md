@@ -8,7 +8,7 @@ meetupUrl: https://www.meetup.com/de-DE/Berlin-Hack-and-Tell/events/266666670/
 ---
 
 * CExploit in Browser by Hanno
-* [GNU Taler](taler.net) by sva
+* [GNU Taler](https://taler.net) by sva
 * blackhole.fs by [Michael](https://github.com/michaelkreil) - **Hack of the month**
 * bezier.js by [Ronald](https://twitter.com/Ooskapenaar)
 * [embellish.css](https://github.com/jzilg/embellish.css) by [Johannes](https://github.com/jzilg)
