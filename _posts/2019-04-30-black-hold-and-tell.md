@@ -15,3 +15,4 @@ meetupUrl: https://www.meetup.com/Berlin-Hack-and-Tell/events/260731561/
 * [OpenSCAD _extrude](https://github.com/benjaminwand/_extrude) by [Benjamin Wand](https://github.com/benjaminwand)
 * [Zells](https://github.com/zells/core) by [Nikolas Martens](https://github.com/rtens)
 * [spanish Python](https://github.com/KevinFrantz/spanish) by [Kevin Frantz](https://github.com/KevinFrantz)
+* [Spritemate](https://github.com/Esshahn/spritemate) by [Ingo Hinterding](https://github.com/Esshahn)
