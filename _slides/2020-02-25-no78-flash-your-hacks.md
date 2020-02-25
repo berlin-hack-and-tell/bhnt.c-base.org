@@ -111,6 +111,17 @@ SILENT MODE</br>
 </center>
 </section>
 
+<section data-markdown>
+## Rpi4 hardware fix for USB type c has silently been released.
+
+https://www.theregister.co.uk/2020/02/21/pi_4_fixed/
+</section>
+
+<section data-markdown>
+## EU recommends staff to us Signal as messaging app
+
+https://www.politico.eu/pro/eu-commission-to-staff-switch-to-signal-messaging-app/
+</section>
 
 <section data-markdown>
 ## News from the audience
