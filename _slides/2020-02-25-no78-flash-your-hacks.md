@@ -59,8 +59,7 @@ SILENT MODE</br>
 </section>
 
 <section>
-<h2><a href="https://pad.systemli.org/p/bhnt078">pad.systemli.org/p/bhnt078</a></h2>
-<!--<iframe class="stretch" data-src="https://pad.systemli.org/p/bhnt078"></iframe>-->
+<pre>https://pad.systemli.org/p/bhnt078</pre>
 </section>
 
 <section data-markdown>
