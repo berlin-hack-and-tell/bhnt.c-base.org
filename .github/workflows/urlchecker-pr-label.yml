@@ -42,6 +42,7 @@ jobs:
         # only include the changed files
         include_files: ${{ env.files }}
         print_all: true
+        white_listed_urls: http://api.qrserver.com,http://172.
         
     # In case of failure, upload results as artifacts
     - name: Archive URL checking results
