@@ -1,6 +1,6 @@
 ---
 layout: slides
-title: Berlin Hack & Tell \#78 - Flash your hacks
+title: Berlin Hack & Tell \#78 - Flash Your Hacks
 date: 2020-02-24
 time: '19:00'
 description: Slides for BHNT #78
