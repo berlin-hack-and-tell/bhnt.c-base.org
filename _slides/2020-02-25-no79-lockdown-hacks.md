@@ -50,7 +50,7 @@ We start 20:15 *sharpIsh*
 * Desinfect hands on entry.
 * Fill out alien form (names, addresses, numbers) in a box that is locked with multiple locks and distributed keys. Alternatively, members can use the member form (nickname only).
 * Keep chairs 1.5m apart.
-* Wear FFP2 or medical masks when not on their place.
+* Wear FFP2 or medical masks when not on your place.
 
 Feedback: https://hackmd.io/@7Fg8bIzDQ1mC8YPHe0Difg/SJUY4UZxK
 </section>
