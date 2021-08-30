@@ -108,6 +108,13 @@ SILENT MODE</br>
 </center>
 </section>
 
+<section>
+<center>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Happy retroactive 10 year anniversary <a href="https://twitter.com/BerlinHacknTell?ref_src=twsrc%5Etfw">@BerlinHacknTell</a> ! <a href="https://twitter.com/hashtag/BHNT?src=hash&amp;ref_src=twsrc%5Etfw">#BHNT</a> <a href="https://twitter.com/hashtag/4ever?src=hash&amp;ref_src=twsrc%5Etfw">#4ever</a> <a href="https://t.co/yhxwWIvM2m">https://t.co/yhxwWIvM2m</a></p>&mdash; Lucas Magasweran (@lucasrangit) <a href="https://twitter.com/lucasrangit/status/1432465446914166787?ref_src=twsrc%5Etfw">August 30, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</center>
+</section>
+
+
 <section data-markdown>
 ## News from the audience
 
