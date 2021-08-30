@@ -48,7 +48,7 @@ We start 20:15 *sharpIsh*
 
 * Be fully vaccinated, recovered, or tested negative.
 * Desinfect hands on entry.
-* Fill out alien form (names, addresses, numbers) in a box that is locked with multiple locks and distributed keys. Alternatively, members can use the member form (nickname only).
+* Fill out alien form (names, addresses, numbers) as alien - members can use the member form (nickname only).
 * Keep chairs 1.5m apart.
 * Wear FFP2 or medical masks when not on your place.
 
@@ -86,33 +86,143 @@ SILENT MODE</br>
 
 <section>
 <center>
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">30 years ago today <a href="https://twitter.com/hashtag/LinusTorvalds?src=hash&amp;ref_src=twsrc%5Etfw">#LinusTorvalds</a> introduced Linux to the world, sending this email out to fellow coders asking for their thoughts and help. Linux was a hobby project that went on to change the lives of many + the world. Happy Birthday Linux! <a href="https://twitter.com/hashtag/30YearsofLinux?src=hash&amp;ref_src=twsrc%5Etfw">#30YearsofLinux</a> <a href="https://twitter.com/hashtag/linux?src=hash&amp;ref_src=twsrc%5Etfw">#linux</a> <a href="https://twitter.com/hashtag/opensource?src=hash&amp;ref_src=twsrc%5Etfw">#opensource</a> <a href="https://t.co/y38NNVV605">pic.twitter.com/y38NNVV605</a></p>&mdash; The Linux Foundation (@linuxfoundation) <a href="https://twitter.com/linuxfoundation/status/1430539222142885898?ref_src=twsrc%5Etfw">August 25, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<img src="/assets/images/079/30_years_linux.png"/>
+</center>
+</section>
+
+
+<section>
+<center>
+10 Yeas Frag Den Staat
+https://fragdenstaat.de/blog/2021/08/01/10-jahre-fragdenstaat/
+<img src="/assets/images/079/fortschritte.png"/>
+</center>
+</section>
+
+
+<section>
+<center>
+<img src="/assets/images/079/10_years_kotlin.png"/>
 </center>
 </section>
 
 <section>
 <center>
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Here&#39;s why Valve is switching from Debian to Arch for SteamOS 3. <a href="https://t.co/cEtllxzMSg">https://t.co/cEtllxzMSg</a></p>&mdash; PC Gamer (@pcgamer) <a href="https://twitter.com/pcgamer/status/1424773118980247552?ref_src=twsrc%5Etfw">August 9, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<img src="/assets/images/079/10_years_bhnt.png"/>
 </center>
 </section>
 
 <section>
 <center>
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">- communicate between polynetwork and hacker and refund update<br><br>✅Update from google Sheet for faster<a href="https://t.co/LVTwhFlURs">https://t.co/LVTwhFlURs</a></p>&mdash; LoganX2025 (@LX2025) <a href="https://twitter.com/LX2025/status/1425425465913712645?ref_src=twsrc%5Etfw">August 11, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<img src="/assets/images/079/cdu_ccc1.png"/>
 </center>
 </section>
 
 <section>
 <center>
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/ClimateChange?src=hash&amp;ref_src=twsrc%5Etfw">#ClimateChange</a> is widespread, rapid, &amp; intensifying – <a href="https://twitter.com/hashtag/IPCC?src=hash&amp;ref_src=twsrc%5Etfw">#IPCC</a><br><br>Scientists are observing changes in the Earth’s climate in every region &amp; across the whole climate system, says the IPCC’s latest <a href="https://twitter.com/hashtag/ClimateReport?src=hash&amp;ref_src=twsrc%5Etfw">#ClimateReport</a>, released today.<br><br>➡️ <a href="https://t.co/4t8uyqoLXN">https://t.co/4t8uyqoLXN</a><br>➡️ <a href="https://t.co/uU8bb4inBB">https://t.co/uU8bb4inBB</a> <a href="https://t.co/e3oAgQJQWe">pic.twitter.com/e3oAgQJQWe</a></p>&mdash; IPCC (@IPCC_CH) <a href="https://twitter.com/IPCC_CH/status/1424647550871670788?ref_src=twsrc%5Etfw">August 9, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<img src="/assets/images/079/cdu_ccc2.png"/>
 </center>
 </section>
 
 <section>
 <center>
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Happy retroactive 10 year anniversary <a href="https://twitter.com/BerlinHacknTell?ref_src=twsrc%5Etfw">@BerlinHacknTell</a> ! <a href="https://twitter.com/hashtag/BHNT?src=hash&amp;ref_src=twsrc%5Etfw">#BHNT</a> <a href="https://twitter.com/hashtag/4ever?src=hash&amp;ref_src=twsrc%5Etfw">#4ever</a> <a href="https://t.co/yhxwWIvM2m">https://t.co/yhxwWIvM2m</a></p>&mdash; Lucas Magasweran (@lucasrangit) <a href="https://twitter.com/lucasrangit/status/1432465446914166787?ref_src=twsrc%5Etfw">August 30, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<img src="/assets/images/079/compose.png"/>
 </center>
 </section>
+
+<section>
+<center>
+<img src="/assets/images/079/android_book.png"/>
+</center>
+</section>
+
+<section>
+<center>
+<img src="/assets/images/079/valve_arch.png"/>
+</center>
+</section>
+
+<section>
+<center>
+<img src="/assets/images/079/polynetwork.jpg"/>
+</center>
+</section>
+
+
+<section>
+<center>
+<img src="/assets/images/079/geth_bug0.png"/>
+</center>
+</section>
+
+
+<section>
+<center>
+<img src="/assets/images/079/geth_bug1.png"/>
+</center>
+</section>
+
+<section>
+<center>
+<img src="/assets/images/079/geth_bug2.png"/>
+</center>
+</section>
+
+<section>
+<center>
+<img src="/assets/images/079/sv.png"/>
+</center>
+</section>
+
+<section>
+<center>
+<img src="/assets/images/079/ens.png"/>
+</center>
+</section>
+
+<section>
+<center>
+<img src="/assets/images/079/optimism.png"/>
+</center>
+</section>
+
+
+<section>
+<center>
+<img src="/assets/images/079/1559.png"/>
+</center>
+</section>
+
+<section>
+<center>
+<img src="/assets/images/079/pengg.png"/>
+</center>
+</section>
+
+<section>
+<center>
+<img src="/assets/images/079/apple.png"/>
+</center>
+</section>
+
+<section>
+<center>
+<img src="/assets/images/079/taliban.png"/>
+</center>
+</section>
+
+<section>
+<center>
+<img src="/assets/images/079/ai_day.png"/>
+</center>
+</section>
+
+<section>
+<center>
+<img src="/assets/images/079/fds_env.png"/>
+</center>
+</section>
+
 
 
 <section data-markdown>
