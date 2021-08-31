@@ -114,6 +114,12 @@ https://fragdenstaat.de/blog/2021/08/01/10-jahre-fragdenstaat/
 
 <section>
 <center>
+<img src="/assets/images/079/alles1_ausser0.jpg"/>
+</center>
+</section>
+
+<section>
+<center>
 <img src="/assets/images/079/cdu_ccc1.png"/>
 </center>
 </section>
