@@ -7,7 +7,7 @@ location: '[c-base](https://www.c-base.org)'
 meetupUrl: https://www.meetup.com/Berlin-Hack-and-Tell/events/261731520/
 ---
 
-* Pi OCR reader by [ctrlw](fhack.org)
+* [Pi OCR reader](https://github.com/ctrlw/magni) by [Markus](http://fhack.org/)
 * [Rest my case](https://github.com/katotopark/restmycase) by [katotopark](https://ozgurkorkmaz.io/)
 * [Luft](https://github.com/vrde/luft) by [vrde](https://github.com/vrde/)
 * [Spritemate](https://github.com/Esshahn/spritemate) by [Ingo Hinterding](http://www.awsm.de/)
