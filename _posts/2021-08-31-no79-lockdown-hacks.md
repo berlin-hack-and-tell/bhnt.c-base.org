@@ -15,4 +15,4 @@ meetupUrl: https://www.meetup.com/de-DE/Berlin-Hack-and-Tell/events/280321478/
 * [OpenSSH: ssh_config](https://njh.eu/openssh) equivalents of -N, -s, -n and -f by [vog](https://github.com/vog)
 * I18n diff
 * Gamepad by [Oliver](https://github.com/SP4CEberlin)
-* Raspi magnifier
+* (Raspi magnifier)[https://github.com/ctrlw/magni] by [ctrlw](https://github.com/ctrlw)
