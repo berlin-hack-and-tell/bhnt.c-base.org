@@ -22,7 +22,7 @@ module.exports = {
             resolve: `gatsby-source-filesystem`,
             options: {
                 name: `images`,
-                path: `${__dirname}/content/images`,
+                path: `${__dirname}/src/images`,
             },
         },
         {
@@ -103,7 +103,7 @@ module.exports = {
               }
             `,
                         output: "/rss.xml",
-                        title: "Gatsby Starter Blog RSS Feed",
+                        title: "Berlin  Hack & Tell Feed",
                     },
                 ],
             },
