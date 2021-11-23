@@ -9,9 +9,26 @@
   "private": false,
   "dependencies": {
     "gatsby": "^4.2.0",
+    "gatsby-plugin-feed": "^4.2.0",
+    "gatsby-plugin-gatsby-cloud": "^4.2.0",
+    "gatsby-plugin-google-analytics": "^4.2.0",
+    "gatsby-plugin-image": "^2.2.0",
+    "gatsby-plugin-manifest": "^4.2.0",
+    "gatsby-plugin-offline": "^5.2.0",
+    "gatsby-plugin-react-helmet": "^5.2.0",
+    "gatsby-plugin-sharp": "^4.2.0",
+    "gatsby-remark-copy-linked-files": "^5.2.0",
+    "gatsby-remark-images": "^6.2.0",
+    "gatsby-remark-prismjs": "^6.2.0",
+    "gatsby-remark-responsive-iframe": "^5.2.0",
+    "gatsby-remark-smartypants": "^5.2.0",
+    "gatsby-source-filesystem": "^4.2.0",
     "gatsby-transformer-remark": "^5.2.0",
+    "gatsby-transformer-sharp": "^4.2.0",
+    "prismjs": "^1.25.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-helmet": "^6.1.0",
     "reveal.js": "^4.2.0"
   },
   "devDependencies": {
@@ -19,8 +36,9 @@
     "@babel/eslint-parser": "^7.16.3",
     "eslint": "^8.2.0",
     "prettier": "^2.4.1",
-    "typescript": "^4.5.2"
-  },  
+    "typescript": "^4.5.2",
+    "webpack": "^5.64.2"
+  },
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
@@ -29,5 +47,4 @@
     "serve": "gatsby serve",
     "clean": "gatsby clean"
   }
-    
 }
