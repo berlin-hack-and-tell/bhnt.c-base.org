@@ -20,5 +20,14 @@
     "eslint": "^8.2.0",
     "prettier": "^2.4.1",
     "typescript": "^4.5.2"
+  },  
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
+    "start": "gatsby develop",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
   }
+    
 }
