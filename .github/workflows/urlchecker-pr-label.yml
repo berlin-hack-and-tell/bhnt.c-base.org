@@ -1,11 +1,11 @@
 # From https://raw.githubusercontent.com/urlstechie/urlchecker-action/master/examples/urlchecker-pr-label.yml
-on: 
-  pull_request: 
+on:
+  pull_request:
     types: [labeled]
-    
+
 name: Commands
 
-jobs:  
+jobs:
   urlchecks:
     # check launched when a PR is labelled with the "needs-url-checks" label
     # create that label first :-)
@@ -13,11 +13,11 @@ jobs:
     name: check-urls
     runs-on: ubuntu-latest
 
-    steps:    
+    steps:
     # If you want to use git instead of the API to find changed files
     # Use something like https://github.com/actions/checkout#fetch-all-branches
     - uses: actions/checkout@v3
-     
+
     # As this only gets one page from the API it is limited to 30 files
     # for more, checkout with more depth (see earlier comment)
     # and use e.g. https://stackoverflow.com/a/41140296/5489251
@@ -31,19 +31,19 @@ jobs:
           --url https://api.github.com/repos/${{ github.repository }}/pulls/$PR/files \
           --header 'authorization: Bearer ${{ secrets.GITHUB_TOKEN }}' \
           --header 'Accept: application/vnd.github.antiope-preview+json' \
-          --header 'content-type: application/json' | jq --raw-output .[].filename | sed 's/^\|$/"/g'|paste -sd, - | tr -d \" | tr -d \') 
+          --header 'content-type: application/json' | jq --raw-output .[].filename | sed 's/^\|$/"/g'|paste -sd, - | tr -d \" | tr -d \')
           echo "::set-env name=files::$files"
-          
+
     # Run URL checks
     - name: URLs-checker
-      uses: urlstechie/urlchecker-action@0.2.31
+      uses: urlstechie/urlchecker-action@0.0.27
       with:
         save: "urls.csv"
         # only include the changed files
         include_files: ${{ env.files }}
-        print_all: true
-        white_listed_patterns: http://api.qrserver.com,http://172.
-        
+        print_all: true,
+        exclude_patterns: http://api.qrserver.com,http://172.
+
     # In case of failure, upload results as artifacts
     - name: Archive URL checking results
       if: failure()
