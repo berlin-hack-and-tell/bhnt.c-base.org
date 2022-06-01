@@ -57,6 +57,11 @@ SILENT MODE</br>
 <iframe class="stretch" data-src="https://berlinhackandtell.rocks"></iframe>
 </section>
 
+<section>
+<pre>https://pad.systemli.org/p/bhnt081</pre>
+<iframe name="embed_readwrite" src="https://pad.systemli.org/p/bhnt81?showControls=false&showChat=false&showLineNumbers=true&useMonospaceFont=true" width="100%" height="600" frameborder="0" class="stretch"></iframe>
+</section>
+
 <section data-markdown>
 ![Hack and Tell Trophey]({{ '/assets/images/trophy.jpg' | relative_url }})
 </section>
@@ -141,6 +146,30 @@ Open Source, the next version of XY, politics...
 This slide is intentionally left blankIsh
 </section>
 
+<section data-markdown>
+## Flea market
+
+1. Line up at the stage
+2. Stick to 1-2 sentences
+</section>
+
+<section data-markdown>
+## Help Lucas!
+</section>
+
+<section>
+<h2>Break</h2>
+
+<ul>
+<li>Until <input style="margin-left: 0.2em; font-size: 100%; width: 4em; border: 1px solid white; background-color: transparent; color: white; text-align: center;"></li>
+<li>Bottles back to the bar</li>
+<li>Update your presentation details:</li>
+</ul>
+<center>
+<img src="http://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=http%3A%2F%2Fpad.systemli.org%2Fp%2Fbhnt081&amp;qzone=1&amp;margin=0&amp;size=300x300&amp;ecc=L" alt="QR code">
+<div style="font-family: mono; font-size: 70%;">https://pad.systemli.org/p/bhnt081</div>
+</center>
+</section>
 
 <section>
 <h2>Vote</h2>
@@ -150,6 +179,6 @@ This slide is intentionally left blankIsh
 <li>http://172.31.78.111</li>
 </ul>
 <center>
-<img src="http://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=http%3A%2F%2F172.31.78.111&amp;qzone=1&amp;margin=0&amp;size=400x400&amp;ecc=L" alt="qr code" />
+<img src="http://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=http%3A%2F%2F172.31.78.111&amp;qzone=1&amp;margin=0&amp;size=400x400&amp;ecc=L" alt="QR code">
 </center>
 </section>
