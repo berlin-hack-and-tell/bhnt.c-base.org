@@ -12,6 +12,8 @@ jobs:
     if: contains(github.event.pull_request.labels.*.name, 'needs-url-checks')
     name: check-urls
     runs-on: ubuntu-latest
+    env:
+      ACTIONS_ALLOW_UNSECURE_COMMANDS: true
 
     steps:
     # If you want to use git instead of the API to find changed files
