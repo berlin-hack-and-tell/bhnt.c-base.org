@@ -7,4 +7,4 @@ updates:
     ignore:
       - dependency-name: "urlchecker-action"
         # Ignore old version scheme
-        versions: ["0.2.x"]
+        versions: ["0.2.x", "0.1.x"]
