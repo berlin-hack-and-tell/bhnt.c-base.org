@@ -38,7 +38,7 @@ jobs:
 
     # Run URL checks
     - name: URLs-checker
-      uses: urlstechie/urlchecker-action@0.0.27
+      uses: urlstechie/urlchecker-action@0.0.32
       with:
         save: "urls.csv"
         # only include the changed files
