@@ -12,8 +12,6 @@ jobs:
     if: contains(github.event.pull_request.labels.*.name, 'needs-url-checks')
     name: check-urls
     runs-on: ubuntu-latest
-    env:
-      ACTIONS_ALLOW_UNSECURE_COMMANDS: true
 
     steps:
     # If you want to use git instead of the API to find changed files
@@ -28,17 +26,17 @@ jobs:
     - name: list files
       run: |
           PR=$(jq --raw-output .pull_request.number "${GITHUB_EVENT_PATH}")
-          echo "::set-env name=PR::$PR"
+          echo "PR=${PR}" >> $GITHUB_ENV
           files=$(curl --request GET \
           --url https://api.github.com/repos/${{ github.repository }}/pulls/$PR/files \
           --header 'authorization: Bearer ${{ secrets.GITHUB_TOKEN }}' \
           --header 'Accept: application/vnd.github.antiope-preview+json' \
           --header 'content-type: application/json' | jq --raw-output .[].filename | sed 's/^\|$/"/g'|paste -sd, - | tr -d \" | tr -d \')
-          echo "::set-env name=files::$files"
+          echo "files=${files}" >> $GITHUB_ENV
 
     # Run URL checks
     - name: URLs-checker
-      uses: urlstechie/urlchecker-action@0.0.33
+      uses: urlstechie/urlchecker-action@master
       with:
         save: "urls.csv"
         # only include the changed files
