@@ -4,7 +4,7 @@ title: Berlin Hack & Tell \#81 - ReBooting BHNT
 date: 2022-05-31
 time: '19:30'
 location: '[c-base](https://www.c-base.org)'
-meetupUrl: https://www.meetup.com/de-DE/Berlin-Hack-and-Tell/events/286132341/
+meetupUrl: https://www.meetup.com/berlin-hack-and-tell/events/286132341/
 ---
 
 * [Lightbox for toddler](https://www.reddit.com/r/DIY/comments/sar7t1/our_two_year_old_loves_to_flick_the_lights_so_i/) by [Alex](https://www.reddit.com/user/Cupcake_Chef/) - **Hack of the Month**
