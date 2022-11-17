@@ -29,6 +29,19 @@
   background: url("/assets/images/twitter.png") 0 0 no-repeat;
 }
 
+.btn-mastodon {
+  background: -webkit-linear-gradient(top, #6362fd 0%, #573cce 100%);
+}
+
+.btn-mastodon:hover {
+  background: -webkit-linear-gradient(top, #573cce 0%, #6362fd 100%);
+}
+
+.btn-mastodon .icon {
+  opacity: 1.0;
+  background: url("/assets/images/mastodon.png") 0 0 no-repeat;
+}
+
 section#profiles {
   text-align: center;
 }
