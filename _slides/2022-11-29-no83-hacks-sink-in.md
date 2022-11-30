@@ -3,7 +3,7 @@ layout: slides
 title: Berlin Hack & Tell \#83 - Hacks sink in
 date: 2022-09-29
 time: '19:00'
-description: Slides for BHNT #83
+description: Slides for BHNT \#83
 ---
 
 <section data-markdown>
