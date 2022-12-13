@@ -13,6 +13,6 @@ meetupUrl: https://www.meetup.com/de-DE/berlin-hack-and-tell/events/289908789/
 * [ez-ssh-bot](https://github.com/echtzeit-dev/ez-ssh-bot) by Stefan - reverse SSH Telegram bot
 * [Cyberfame](https://cyberfame.io) by 0xAverageUser - security, manuals, UA, git repos, CVE scanning, remediation, OSS
 * FlashCards by Sam. [Application logic visualisation](https://stately.ai) demonstration on a FlashCards app
-* [Gemini protocol](https://gemini.circumlunar.space/docs/) by carl
+* [WikDict on Gemini protocol](https://github.com/karlb/wikdict-gemini) by [Karl](https://www.karl.berlin/)
 * custom i3/dmenu and display mode setup by [vog](https://github.com/vog)
 
