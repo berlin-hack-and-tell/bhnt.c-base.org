@@ -8,7 +8,7 @@ meetupUrl: https://www.meetup.com/de-DE/berlin-hack-and-tell/events/289908789/
 ---
 
 * [proofinprogress](https://github.com/timdaub/proofinprogress.com) by [Tim](https://github.com/timdaub) - Subtract, don't add and overcomplicate your website!
-* Gateway a board game by AFK - two parallel worlds, bring the six creatures back without violence- **Hack of the Month**
+* [Gateway](https://github.com/soulim/gateway) a board game by [Alex](https://github.com/soulim) - two parallel worlds, bring the six creatures back without violence- **Hack of the Month**
 * AI-generated [conversation card game](https://cards.langa.me) by [Langame](https://github.com/langa-me)
 * [ez-ssh-bot](https://github.com/echtzeit-dev/ez-ssh-bot) by Stefan - reverse SSH Telegram bot
 * [Cyberfame](https://cyberfame.io) by 0xAverageUser - security, manuals, UA, git repos, CVE scanning, remediation, OSS
