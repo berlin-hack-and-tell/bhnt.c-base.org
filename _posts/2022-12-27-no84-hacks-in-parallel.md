@@ -9,7 +9,7 @@ meetupUrl: https://www.meetup.com/de-DE/berlin-hack-and-tell/events/290351607/
 
 
 
-* [Q is a browser extension](https://github.com/soulim/q) by [Alexander Sulim](https://github.com/soulim/q)
+* [Q is a browser extension](https://github.com/soulim/q) by [Alexander Sulim](https://github.com/soulim)
 * [windradabstand](https://github.com/michaelkreil/windrandabstand) by [Michael Kreil](https://github.com/michaelkreil) - wind power, Germany, signed distance fields, map, shaders - **Hack of the Month**
 * [lilsumthing](https://github.com/cfcs/lilsumthing) by [cfcs](https://github.com/cfcs) - AST, Python, Gauss summations, arithmetic
 * [rust-vue-demo](https://github.com/frehberg/rust-vue-demo) by [Frank Rehberg](https://github.com/frehberg) - CANBUS, web UI, Rust, VueJS
