@@ -47,7 +47,7 @@ jobs:
     # In case of failure, upload results as artifacts
     - name: Archive URL checking results
       if: failure()
-      uses: actions/upload-artifact@v3.1.1
+      uses: actions/upload-artifact@v3.1.2
       with:
         name: urlchecker-results
         path: urls.csv
