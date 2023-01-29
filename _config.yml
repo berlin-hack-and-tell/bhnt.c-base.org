@@ -1,4 +1,5 @@
 name: Berlin Hack & Tell
+future: true
 description: >
   Berlin Hack and Tell is a monthly(ish) meetup where eight entities can show their hacks at [c-base space station](https://c-base.org) every(ish) last Tuesday of the month.
   There are 8 dynamically allocated Slots(5min presentation + 5min conversation with the audience)
@@ -20,7 +21,6 @@ defaults:
     values:
       theme: "black"
       transition: "slide"
-
 collections:
   slides:
     output: true
