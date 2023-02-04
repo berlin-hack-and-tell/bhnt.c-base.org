@@ -16,7 +16,3 @@ meetupUrl: https://www.meetup.com/de-DE/berlin-hack-and-tell/events/291184725/
 * [rsocietey](https://rsociety.eth.link) - redistributing funds
 * [VersaTiles](https://github.com/versatiles-org) by [Michael Kreil](https://github.com/MichaelKreil)
 * [bscp](https://github.com/bscp-tool/bscp) by [vog](https://github.com/vog)
-
-
-
-
