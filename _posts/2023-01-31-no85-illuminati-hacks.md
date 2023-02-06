@@ -8,5 +8,11 @@ location: '[c-base](https://www.c-base.org)'
 meetupUrl: https://www.meetup.com/de-DE/berlin-hack-and-tell/events/291184725/
 ---
 
-Upcoming event - [RSVP here](https://www.meetup.com/de-DE/berlin-hack-and-tell/events/291184725)
-
+* taskoverboard by Chris Ward
+* Alternative interface for media from the interwebs without all the clutter
+* Porifera by Duncan **Hack of the Month**
+* [trackpub](https://gist.github.com/tatocaster/5aa1bf668861987de4bb5dad4e4b58cc#file-main-go) by Merab
+* cli music playback by [Alberto](https://twitter.com/vrde) 
+* [rsocietey](https://rsociety.eth.link) - redistributing funds
+* [VersaTiles](https://github.com/versatiles-org) by [Michael Kreil](https://github.com/MichaelKreil)
+* [bscp](https://github.com/bscp-tool/bscp) by [vog](https://github.com/vog)
