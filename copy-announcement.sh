@@ -12,8 +12,7 @@ name=$(echo "${event_json}" | sed -n 's/{[^{]*"name":"\([^"]*\)".*$/\1/p')
 bhnt_no=$(echo "${name}" | sed -n 's/^[^#]*#\([0-9]\+\).*$/\1/p')
 bhnt_title=$(echo "${name}" | sed -n 's/^\(.*[^ ]\) * - BHNT .*$/\1/p')
 file_title=$(echo "${bhnt_title}" | tr A-Z a-z | sed 's/[^0-9a-z]/-/g')
-post_file="_posts/${local_date}-no${bhnt_no}-hackgpt.md"
-
+post_file="_posts/${local_date}-no${bhnt_no}-${file_title}.md"
 
 echo
 echo "Generating ${post_file} ..."
