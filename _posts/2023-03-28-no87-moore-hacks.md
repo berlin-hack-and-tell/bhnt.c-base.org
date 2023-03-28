@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Berlin Hack & Tell \#87 - H4k
+title: Berlin Hack & Tell \#87 - Moore Hacks
 date: 2023-03-28
 published: true
 time: '19:00'
