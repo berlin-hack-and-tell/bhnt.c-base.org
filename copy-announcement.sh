@@ -46,11 +46,10 @@ time: '${local_time}'
 description: Slides for BHNT \\#${bhnt_no}
 ---
 
-
 <section data-markdown>
-## BHNT \\\#87 - Moore Hacks
+## BHNT \\#${bhnt_no} - ${bhnt_title}
 
-![](/assets/images/087/moore.png)
+![](/assets/images/0${bhnt_no}/)
 
 We start 1923 *sharpIsh*
 </section>
@@ -103,8 +102,8 @@ SILENT MODE</br>
 </section>
 
 <section>
-<pre>https://pad.systemli.org/p/bhnt087</pre>
-<iframe name="embed_readwrite" src="https://pad.systemli.org/p/bhnt087?showControls=false&showChat=false&showLineNumbers=true&useMonospaceFont=true" width="100%" height="600" frameborder="0" class="stretch"></iframe>
+<pre>https://pad.systemli.org/p/bhnt0${bhnt_no}</pre>
+<iframe name="embed_readwrite" src="https://pad.systemli.org/p/bhnt0${bhnt_no}?showControls=false&showChat=false&showLineNumbers=true&useMonospaceFont=true" width="100%" height="600" frameborder="0" class="stretch"></iframe>
 </section>
 
 <section data-markdown>
@@ -121,93 +120,7 @@ SILENT MODE</br>
 
 <section>
 <center>
-<img src="/assets/images/087/moore_rip.png"/>
-</center>
-</section>
-
-<section>
-<center>
-<img src="/assets/images/087/time.jpeg"/>
-</center>
-</section>
-
-<section>
-<center>
-<img src="/assets/images/087/ai.jpeg"/>
-</center>
-</section>
-
-<section>
-<center>
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">When AI takes over your job, it&#39;s good to remember that jobs like these exist. <a href="https://t.co/MyEjnpTdHl">https://t.co/MyEjnpTdHl</a></p>&mdash; Martin LeBlanc (@martinleblanc) <a href="https://twitter.com/martinleblanc/status/1637445632980922369?ref_src=twsrc%5Etfw">March 19, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</center>
-</section>
-
-<section>
-<center>
-<img src="/assets/images/087/killswitch_engineer.png"/>
-</center>
-</section>
-
-<section>
-<center>
-<img src="/assets/images/087/gpt4hack.png"/>
-</center>
-</section>
-
-<section>
-<center>
-<img src="/assets/images/087/exynos_0day.png"/>
-</center>
-</section>
-
-
-<section>
-<center>
-<img src="/assets/images/087/tpm.png"/>
-</center>
-</section>
-
-<section>
-<center>
-<img src="/assets/images/087/twitter_down.png"/>
-</center>
-</section>
-
-<section>
-<center>
-<img src="/assets/images/087/github_spam.png"/>
-</center>
-</section>
-
-<section>
-<center>
-<img src="/assets/images/087/bhnt_5k.png"/>
-</center>
-</section>
-
-<section>
-<center>
-<img src="/assets/images/087/bhnt_ny.png"/>
-</center>
-</section>
-
-
-<section>
-<center>
-<img src="/assets/images/087/protocol_berg.png"/>
-</center>
-</section>
-
-<section>
-<center>
-<img src="/assets/images/087/prototypefund.png"/>
-</center>
-</section>
-
-<section>
-<center>
-<img src="/assets/images/087/kotlinkonf.png"/>
+<img src="/assets/images/0${bhnt_no}/"/>
 </center>
 </section>
 
@@ -256,8 +169,8 @@ Drink one bottle => Add one pixel
 <li>Update your presentation details:</li>
 </ul>
 <center>
-<img src="http://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=http%3A%2F%2Fpad.systemli.org%2Fp%2Fbhnt087&amp;qzone=1&amp;margin=0&amp;size=300x300&amp;ecc=L" alt="QR code">
-<div style="font-family: mono; font-size: 70%;">https://pad.systemli.org/p/bhnt087</div>
+<img src="http://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=http%3A%2F%2Fpad.systemli.org%2Fp%2Fbhnt0&amp;qzone=1&amp;margin=0&amp;size=300x300&amp;ecc=L" alt="QR code">
+<div style="font-family: mono; font-size: 70%;">https://pad.systemli.org/p/bhnt0${bhnt_no}</div>
 </center>
 </section>
 
@@ -274,7 +187,6 @@ Drink one bottle => Add one pixel
 </center>
 </section>
 
-Upcoming
 EOF
 echo '#############################################################################'
 
