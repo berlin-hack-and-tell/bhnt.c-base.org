@@ -16,7 +16,7 @@ jobs:
     steps:
     # If you want to use git instead of the API to find changed files
     # Use something like https://github.com/actions/checkout#fetch-all-branches
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
 
     # As this only gets one page from the API it is limited to 30 files
     # for more, checkout with more depth (see earlier comment)
