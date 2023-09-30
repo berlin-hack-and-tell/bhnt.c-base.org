@@ -15,4 +15,4 @@ meetupUrl: https://www.meetup.com/de-DE/berlin-hack-and-tell/events/296233993
 * RSS-Extension for MediaWiki by [WikiNaut](https://github.com/Wikinaut)
 * [ichbinkeinvirus.org](ichbinkeinvirus.org) - troll moderation tool for WordPress by [strathausen](https://github.com/strathausen)
 * [AI Poker coach](https://ai-poker-coach.vercel.app) by [richelle](https://github.com/richelleji)
-* sandboxing a process with fork by crest
+* sandboxing a process with fork by [crest](https://github.com/Crest)
