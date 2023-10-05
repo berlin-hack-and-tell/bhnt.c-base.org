@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Berlin Hack & Tell \#83 - Hacks sink in
-date: 2022-09-29
+date: 2022-11-29
 time: '19:00'
 location: '[c-base](https://www.c-base.org)'
 meetupUrl: https://www.meetup.com/de-DE/berlin-hack-and-tell/events/289908789/
