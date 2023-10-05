@@ -8,7 +8,7 @@ location: '[c-base](https://www.c-base.org)'
 meetupUrl: https://www.meetup.com/de-DE/berlin-hack-and-tell/events/296233993
 ---
 
-* Musik visualiser by Patrik
+* ["de lajt" music visualiser by Patryk](https://github.com/pkoryzna/de_lajt/)
 * Roll'n'Rock by [Alex](https://github.com/soulim) - **Hack of the Month**
 * a better CRM by Georg
 * Peer2peer rss feed on hypercore by Blake
