@@ -5,7 +5,7 @@ description: >
   There are 8 dynamically allocated Slots(5min presentation + 5min conversation with the audience)
   Follow our [Code of Conduct](https://hackandtell.org/#code_of_conduct) and show off a silly/hobby project that you can't present elsewhere. Think of it like "stand up hacking".
   Check out the past projects below and sign up on our Meetup page!
-url: http://berlinhackandtell.rocks
+url: https://berlinhackandtell.rocks
 logo: /assets/images/logo.png
 permalink: :year-:month-:day-:title
 paginate: 100  #enables pagination, sets entries per page
