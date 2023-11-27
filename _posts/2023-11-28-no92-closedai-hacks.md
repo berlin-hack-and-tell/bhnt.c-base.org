@@ -8,4 +8,5 @@ location: '[c-base](https://www.c-base.org)'
 meetupUrl: https://www.meetup.com/de-DE/berlin-hack-and-tell/events/297499425
 ---
 
-Upcoming
+Upcoming - please [RSVP here](https://www.meetup.com/de-DE/berlin-hack-and-tell/events/297499425)
+
