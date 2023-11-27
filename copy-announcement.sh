@@ -31,7 +31,8 @@ location: '[c-base](https://www.c-base.org)'
 meetupUrl: https://www.meetup.com/de-DE/berlin-hack-and-tell/events/${event_id}
 ---
 
-Upcoming
+Upcoming - please [RSVP here](https://www.meetup.com/de-DE/berlin-hack-and-tell/events/${event_id})
+
 EOF
 echo '#############################################################################'
 echo "Generating ${slides_file} ..."
