@@ -3,6 +3,18 @@
 
 @import 'jekyll-theme-hacker';
 
+.btn-bluesky {
+  background: -webkit-linear-gradient(top, rgba(63,127,127,1) 0%, rgba(1,68,159,1) 100%);
+}
+
+.btn-bluesky:hover {
+  background: -webkit-linear-gradient(top, rgba(1,68,159,1) 0%, rgba(63,127,127,1) 100%);
+}
+
+.btn-bluesky .icon {
+  background: url("/assets/images/bluesky.png") 0 0 no-repeat;
+}
+
 .btn-meetup {
   background: -webkit-linear-gradient(top, rgba(248,80,50,1) 0%, rgba(240,47,23,1) 50%, rgba(241,89,58,1) 100%);
 }
@@ -44,6 +56,7 @@
 
 section#profiles {
   text-align: center;
+  font-size: 0.9em;
 }
 
 nav.posts {
