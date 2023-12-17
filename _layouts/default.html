@@ -26,22 +26,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <title>{{ site.name | default: site.github.repository_name }} by {{ site.github.owner_name }}</title>
+
+    <style>#forkongithub a{background:#000;color:#fff;text-decoration:none;font-family:arial,sans-serif;text-align:center;font-weight:bold;padding:5px 40px;font-size:1rem;line-height:2rem;position:relative;transition:0.5s;}#forkongithub a:hover{background:#1c1;color:#fff;}#forkongithub a::before,#forkongithub a::after{content:"";width:100%;display:block;position:absolute;top:1px;left:0;height:1px;background:#fff;}#forkongithub a::after{bottom:1px;top:auto;}@media screen and (min-width:800px){#forkongithub{position:absolute;display:block;top:0;right:0;width:200px;overflow:hidden;height:200px;z-index:9999;}#forkongithub a{width:200px;position:absolute;top:60px;right:-60px;transform:rotate(45deg);-webkit-transform:rotate(45deg);-ms-transform:rotate(45deg);-moz-transform:rotate(45deg);-o-transform:rotate(45deg);box-shadow:4px 4px 10px rgba(0,0,0,0.8);}}</style>
     {% seo %}
   </head>
 
   <body>
 
     <header>
+      <span id="forkongithub"><a href="{{ site.github.repository_url }}">on GitHub</a></span>
       <div class="container">
         <h1>{{ site.name | default: site.github.repository_name }}</h1>
         <h2>{{ site.description | default: site.github.project_tagline | markdownify }}</h2>
-	    
-        <section id="profiles">
-          <a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
-          <a href="https://www.meetup.com/Berlin-Hack-and-Tell/" class="btn btn-meetup"><span class="icon"></span>On Meetup</a>
-          <a rel="me" href="https://chaos.social/@BHNT" class="btn btn-mastodon"><span class="icon"></span>On Mastodon</a>
-	  <a href="https://www.twitter.com/BerlinHacknTell" class="btn btn-twitter"><span class="icon"></span>On Twitter</a>
-        </section>
       </div>
     </header>
 

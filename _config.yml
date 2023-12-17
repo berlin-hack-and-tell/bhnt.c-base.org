@@ -1,9 +1,14 @@
 name: Berlin Hack & Tell
 future: true
+kramdown:
+  hard_wrap: true
 description: >
   Berlin Hack and Tell is a monthly(ish) meetup where eight entities can show their hacks at [c-base space station](https://c-base.org) every(ish) last Tuesday of the month.
-  There are 8 dynamically allocated Slots(5min presentation + 5min conversation with the audience)
-  Follow our [Code of Conduct](https://hackandtell.org/#code_of_conduct) and show off a silly/hobby project that you can't present elsewhere. Think of it like "stand up hacking".
+
+  There are 8 dynamically allocated Slots that consist of 5min presentation + 5min conversation with the audience.
+  
+  Follow us on [Meetup](https://www.meetup.com/Berlin-Hack-and-Tell), [BlueSky](https://bsky.app/profile/bhnt.c-base.org), [X (fka twitter)](https://www.twitter.com/BerlinHacknTell) or [Mastodon](https://chaos.social/@BHNT).
+
   Check out the past projects below and sign up on our Meetup page!
 url: https://berlinhackandtell.rocks
 logo: /assets/images/logo.png
