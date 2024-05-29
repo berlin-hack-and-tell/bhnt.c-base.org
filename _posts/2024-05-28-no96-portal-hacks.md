@@ -13,6 +13,6 @@ meetupUrl: https://www.meetup.com/de-DE/berlin-hack-and-tell/events/301152612
 - [trovu.net](https://github.com/trovu/trovu) by [Georg](https://github.com/georgjaehnig)
 - [AI File Oranizer 2000](https://github.com/different-ai/file-organizer-2000) by [ben](https://github.com/ashgansh)
 - [rageagainst.eu](https://github.com/kevincharm/rageagainst) by serg
-- eink_display_todos by [patryk](https://github.com/pkoryzna)
+- [eInk BVG Display](https://github.com/pkoryzna/eink-bvg-display) by [patryk](https://github.com/pkoryzna)
 - [OceanWaves](https://github.com/wleuschner/TessendorfWaves) by [vlad](https://github.com/wleuschner)
 - Geiger Counter Stuff by [Tim](https://timstr.website) - **Hack of the Month**
