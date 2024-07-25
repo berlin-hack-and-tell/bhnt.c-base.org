@@ -51,7 +51,7 @@ description: Slides for BHNT \\#${bhnt_no}
 <section data-markdown>
 ## BHNT \\#${bhnt_no} - ${bhnt_title}
 
-![](/assets/images/088/camp.jpg)
+![](/assets/images/0${bhnt_no}/logo.png)
 
 We start 1923 *sharpIsh*
 </section>
@@ -98,35 +98,34 @@ SILENT MODE</br>
 </center>
 </section>
 
-<section>
-<h2><a href="https://berlinhackandtell.rocks/">berlinhackandtell.rocks</a></h2>
-<iframe class="stretch" data-src="https://berlinhackandtell.rocks"></iframe>
-</section>
-
-<section>
-<pre>https://pad.systemli.org/p/bhnt0${bhnt_no}-keep</pre>
-<iframe name="embed_readwrite" src="https://pad.systemli.org/p/bhnt0${bhnt_no}?showControls=false&showChat=false&showLineNumbers=true&useMonospaceFont=true" width="100%" height="600" frameborder="0" class="stretch"></iframe>
-</section>
 
 <section data-markdown>
-![Hack and Tell Trophy]({{ '/assets/images/trophy.jpg' | relative_url }})
+## Digital Infrastructure:
+* wifi: SSID->c-base-public pw->hacktheplanet
+* www: https://bhnt.c-base.org
+* md: https://md.c-base.org/bhnt-${bhnt_no}
+* matrix: #bhnt:c-base.org
+* HashTag: #BHNT${bhnt_no}
+* BlueSky: bhnt.c-base.org
+* Mastodon: https://chaos.social/@BHNT
+* X: https://twitter.com/BerlinHacknTell
 </section>
 
-<section data-markdown>
-![Hack and Tell Trophies]({{ '/assets/images/trophies.jpg' | relative_url }})
-</section>
+
+
+<section data-background-size="contain" data-background="/assets/images/trophy.jpg"></section>
+
+<section data-background-size="contain" data-background="/assets/images/trophies.jpg"></section>
 
 <section data-markdown>
 ## WarmUp
 </section>
 
-
 <section>
 <center>
-<img src="/assets/images/090/infusion.png"/>
+<img src="/assets/images/0${bhnt_no}/logo.png"/>
 </center>
 </section>
-
 
 <section data-markdown>
 ## Slots 0..3
@@ -148,8 +147,8 @@ SILENT MODE</br>
 <li>Update your presentation details:</li>
 </ul>
 <center>
-<img src="http://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=http%3A%2F%2Fpad.systemli.org%2Fp%2Fbhnt0&amp;qzone=1&amp;margin=0&amp;size=300x300&amp;ecc=L" alt="QR code">
-<div style="font-family: mono; font-size: 70%;">https://pad.systemli.org/p/bhnt0${bhnt_no}</div>
+<img src="http://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=https%3A%2F%2Fmd.c-base.org%2Fbhnt-${bhnt_no}&amp;qzone=1&amp;margin=0&amp;size=300x300&amp;ecc=L" alt="QR code">
+<div style="font-family: mono; font-size: 70%;">https://md.c-base.org/bhnt-${bhnt_no}</div>
 </center>
 </section>
 
