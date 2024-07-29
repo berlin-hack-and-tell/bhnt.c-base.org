@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Berlin Hack & Tell \#97 - CrowdStrike
+title: Berlin Hack & Tell \#97 - CrowdStruck
 date: 2024-07-30
 published: true
 time: '19:00'
