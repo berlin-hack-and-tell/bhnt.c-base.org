@@ -28,7 +28,7 @@ meetupUrl: https://www.meetup.com/de-DE/berlin-hack-and-tell/events/302403769
     - https://glitch.com/~delicate-luck-pea
     - https://github.com/ctrlw/osm4vr
     - virtual reality, OSM, WebVR, A-Frame
-5. [trees](https://colab.research.google.com/drive/16ZW12CxLJAGTyPmgQ026zqrp-YbslQHV)
+5. [trees](https://colab.research.google.com/drive/16ZW12CxLJAGTyPmgQ026zqrp-YbslQHV) - **Hack of the Month**
     - by fred
     - hammock, trees, Berlin, geo data, Python
 6. [Tiny Tiles Designer](https://github.com/strathausen/tinytiles)
