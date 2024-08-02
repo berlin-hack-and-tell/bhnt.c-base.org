@@ -8,9 +8,9 @@ location: '[c-base](https://www.c-base.org)'
 meetupUrl: https://www.meetup.com/de-DE/berlin-hack-and-tell/events/302403769
 ---
 
-0. [VersaTiles](https://versatiles.org)
+0. [VersaTiles Installer](https://versatiles.org/apps/setup_server)
     - by [Michael Kreil](https://github.com/MichaelKreil)
-    - https://github.com/versatiles-org
+    - [github.com/versatiles-org](https://github.com/versatiles-org)
     - OSM, vector tiles
 1. [Misleading Infographic](https://industrydecarbonization.com/news/misleading-logarithmic-scales-and-the-disregard-for-energy-efficiency.html)
     - by [Hanno Böck](https://hboeck.de/)
