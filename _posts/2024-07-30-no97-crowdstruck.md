@@ -34,6 +34,6 @@ meetupUrl: https://www.meetup.com/de-DE/berlin-hack-and-tell/events/302403769
 6. [Tiny Tiles Designer](https://github.com/strathausen/tinytiles)
     - by [strathausen](https://github.com/strathausen)
     - tiles, layout, TypeScript, React
-7. [Alex-o-Meter](gist.github.com/soulim/daa27ea52ffc2ae3f9eb19d47aa0bdf0) - **Hack of the Month**
+7. [Alex-o-Meter](https://gist.github.com/soulim/daa27ea52ffc2ae3f9eb19d47aa0bdf0)
     - by [Alexander](https://sul.im)
     - meetings, stats, JavaScript, bookmarklet
