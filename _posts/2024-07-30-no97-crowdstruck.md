@@ -14,8 +14,8 @@ meetupUrl: https://www.meetup.com/de-DE/berlin-hack-and-tell/events/302403769
     - OSM, vector tiles
 1. [Misleading Infographic](https://industrydecarbonization.com/news/misleading-logarithmic-scales-and-the-disregard-for-energy-efficiency.html)
     - by [Hanno Böck](https://hboeck.de/)
-    - code: https://github.com/decarbonizenews/energygraph
-    - interactive/zoomable versions: https://industrydecarbonization.com/misc/incomeenergy.html
+    - [Code, Python with Plotly](https://github.com/decarbonizenews/energygraph)
+    - [Interactive/zoomable versions](https://industrydecarbonization.com/misc/incomeenergy.html)
     - social media, graphs, energy, climate
 2. [Ice Cream 3D Printer](https://hasanshaukat.wordpress.com/projects/ice-cream-3d-printer)
     - by [Hasan](https://hasanshaukat.wordpress.com)
