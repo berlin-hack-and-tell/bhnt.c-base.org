@@ -21,7 +21,7 @@ meetupUrl: https://www.meetup.com/de-DE/berlin-hack-and-tell/events/302962235
     - ingredients, recipe, Vertex AI, mobile app, Android 
 3. [make-nxm](https://github.com/Wikinaut/make-nxm)
     - by Wikinaut
-    - flyer generator, images, cycling, events, Bash
+    - multi-flyer generator from a sharepicture, images, Bash, imagemagick
 4. [Invisible Stitch](https://github.com/paulengstler/invisible-stitch)
     - by [paulengstler](http://paulengstler.com/)
     - image, panorama, stitching, 3D
