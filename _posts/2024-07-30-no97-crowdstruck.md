@@ -16,6 +16,7 @@ meetupUrl: https://www.meetup.com/de-DE/berlin-hack-and-tell/events/302403769
     - by [Hanno Böck](https://hboeck.de/)
     - [Code, Python with Plotly](https://github.com/decarbonizenews/energygraph)
     - [Interactive/zoomable versions](https://industrydecarbonization.com/misc/incomeenergy.html)
+    - [Video recording of presentation](https://www.youtube.com/watch?v=2xZ6CihdKu0)
     - social media, graphs, energy, climate
 2. [Ice Cream 3D Printer](https://hasanshaukat.wordpress.com/projects/ice-cream-3d-printer)
     - by [Hasan](https://hasanshaukat.wordpress.com)
