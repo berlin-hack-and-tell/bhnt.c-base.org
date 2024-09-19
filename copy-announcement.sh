@@ -57,14 +57,14 @@ We start 1923 *sharpIsh*
 </section>
 
 <section>
-<h2>Structure</h2>
+<h2>Sequence</h2>
 
 <ol start="0">
   <li>Intro (this)</li>
-  <li>Rules</li>
-  <li>News</li>
+  <li>Constraints</li>
+  <li>Warmup</li>
   <li>Slots 0..3</li>
-  <li>Open Mic</li>
+  <li>Open(ish) Mic</li>
   <li>Break</li>
   <li>Slots 4..7</li>
   <li>Vote/Trophy</li>
@@ -73,7 +73,7 @@ We start 1923 *sharpIsh*
 </section>
 
 <section>
-<h2>Rules</h2>
+<h2>Constraints</h2>
 
 <ol start="0">
   <li>Be excellent to each other</li>
@@ -98,10 +98,20 @@ SILENT MODE</br>
 </center>
 </section>
 
+<section data-markdown>
+## Local Infrastructure:
+* wifi
+ * SSID: c-base-public
+ * pw: hacktheplanet
+* emergency exits
+* consume
+ * bar
+ * replicators
+* waste collection
+</section>
 
 <section data-markdown>
-## Digital Infrastructure:
-* wifi: SSID->c-base-public pw->hacktheplanet
+## Global Infrastructure:
 * www: https://bhnt.c-base.org
 * md: https://md.c-base.org/bhnt-${bhnt_no}
 * matrix: #bhnt:c-base.org
@@ -110,8 +120,6 @@ SILENT MODE</br>
 * Mastodon: https://chaos.social/@BHNT
 * X: https://twitter.com/BerlinHacknTell
 </section>
-
-
 
 <section data-background-size="contain" data-background="/assets/images/trophy.jpg"></section>
 
