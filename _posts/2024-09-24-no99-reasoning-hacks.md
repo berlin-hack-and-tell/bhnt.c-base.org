@@ -22,10 +22,12 @@ meetupUrl: https://www.meetup.com/de-DE/berlin-hack-and-tell/events/303486686
     - by [Karl](https://www.karl.berlin)
     - `make`, static site generator, `entr`
 4. [Was treibt der Bundestag](https://github.com/orgs/Bliss-e-V/was_treibt_der_bundestag) - **Hack of the Month**
-    - by [bliss](https://github.com/orgs/Bliss-e-V)
+    - by [Justus](https://github.com/MassEast)
+    - [examples](https://www.instagram.com/was_treibt_der_bundestag/)
     - politics, monitoring, ChatGPT
 5. [Road Trip!](http://abd.ooo/road-trip)
     - by Abdo
+    - [more examples](https://www.shadertoy.com/)
     - music visualization, shader, ray marching
 6. [DaWarIch](https://dawarich.app/)
     - by [Evgenii](https://frey.today/)
