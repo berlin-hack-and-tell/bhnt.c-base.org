@@ -21,7 +21,7 @@ meetupUrl: https://www.meetup.com/de-DE/berlin-hack-and-tell/events/303486686
 3. [`make` as a Static Site Generator](https://www.karl.berlin/static-site.html)
     - by [Karl](https://www.karl.berlin)
     - `make`, static site generator, `entr`
-4. [Was treibt der Bundestag](https://github.com/orgs/Bliss-e-V/was_treibt_der_bundestag) - **Hack of the Month**
+4. [Was treibt der Bundestag](https://github.com/Bliss-e-V/was_treibt_der_bundestag) - **Hack of the Month**
     - by [Justus](https://github.com/MassEast)
     - [examples](https://www.instagram.com/was_treibt_der_bundestag/)
     - politics, monitoring, ChatGPT
