@@ -190,7 +190,7 @@ https://github.com/WolframHempel
 https://github.com/wrl
 https://github.com/yncyrydybyl
 https://gitlab.com/Wikinaut
-https://glitch.com
+https://glitch.com/@markus.graeser
 https://hasanshaukat.github.io
 https://hasanshaukat.wordpress.com
 https://haywirez.com
@@ -204,8 +204,9 @@ https://k-nut.eu
 https://ligi.de
 https://macrolet.net
 https://marctuduri.com
-https://mastodon.social
-https://medium.com
+https://mastodon.social/@herrherrmann
+https://mastodon.social/@leopic
+https://medium.com/@andrei.chernyshev/kotlin-for-pebble-e33086d8f8da
 https://memcpy.io
 https://momonala.github.io
 https://njh.eu
@@ -269,7 +270,7 @@ https://www.granzotto.net
 https://www.karl.berlin
 https://www.linkedin.com/in/antoine-reinhold-bertrand-26409073
 https://www.linkedin.com/in/giulio-arpaia-5b19b8149
-https://www.printables.com
+https://www.printables.com/@Marmoset_Thre_883507
 https://www.reddit.com/user/Cupcake_Chef
 https://www.tesobe.com/en/about
 https://www.thingiverse.com/khorben/designs
