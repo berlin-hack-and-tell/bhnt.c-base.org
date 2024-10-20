@@ -1,13 +1,15 @@
 #!/bin/sh
+set -o xtrace
 
 # get submodules (reveal.js)
 git submodule init
 git pull --recurse-submodules
 
-# run local jekyll server; will be served at localhost:4000
-export JEKYLL_VERSION=3.8
+# run local jekyll server; will be served at http://localhost:4000
+# latest version from https://github.com/github/pages-gem/releases
+export GITHUB_PAGES_GEM_VERSION=v232
 docker run --rm \
-  --volume="$PWD:/srv/jekyll" -p 4000:4000 \
+  --volume="$PWD:/src/site" -p 4000:4000 \
   --env JEKYLL_UID=$(id -u) --env JEKYLL_GID=$(id -g) \
-  -it jekyll/jekyll:$JEKYLL_VERSION \
-  jekyll serve --future --drafts
+  -it ghcr.io/github/pages-gem:$GITHUB_PAGES_GEM_VERSION \
+  jekyll serve --host 0.0.0.0 --future --drafts --watch --force_polling --incremental
