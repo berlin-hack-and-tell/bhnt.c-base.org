@@ -8,4 +8,8 @@ meetupUrl: https://www.meetup.com/Berlin-Hack-and-Tell/events/228876155/
 photosUrl: https://www.meetup.com/Berlin-Hack-and-Tell/photos/26766182/
 ---
 
-No hacks recorded yet. Do you know more? PRs are welcome!
+1. [Think outside the tab](https://altsoph.com/pp/oot/) - **Hack of the Month**
+    - by [altsoph](https://altsoph.com)
+    - JS, scroller, demoscene
+
+Do you know more? PRs are welcome!
