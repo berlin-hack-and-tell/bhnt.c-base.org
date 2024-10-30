@@ -25,7 +25,7 @@ meetupUrl: https://www.meetup.com/de-DE/berlin-hack-and-tell/events/304180456
     - by [Artem](https://github.com/artfwo)
     - Music generator
 5. [bashunit](https://github.com/TypedDevs/bashunit)
-    - by [Jose](https://github.com/Chemaclass)
+    - by [Chemaclass](https://github.com/Chemaclass)
     - A testing framework for bash scripts.
 6. An easy way to let warp know that your disc is encrypted
     - by Schube
