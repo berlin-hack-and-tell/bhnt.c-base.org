@@ -10,7 +10,7 @@ meetupUrl: https://www.meetup.com/de-DE/berlin-hack-and-tell/events/304180456
 
 0. [c-base timer](https://github.com/uwekamper/hackandtell)
     - by [uk](https://uk.crew.c-base.org/)
-    - https://md.c-base.org/R45eMMiaRJKq6DTk_JKpig#
+    - [presentation](https://md.c-base.org/R45eMMiaRJKq6DTk_JKpig#)
     - 5 minute timer on an old green screen, used by berin-hack-and-tell.
 1. [Pong in telegram](https://github.com/Make-Europe/Simple_Pong_Game)
     - by Roman and Max
@@ -25,6 +25,7 @@ meetupUrl: https://www.meetup.com/de-DE/berlin-hack-and-tell/events/304180456
     - by [artfwo](https://github.com/artfwo)
     - Music generator
 5. [bashunit](https://github.com/TypedDevs/bashunit)
+    - [blog post](https://chemaclass.com/blog/bashunit)
     - by [Chemaclass](https://github.com/Chemaclass)
     - A testing framework for bash scripts.
 6. An easy way to let warp know that your disc is encrypted
