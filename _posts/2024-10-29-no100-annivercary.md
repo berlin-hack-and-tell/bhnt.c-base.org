@@ -21,8 +21,8 @@ meetupUrl: https://www.meetup.com/de-DE/berlin-hack-and-tell/events/304180456
 3. [QR-Dice](https://github.com/altsoph/QR-dice) - **Hack of the Month**
     - by [altsoph](https://altsoph.com/)
     - 6-sided QR-cube
-4. [andes](https://github.com/artfwo/andes)
-    - by [Artem](https://github.com/artfwo)
+4. [scale_note](https://gist.github.com/artfwo/01bb77bfc94c99c849c246e20d1ba747)
+    - by [artfwo](https://github.com/artfwo)
     - Music generator
 5. [bashunit](https://github.com/TypedDevs/bashunit)
     - by [Jose](https://github.com/Chemaclass)
