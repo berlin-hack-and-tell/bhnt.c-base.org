@@ -83,7 +83,7 @@ We start 1923 *sharpIsh*
   <li>NO PURE SLIDEDECKS</li>
   <li>No pitches</li>
   <li>No business</li>
-  <li>Entertain us!</li>
+  <li>Edutain us!</li>
 </ol>
 </section>
 
