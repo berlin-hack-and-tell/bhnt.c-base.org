@@ -4,9 +4,11 @@ This project uses the Jekyll static site generator.
 
 ## Build (Docker)
 
-To build and host the site locally inside a temporary Docker container, execute the following, and connect to http://localhost:4000/ .
+To build and host the site locally inside a temporary Docker container:
 
-1. `build.sh`
+1. Install Docker, e.g. on Debian:  `apt-get install docker.io`
+2. Generate the container and run Jekyll within it: `./build.sh`
+3. Open the generated site in your browser: http://localhost:4000/
 
 ## Build (local)
 
