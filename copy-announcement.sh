@@ -173,6 +173,13 @@ SILENT MODE</br>
 </center>
 </section>
 
+<section>
+<h2>And the winner is ...</h2>
+
+<center>
+<img src="../assets/images/trophy.jpg" alt="Trophy">
+</center>
+</section>
 
 EOF
 echo '#############################################################################'
