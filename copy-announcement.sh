@@ -51,7 +51,7 @@ description: Slides for BHNT \\#${bhnt_no}
 <section data-markdown>
 ## BHNT \\#${bhnt_no} - ${bhnt_title}
 
-![](/assets/images/0${bhnt_no}/logo.png)
+![](/assets/images/${bhnt_no}/logo.png)
 
 We start 1923 *sharpIsh*
 </section>
@@ -131,7 +131,7 @@ SILENT MODE</br>
 
 <section>
 <center>
-<img src="/assets/images/0${bhnt_no}/logo.png"/>
+<img src="/assets/images/${bhnt_no}/logo.png"/>
 </center>
 </section>
 
