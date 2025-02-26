@@ -9,10 +9,10 @@ meetupUrl: https://www.meetup.com/de-DE/berlin-hack-and-tell/events/306254132
 ---
 
 
-0. jeopardy_glam
+0. jeopardy_gleam
     - by [Marlon](https://github.com/MarlonSchultz)
     - [https://github.com/MarlonSchultz/jeopardy_gleam](https://github.com/MarlonSchultz/jeopardy_gleam)
-    - Jeopardy, Raspberry Pi, Python
+    - Jeopardy, Raspberry Pi, Python, Gleam, Lustre
 1. schon-wieder - **Hack of the Month**
     - by [Michael Kreil](https://github.com/MichaelKreil)
     - [https://datajournal.org/schon-wieder](https://datajournal.org/schon-wieder)
