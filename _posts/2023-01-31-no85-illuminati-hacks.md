@@ -10,7 +10,7 @@ meetupUrl: https://www.meetup.com/de-DE/berlin-hack-and-tell/events/291184725/
 
 * taskoverboard by Chris Ward
 * Alternative interface for media from the interwebs without all the clutter by [Floris](https://github.com/floris-vos)
-* Porifera by Duncan **Hack of the Month**
+* [Porifera](https://gitlab.com/gametheatre/poriferareader/Porifera) by Duncan **Hack of the Month**
 * [garmin slack integration](https://gist.github.com/tatocaster/5aa1bf668861987de4bb5dad4e4b58cc#file-main-go) by [Merab Tato Kutalia](https://github.com/tatocaster)
 * [mpv-midi-controller](https://github.com/vrde/mpv-midi-controller) by [Alberto](https://twitter.com/vrde) 
 * [rsocietey](https://rsociety.eth.link) - redistributing funds
