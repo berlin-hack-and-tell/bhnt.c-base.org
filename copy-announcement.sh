@@ -142,7 +142,7 @@ SILENT MODE</br>
 <section data-markdown>
 ## Open Mic
 
-* Line up at the stage
+* Stand up to speak
 * Stick to 1-2 sentences
 </section>
 
