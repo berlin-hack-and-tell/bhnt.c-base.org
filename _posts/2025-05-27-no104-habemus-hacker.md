@@ -9,7 +9,7 @@ location: '[c-base](https://www.c-base.org)'
 
 0. Get meetup members - **Hack of the Month**
     - by Abdo
-1. Thinkpad 10 Tab
+1. [PineNote adapter for ThinkPad 10 keyboard](https://github.com/pkoryzna/pinenote-thinkpad-10-keyboard-adapter/)
     - by [patryk_k](https://github.com/pkoryzna)
     - dock, hardware, 3D-printing
 2. [ziina](https://github.com/ziinaio/ziina)
