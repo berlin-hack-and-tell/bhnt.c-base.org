@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Berlin Hack & Tell \#106 - Hacks of 30years c-base
+title: Berlin Hack & Tell \#106 - 30 years of c-base
 date: 2025-09-30
 published: true
 time: '19:00'
@@ -8,7 +8,7 @@ location: '[c-base](https://www.c-base.org)'
 ---
 
 0. VersaTiles/[Orthophotos](https://icarus.versatiles.org)
-    - by [Michael Mreil](https://michael-kreil.de/)
+    - by [Michael Kreil](https://michael-kreil.de/)
         - https://github.com/michaelkreil
     - repos:
         - https://github.com/versatiles-org/orthophotos
