@@ -121,6 +121,7 @@ Edutain us
 * [360° tour](https://c-base.org/360) by [riskieee](https://riskieee.de/)
 </section>
 
+<section data-background-size="contain" data-background="/assets/images/107/fediday.jpg"></section>
 <section data-background-size="contain" data-background="/assets/images/107/chaos.png"></section>
 
 <section data-background-size="contain" data-background="/assets/images/107/godot_jam.png"></section>
@@ -143,6 +144,8 @@ Edutain us
 <section data-background-size="contain" data-background="/assets/images/107/chatgpt5.jpeg"></section>
 <section data-background-size="contain" data-background="/assets/images/107/vibecoded.jpeg"></section>
 
+<section data-background-size="contain" data-background="/assets/images/107/atlas.png"></section>
+
 
 <section data-background-size="contain" data-background="/assets/images/107/trumpdecline.png"></section>
 
@@ -159,7 +162,7 @@ Edutain us
 <section data-background-size="contain" data-background="/assets/images/107/nuclear_robot_porn.png"></section>
 <section data-background-size="contain" data-background="/assets/images/107/nuclear_sharepoint.png"></section>
 
-<section data-background-size="contain" data-background="/assets/images/107/thiel.png"></section>
+
 <section data-background-size="contain" data-background="/assets/images/107/wh.png"></section>
 
 <section data-background-size="contain" data-background="/assets/images/107/military.png"></section>
@@ -168,6 +171,7 @@ Edutain us
 <section data-background-size="contain" data-background="/assets/images/107/palantir.png"></section>
 <section data-background-size="contain" data-background="/assets/images/107/sora.jpeg"></section>
 <section data-background-size="contain" data-background="/assets/images/107/ea.jpeg"></section>
+<section data-background-size="contain" data-background="/assets/images/107/thiel.png"></section>
 
 <section data-markdown>
 ## Damage Report
@@ -184,6 +188,7 @@ Edutain us
 </section>
 <section data-background-size="contain" data-background="/assets/images/107/arduino_qualcom.png"></section>
 <section data-background-size="contain" data-background="/assets/images/107/trezor7.png"></section>
+<section data-background-size="contain" data-background="/assets/images/107/darkbio.png"></section>
 
 <section data-markdown>
 ## *CRY*_pto
