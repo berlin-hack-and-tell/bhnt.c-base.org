@@ -123,6 +123,7 @@ Edutain us
 
 <section data-background-size="contain" data-background="/assets/images/107/fediday.jpg"></section>
 <section data-background-size="contain" data-background="/assets/images/107/chaos.png"></section>
+<section data-background-size="contain" data-background="/assets/images/107/devconnect_arg.png"></section>
 
 <section data-background-size="contain" data-background="/assets/images/107/godot_jam.png"></section>
 <section data-background-size="contain" data-background="/assets/images/107/cyberdelic.jpeg"></section>
@@ -139,6 +140,7 @@ Edutain us
 <section data-background-size="contain" data-background="/assets/images/107/GPTerror.png"></section>
 <section data-background-size="contain" data-background="/assets/images/107/ai_poison.png"></section>
 <section data-background-size="contain" data-background="/assets/images/107/AIssault.png"></section>
+<section data-background-size="contain" data-background="/assets/images/107/snack_crime.png"></section>
 
 <section data-background-size="contain" data-background="/assets/images/107/deloitte.png"></section>
 <section data-background-size="contain" data-background="/assets/images/107/chatgpt5.jpeg"></section>
@@ -155,6 +157,8 @@ Edutain us
 </section>
 
 <section data-background-size="contain" data-background="/assets/images/107/germany_outlook.png"></section>
+<section data-background-size="contain" data-background="/assets/images/107/china.png"></section>
+
 <section data-background-size="contain" data-background="/assets/images/107/copyright.png"></section>
 
 <section data-background-size="contain" data-background="/assets/images/107/robotarmy.png"></section>
@@ -187,6 +191,7 @@ Edutain us
 ## HardWare
 </section>
 <section data-background-size="contain" data-background="/assets/images/107/arduino_qualcom.png"></section>
+<section data-background-size="contain" data-background="/assets/images/107/smartfridge.png"></section>
 <section data-background-size="contain" data-background="/assets/images/107/trezor7.png"></section>
 <section data-background-size="contain" data-background="/assets/images/107/darkbio.png"></section>
 
