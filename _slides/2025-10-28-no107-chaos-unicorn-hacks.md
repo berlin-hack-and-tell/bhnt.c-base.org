@@ -212,7 +212,7 @@ Edutain us
 <section data-background-size="contain" data-background="/assets/images/bhntflow_hacks.svg"></section>
 
 <section data-markdown>
-## Open Mic 🎤
+## Open(ish) Mic 🎤
 
 Stick to 1-2 sentences
 
