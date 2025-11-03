@@ -32,6 +32,7 @@ brew install ruby
 echo 'export PATH="/opt/homebrew/opt/ruby/bin:$PATH"' >> ~/.zshrc
 source ~/.zshrc
 gem install bundler
+bundle update jekyll
 ```
 
 3. Install Jekyll and all required modules: `bundle install`
