@@ -7,4 +7,4 @@ time: '19:00'
 location: '[c-base](https://www.c-base.org)'
 ---
 
-Upcoming - please [RSVP here](https://smokesignal.events/did:plc:cspdcac4qq34nutgnlyreawc/3mcttbckaln2d)
+Upcoming - please [RSVP here](https://smokesignal.events/did:plc:mho5wxz2wvccynomj7r2zxaz/3mcutau7b5c2x)
