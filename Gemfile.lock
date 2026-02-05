@@ -262,10 +262,10 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  base64
-  bigdecimal
-  csv
-  github-pages
+  base64 (~> 0.2)
+  bigdecimal (~> 3.1)
+  csv (~> 3.3)
+  github-pages (~> 228)
   webrick (~> 1.8)
 
 BUNDLED WITH
