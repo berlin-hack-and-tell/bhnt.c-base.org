@@ -111,7 +111,7 @@ Edutain us
 
 <section data-markdown>
 # Last BHNT's Hacks
-* VersaTiles/[Orthophotos](https://icarus.versatiles.org) by [Michael Kreil](https://michael-kreil.de/)
+* VersaTiles/[Orthophotos](https://tiles.versatiles.org/#map=12/52.51096/13.41095&style=satellite) by [Michael Kreil](https://michael-kreil.de/)
 * [Check That List](https://uk.crew.c-base.org/checklist/) by UK
 * Infoscreens Fix by [vog](https://njh.eu)
 * Hacking Games by jolly and [shift](https://github.com/shift)

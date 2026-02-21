@@ -7,12 +7,12 @@ time: '19:00'
 location: '[c-base](https://www.c-base.org)'
 ---
 
-0. VersaTiles/[Orthophotos](https://icarus.versatiles.org)
+0. VersaTiles/[Orthophotos](https://tiles.versatiles.org/#map=12/52.51096/13.41095&style=satellite)
     - by [Michael Kreil](https://michael-kreil.de/)
         - https://github.com/michaelkreil
     - repos:
         - https://github.com/versatiles-org/orthophotos
-    - vector map tiles
+    - free map tiles with satellite and orthoimagery
 
 1. [Check That List](https://uk.crew.c-base.org/checklist/)
     - by [uk](https://www.uwekamper.de/)
