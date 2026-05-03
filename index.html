@@ -2,26 +2,80 @@
 layout: default
 ---
 
-<div class="events">
+<div class="events-container">
+  <div class="fun-images">
+    <!-- Computer -->
+    <svg class="computer" width="30" height="30" viewBox="0 0 30 30">
+      <rect x="2" y="5" width="20" height="15" stroke="#b5e853" fill="transparent" stroke-width="2"/>
+      <line x1="2" y1="20" x2="22" y2="20" stroke="#b5e853" stroke-width="2"/> <!-- keyboard line -->
+      <line x1="12" y1="20" x2="12" y2="25" stroke="#b5e853" stroke-width="2"/> <!-- stand -->
+      <text class="screen-text" x="12" y="16" fill="#b5e853" font-size="8" text-anchor="middle" opacity="0">42</text>
+    </svg>
 
-<!-- This loops through the paginated posts -->
-{% for post in paginator.posts %}
-    <div class="entry">
-      {% include frontpage_post.html entry=post %}
-    </div>
-{% endfor %}
+    <!-- Christmas tree -->
+    <svg class="christmas-tree" width="80" height="100" viewBox="0 0 80 100">
+      <!-- Trunk -->
+      <line class="trunk" x1="40" y1="70" x2="40" y2="95" stroke="#b5e853" stroke-width="4"/>
+      
+      <!-- Star on top -->
+      <circle cx="40" cy="8" r="3" fill="#b5e853"/>
+      
+      <!-- Branches - creating triangular tree shape -->
+      <!-- Top tier -->
+      <line class="branch" x1="40" y1="15" x2="32" y2="20" stroke="#b5e853" stroke-width="2.5"/>
+      <line class="branch" x1="40" y1="15" x2="48" y2="20" stroke="#b5e853" stroke-width="2.5"/>
+      
+      <!-- Second tier -->
+      <line class="branch" x1="40" y1="28" x2="27" y2="34" stroke="#b5e853" stroke-width="3"/>
+      <line class="branch" x1="40" y1="28" x2="53" y2="34" stroke="#b5e853" stroke-width="3"/>
+      
+      <!-- Third tier -->
+      <line class="branch" x1="40" y1="41" x2="22" y2="48" stroke="#b5e853" stroke-width="3"/>
+      <line class="branch" x1="40" y1="41" x2="58" y2="48" stroke="#b5e853" stroke-width="3"/>
+      
+      <!-- Fourth tier -->
+      <line class="branch" x1="40" y1="54" x2="17" y2="62" stroke="#b5e853" stroke-width="3.5"/>
+      <line class="branch" x1="40" y1="54" x2="63" y2="62" stroke="#b5e853" stroke-width="3.5"/>
+      
+      <!-- Bottom tier -->
+      <line class="branch" x1="40" y1="67" x2="12" y2="75" stroke="#b5e853" stroke-width="4"/>
+      <line class="branch" x1="40" y1="67" x2="68" y2="75" stroke="#b5e853" stroke-width="4"/>
+    </svg>
 
-</div>
 
-<!-- Pagination links -->
-{% if paginator.total_pages > 1 %}
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+
+    <!-- Little man -->
+    <svg class="walker" width="20" height="30" viewBox="0 0 24 30">
+      <circle cx="12" cy="4" r="2" fill="#b5e853"/> <!-- head -->
+      <line class="body" x1="12" y1="6" x2="12" y2="14" stroke="#b5e853" stroke-width="2"/> <!-- body -->
+      <line class="left-arm" x1="12" y1="8" x2="8" y2="12" stroke="#b5e853" stroke-width="2"/> <!-- left arm -->
+      <line class="right-arm" x1="12" y1="8" x2="16" y2="12" stroke="#b5e853" stroke-width="2"/> <!-- right arm -->
+      <line class="left-leg" x1="12" y1="14" x2="8" y2="20" stroke="#b5e853" stroke-width="2"/> <!-- left leg -->
+      <line class="right-leg" x1="12" y1="14" x2="16" y2="20" stroke="#b5e853" stroke-width="2"/> <!-- right leg -->
+    </svg>
+  </div>
+
+
+  <div class="events">
+  <!-- This loops through the paginated posts -->
+  {% for post in paginator.posts %}
+      <div class="entry">
+        {% include frontpage_post.html entry=post %}
+      </div>
+  {% endfor %}
+
+  </div>
+
+  <!-- Pagination links -->
+  {% if paginator.total_pages > 1 %}
+  <div class="pagination">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+    {% endif %}
+    <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+    {% endif %}
+  </div>
   {% endif %}
-  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
-  {% endif %}
 </div>
-{% endif %}
