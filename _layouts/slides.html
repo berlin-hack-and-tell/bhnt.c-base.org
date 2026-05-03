@@ -36,15 +36,6 @@
     <!-- Code syntax highlighting -->
     <link rel="stylesheet" href="{{ "/reveal.js/dist/plugin/highlight/zenburn.css" | prepend: site.baseurl }}"/>
 
-    <!-- Printing and PDF exports -->
-    <script>
-      var link = document.createElement( 'link' );
-      link.rel = 'stylesheet';
-      link.type = 'text/css';
-      link.href = window.location.search.match( /print-pdf/gi ) ? '{{ "/reveal.js/dist/reveal.css" | prepend: site.baseurl }}' : '{{ "/reveal.js/dist/reveal.css" | prepend: site.baseurl }}';
-      document.getElementsByTagName( 'head' )[0].appendChild( link );
-    </script>
-
     <link rel="apple-touch-icon" href="{{ "/apple-touch-icon.png" | prepend: site.baseurl }}" />
 
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
