@@ -3,3 +3,4 @@ _site/
 node_modules
 .idea/
 .sass-cache/
+vendor/

@@ -25,22 +25,23 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
 
-    <link rel="stylesheet" href="{{ "/reveal.js/css/reveal.css" | prepend: site.baseurl }}"/>
+    <link rel="stylesheet" href="{{ "/reveal.js/dist/reset.css" | prepend: site.baseurl }}"/>
+    <link rel="stylesheet" href="{{ "/reveal.js/dist/reveal.css" | prepend: site.baseurl }}"/>
     {%if page.theme %}
-      <link rel="stylesheet" href="{{ "/reveal.js/css/theme/" | prepend: site.baseurl | append: page.theme | append: '.css' }}" id="theme"/>
+      <link rel="stylesheet" href="{{ "/reveal.js/dist/theme/" | prepend: site.baseurl | append: page.theme | append: '.css' }}" id="theme"/>
     {% else %}
-      <link rel="stylesheet" href="{{ "/reveal.js/css/theme/black.css" | prepend: site.baseurl }}" id="theme"/>
+      <link rel="stylesheet" href="{{ "/reveal.js/dist/theme/black.css" | prepend: site.baseurl }}" id="theme"/>
     {% endif %}
 
     <!-- Code syntax highlighting -->
-    <link rel="stylesheet" href="{{ "/reveal.js/lib/css/zenburn.css" | prepend: site.baseurl }}"/>
+    <link rel="stylesheet" href="{{ "/reveal.js/dist/plugin/highlight/zenburn.css" | prepend: site.baseurl }}"/>
 
     <!-- Printing and PDF exports -->
     <script>
       var link = document.createElement( 'link' );
       link.rel = 'stylesheet';
       link.type = 'text/css';
-      link.href = window.location.search.match( /print-pdf/gi ) ? '{{ "/reveal.js/css/print/pdf.css" | prepend: site.baseurl }}' : '{{ "/reveal.js/css/print/paper.css" | prepend: site.baseurl }}';
+      link.href = window.location.search.match( /print-pdf/gi ) ? '{{ "/reveal.js/dist/reveal.css" | prepend: site.baseurl }}' : '{{ "/reveal.js/dist/reveal.css" | prepend: site.baseurl }}';
       document.getElementsByTagName( 'head' )[0].appendChild( link );
     </script>
 
@@ -66,8 +67,12 @@
       </div>
     </div>
 
-    <script src="{{ "/reveal.js/lib/js/head.min.js" | prepend: site.baseurl }}"></script>
-    <script src="{{ "/reveal.js/js/reveal.js" | prepend: site.baseurl }}"></script>
+    <script src="{{ "/reveal.js/dist/reveal.js" | prepend: site.baseurl }}"></script>
+    <script src="{{ "/reveal.js/dist/plugin/zoom.js" | prepend: site.baseurl }}"></script>
+    <script src="{{ "/reveal.js/dist/plugin/notes.js" | prepend: site.baseurl }}"></script>
+    <script src="{{ "/reveal.js/dist/plugin/search.js" | prepend: site.baseurl }}"></script>
+    <script src="{{ "/reveal.js/dist/plugin/markdown.js" | prepend: site.baseurl }}"></script>
+    <script src="{{ "/reveal.js/dist/plugin/highlight.js" | prepend: site.baseurl }}"></script>
     <script>
       // Full list of configuration options available at:
       // https://github.com/hakimel/reveal.js#configuration
@@ -76,6 +81,7 @@
         progress: true,
         history: true,
         center: true,
+        hash: true,
         {%if page.transition %}
           transition: '{{page.transition}}',
         {% else %}
@@ -83,14 +89,7 @@
         {% endif %}
 
         // Optional reveal.js plugins
-        dependencies: [
-          { src: '{{ "/reveal.js/lib/js/classList.js" | prepend: site.baseurl }}', condition: function() { return !document.body.classList; } },
-          { src: '{{ "/reveal.js/plugin/markdown/marked.js" | prepend: site.baseurl }}', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-          { src: '{{ "/reveal.js/plugin/markdown/markdown.js" | prepend: site.baseurl }}', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-          { src: '{{ "/reveal.js/plugin/highlight/highlight.js" | prepend: site.baseurl }}', async: true, condition: function() { return !!document.querySelector( 'pre code' ); }, callback: function() { hljs.initHighlightingOnLoad(); } },
-          { src: '{{ "/reveal.js/plugin/zoom-js/zoom.js" | prepend: site.baseurl }}', async: true },
-          { src: '{{ "/reveal.js/plugin/notes/notes.js" | prepend: site.baseurl }}', async: true }
-        ]
+        plugins: [ RevealZoom, RevealNotes, RevealSearch, RevealMarkdown, RevealHighlight ]
       });
 
     </script>
