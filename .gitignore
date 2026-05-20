@@ -1,5 +1,6 @@
 _site/
 .jekyll-metadata
+.venv/
 node_modules
 .idea/
 .sass-cache/
