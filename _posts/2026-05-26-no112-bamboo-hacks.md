@@ -20,7 +20,7 @@ location: '[c-base](https://www.c-base.org)'
     - by [Kevin Veen-Birkenbach](https://github.com/kevinveenbirkenbach)
 3. [Hyperdrive](https://abd.ooo/hyperdrive)
     - by Abdo
-4. [Social Dist0rtion Protocol](https://www.dist0rtion.com/)
+4. [Social Dist0rtion Protocol](https://www.dist0rtion.com/)  **Hack of the Month**
     - by [Alberto Granzotto](https://www.granzotto.net/)
     - [Bürgeramt Simulator](https://github.com/social-dist0rtion-protocol/burgeramt-simulator) ([Demo](https://bs.dist0rtion.com/))
 5. [sublimated](https://sublimated.com/)
