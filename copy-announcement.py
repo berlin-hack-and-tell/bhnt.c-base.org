@@ -40,7 +40,8 @@ description: Slides for BHNT \#{no}
 <section data-background-size="contain" data-background="/assets/images/bhntflow.svg"></section>
 
 <section>
-<h2>Constraints §</h2>
+## 📖
+<h2>HowTo</h2>
 </section>
 
 <section data-markdown>
@@ -110,12 +111,12 @@ Edutain us
 <section data-markdown>
 ## Local Infrastructure:
 * wifi
- * SSID: c-base-public
- * pw: hacktheplanet
+  * SSID: c-base-public
+  * pw: hacktheplanet
 * emergency exits
 * consume
- * bar
- * replicators
+  * bar
+  * replicators
 * waste collection
 </section>
 
@@ -128,8 +129,8 @@ Edutain us
 * www: https://bhnt.c-base.org
 * md: https://md.c-base.org/bhnt-{no}
 * ATmosphere at://bhnt.c-base.org
- * BlueSky
- * SmokeSignal / OpenMeet
+  * BlueSky
+  * SmokeSignal / OpenMeet
 * matrix: #bhnt:c-base.org #BHNTNews:matrix.org
 * HashTag: #BHNT{no}
 * Mastodon: https://chaos.social/@BHNT
