@@ -39,9 +39,9 @@ description: Slides for BHNT \#{no}
 <section data-background-size="contain" data-background="/assets/images/{no}/logo.png"></section>
 <section data-background-size="contain" data-background="/assets/images/bhntflow.svg"></section>
 
-<section>
+<section data-markdown>
 ## 📖
-<h2>HowTo</h2>
+HowTo
 </section>
 
 <section data-markdown>
