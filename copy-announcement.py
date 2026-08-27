@@ -131,6 +131,7 @@ Edutain us
 * md: https://md.c-base.org/bhnt-{no}
 * ATmosphere at://bhnt.c-base.org
   * BlueSky
+  * grain.social
   * SmokeSignal / OpenMeet
 * matrix: #bhnt:c-base.org #BHNTNews:matrix.org
 * HashTag: #BHNT{no}
