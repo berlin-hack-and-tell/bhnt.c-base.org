@@ -57,14 +57,17 @@
           {% endif %}
           {% for slide in site.slides %}
             {% if slide.title == page.title %}
-                // <a href='{{ slide.url | relative_url }}'>[&nbsp;Slides&nbsp;]</a>
+                // <a href='{{ slide.url | relative_url }}'>Slides</a>
             {% endif %}
           {% endfor %}
+          {% if page.openmeetURL %}
+            // <a href='{{ page.openmeetUrl }}'>OpenMeet</a>
+          {% endif %}
           {% if page.meetupUrl %}
-            // <a href='{{ page.meetupUrl }}'>[&nbsp;Meetup&nbsp;]</a>
+            // <a href='{{ page.meetupUrl }}'>Meetup</a>
           {% endif %}
           {% if page.photosUrl %}
-            // <a href='{{ page.photosUrl }}'>[&nbsp;Photos&nbsp;]</a>
+            // <a href='{{ page.photosUrl }}'>Photos</a>
           {% endif %}
         </h3>
 

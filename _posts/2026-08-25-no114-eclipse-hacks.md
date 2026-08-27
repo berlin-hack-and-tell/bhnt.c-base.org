@@ -5,6 +5,7 @@ published: true
 date: 2026-08-25
 time: '19:00'
 location: '[c-base](https://www.c-base.org)'
+openmeet: bhnt-114-eclipse-hacks-4iwaww
 ---
 
 
