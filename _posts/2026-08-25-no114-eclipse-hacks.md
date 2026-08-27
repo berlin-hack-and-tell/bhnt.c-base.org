@@ -6,7 +6,7 @@ date: 2026-08-25
 time: '19:00'
 location: '[c-base](https://www.c-base.org)'
 photosUrl: https://grain.social/profile/did:plc:mho5wxz2wvccynomj7r2zxaz/gallery/3mtzefyrmtjvx
-openmeet: bhnt-114-eclipse-hacks-4iwaww
+openmeetUrl: https://platform.openmeet.net/events/bhnt-114-eclipse-hacks-4iwaww
 ---
 
 
