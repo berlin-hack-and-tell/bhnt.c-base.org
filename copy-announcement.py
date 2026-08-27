@@ -19,7 +19,7 @@ published: true
 date: {start:%Y-%m-%d}
 time: '{start:%H:%M}'
 location: '[c-base](https://www.c-base.org)'
-openmeetURL: {openmeet_rsvp_uri}
+openmeetUrl: {openmeet_rsvp_uri}
 ---
 
 Please [RSVP here]({openmeet_rsvp_uri})
