@@ -5,6 +5,7 @@ date: 2018-03-27 13:37:42 +0100
 time: '18:30'
 location: '[c-base](https://www.c-base.org)'
 meetupUrl: https://www.meetup.com/de-DE/Berlin-Hack-and-Tell/events/248929887/
+photosUrl: https://grain.social/profile/did:plc:mho5wxz2wvccynomj7r2zxaz/gallery/3muaccdivpt4d
 ---
 
 * [WhatsApp autoRespond bookmarklet](https://gist.github.com/embrilliant/f1c2670f027d466a0979f56a4a47bdb0) by [Emily](https://twitter.com/emilywudigital)

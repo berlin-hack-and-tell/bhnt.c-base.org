@@ -5,6 +5,7 @@ date: 2018-02-27 13:37:42 +0100
 time: '18:30'
 location: '[c-base](https://www.c-base.org)'
 meetupUrl: https://www.meetup.com/de-DE/Berlin-Hack-and-Tell/events/247993019/
+photosUrl: https://grain.social/profile/did:plc:mho5wxz2wvccynomj7r2zxaz/gallery/3muac6mqcmxq4
 ---
 
 * [Sebastian parschauer](https://github.com/sriemer) - [fix linux mouse](https://github.com/sriemer/fix-linux-mouse)
