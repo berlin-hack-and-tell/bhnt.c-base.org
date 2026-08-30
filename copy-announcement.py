@@ -130,9 +130,10 @@ Edutain us
 * www: https://bhnt.c-base.org
 * md: https://md.c-base.org/bhnt-{no}
 * ATmosphere at://bhnt.c-base.org
+  * SmokeSignal / OpenMeet
   * BlueSky
   * grain.social
-  * SmokeSignal / OpenMeet
+  * tangled
 * matrix: #bhnt:c-base.org #BHNTNews:matrix.org
 * HashTag: #BHNT{no}
 * Mastodon: https://chaos.social/@BHNT
