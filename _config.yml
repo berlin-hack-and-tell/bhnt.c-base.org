@@ -9,7 +9,7 @@ description: >
   
   Follow us on [BlueSky](https://bsky.app/profile/bhnt.c-base.org), [Mastodon](https://chaos.social/@BHNT) or [Matrix](https://matrix.to/#/#bhnt:c-base.org).
 
-url: https://berlinhackandtell.rocks
+url: https://bhnt.c-base.org
 logo: /assets/images/logo.png
 permalink: :year-:month-:day-:title
 paginate: 100  #enables pagination, sets entries per page
