@@ -8,8 +8,8 @@ location: '[c-base](https://www.c-base.org)'
 openmeetUrl: https://platform.openmeet.net/events/bhnt-115-pacing-hacks-zemjrg
 ---
 
-0. MateLight controls
-    - by abe
+0. [MateLight controls](https://code.c-base.org/abe/matelight-utilities)
+    - by [abe](https://code.c-base.org/abe)
     - MateLight Loop & Drawing Creator, MateLight VJ Performance Deck, MateLight Arcade
 1. ReviveCI
     - by [MrInformatic](https://github.com/mrinformatic)
