@@ -28,6 +28,6 @@ openmeetUrl: https://platform.openmeet.net/events/bhnt-116-model-c-tizens-hacks-
 6. [Linux driver for DJ controller](https://codeberg.org/eloi_mg/newmark-ns7ii)
    - by [eloi](https://codeberg.org/eloi_mg)
    - open-source Linux driver and Mixxx mapping for the Numark NS7 II DJ controller.
-7. c-base installation
+7. c-base installation **Hack of the Month**
    - by [excds](https://github.com/excds)
    - A installation where you can fly the c-base through the galaxy.
