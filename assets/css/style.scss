@@ -47,17 +47,17 @@ section#profiles {
 }
 
 nav.posts {
-font-size: 0.7em;
-display: block;
-width: auto;
-overflow: hidden;
+  font-size: 0.7em;
+  display: block;
+  width: auto;
+  overflow: hidden;
 }
 
 nav.posts a {
-display: block;
-width: 50%;
-float: left;
-margin: 1em 0;
+  display: block;
+  width: 50%;
+  float: left;
+  margin: 1em 0;
 }
 
 nav.posts a:link {
@@ -65,7 +65,7 @@ nav.posts a:link {
 }
 
 nav.posts .next {
-text-align: right;
+  text-align: right;
 }
 
 footer {
@@ -77,53 +77,174 @@ footer {
   text-align: center;
 }
 
+/* ==============================
+   Events Section (Table Style)
+   ============================== */
+
 .events {
   display: grid;
-  grid-gap: 10px;
-  grid-template-columns: repeat(auto-fill, minmax(190px, 1fr) ) ;
+  grid-gap: 0;
+  grid-template-columns: repeat(3, 1fr); /* fixed 3 columns, adjust as needed */
+  border: 1px dotted #b5e853; /* outer container border */
+  background: transparent;
 }
 
 .events .entry {
-  transition: background-color 1s ease;
-  background-color: #444;
+  background: transparent;
   color: #fff;
-  border-radius: 5px;
-  padding: 20px;
+  padding: 15px;
   font-size: 0.8em;
+  text-align: left;
+  transition: background-color 0.5s ease;
+  border-right: 1px dotted #b5e853;
+  border-bottom: 1px dotted #b5e853;
 }
 
-@keyframes pulse {
-  from {
-    transform: scale3d(1, 1, 1);
-  }
-
-  50% {
-    transform: scale3d(1.05, 1.05, 1.05);
-  }
-
-  to {
-    transform: scale3d(1, 1, 1);
-  }
+/* Remove right border on last column items */
+.events .entry:nth-child(3n) {
+  border-right: none;
 }
 
-.events .entry:hover,
-.events .entry:focus,
-.events .entry:active {
-    animation: pulse 1s;
-    background-color: #666;
+/* Remove bottom border on last row items */
+.events .entry:nth-last-child(-n + 3) {
+  border-bottom: none;
+}
+
+/* Hover effect */
+.events .entry:hover {
+  background-color: rgba(255, 255, 255, 0.05);
 }
 
 a.fill-div {
-    display: block;
-    height: 100%;
-    width: 100%;
-    text-decoration: none;
-    color: #b5e853;
-    cursor: pointer;
+  display: block;
+  height: 100%;
+  width: 100%;
+  text-decoration: none;
+  color: #b5e853;
+  cursor: pointer;
 }
 
 .events .entry .metadata {
   font-size: 0.7em;
-  text-align: center;
-  color: white;
+  text-align: left;
+  color: #b5e853;
+  margin-top: 0.5em;
+}
+
+.events-container {
+  position: relative;
+}
+
+.fun-images {
+  display: flex;
+  align-items: flex-end;
+  gap: 10px; /* space between SVGs */
+}
+
+.fun-images svg {
+  cursor: pointer;
+}
+
+/* Little man arm animation */
+.fun-images .left-arm,
+.fun-images .right-arm {
+  transform-origin: 12px 8px; /* shoulder pivot */
+  transition: transform 0.2s ease;
+}
+
+.fun-images .walker:hover .left-arm {
+  transform: rotate(-20deg);
+}
+
+.fun-images .walker:hover .right-arm {
+  transform: rotate(20deg);
+}
+
+.fun-images .walker, .fun-images .computer, .fun-images .christmas-tree {
+  width: 20px;
+  height: 20px;
+  margin-right: -15px;
+}
+
+.fun-images .walker{
+  width: 22px;
+  height: 22px;
+  margin-bottom: -4px;
+  margin-left: -2px;
+}
+
+.fun-images .walker line {
+  transform-origin: 12px 8px; /* pivot at shoulder for arms */
+  transition: transform 0.2s ease;
+}
+
+/* only arms rotate */
+.fun-images .walker .left-arm:hover {
+  transform: rotate(20deg); /* lift left arm slightly */
+}
+
+.fun-images .walker .right-arm:hover {
+  transform: rotate(-20deg);  /* lift right arm slightly */
+}
+
+/* optional: rotate both arms when hovering over entire SVG */
+.fun-images .walker:hover .left-arm {
+  transform: rotate(20deg);
+}
+
+.fun-images .walker:hover .right-arm {
+  transform: rotate(-20deg);
+}
+
+.fun-images .christmas-tree {
+  cursor: pointer;
+  margin-bottom: 2px;
+}
+.fun-images .branch {
+  transition: transform 0.3s ease;
+}
+
+/* Each tier of branches pivots at its connection point */
+.fun-images .branch:nth-child(3),
+.fun-images .branch:nth-child(4) {
+  transform-origin: 40px 15px;
+}
+
+.fun-images .branch:nth-child(5),
+.fun-images .branch:nth-child(6) {
+  transform-origin: 40px 28px;
+}
+
+.fun-images .branch:nth-child(7),
+.fun-images .branch:nth-child(8) {
+  transform-origin: 40px 41px;
+}
+
+.fun-images .branch:nth-child(9),
+.fun-images .branch:nth-child(10) {
+  transform-origin: 40px 54px;
+}
+
+.fun-images .branch:nth-child(11),
+.fun-images .branch:nth-child(12) {
+  transform-origin: 40px 67px;
+}
+
+.fun-images .christmas-tree:hover .branch {
+  transform: rotate(-8deg);
+}
+.fun-images .christmas-tree:hover .branch:nth-child(even) {
+  transform: rotate(8deg);
+}
+
+.fun-images .computer {
+  cursor: pointer;
+}
+
+.fun-images .computer .screen-text {
+  transition: opacity 0.3s ease;
+}
+
+.fun-images .computer:hover .screen-text {
+  opacity: 1;
 }
